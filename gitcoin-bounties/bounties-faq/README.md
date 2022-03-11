@@ -1,0 +1,2 @@
+# Bounties FAQ
+

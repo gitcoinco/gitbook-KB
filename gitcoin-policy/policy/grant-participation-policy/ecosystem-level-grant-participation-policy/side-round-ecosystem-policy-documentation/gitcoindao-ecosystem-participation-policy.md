@@ -1,0 +1,2 @@
+# GitcoinDAO Ecosystem Participation Policy
+

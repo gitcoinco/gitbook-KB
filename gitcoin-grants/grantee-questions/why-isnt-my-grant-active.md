@@ -1,8 +1,8 @@
-# Why isn't my grant active?
+# 🤔 Why isn't my Grant active?
 
 Any user can [create a new grant](https://gitcoin.co/grants/new). This grant is visible on the platform via a direct link, but not visible when exploring or searching, and also not active in the matching pools. It needs to be approved first.
 
-The [Anti-Fraud & Collusion workstream](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158/11) of GitcoinDAO has a sub-stream called Grant Verifications. The community members & stewards review each grant, then approve or deny it based on the policy outlined below.
+The [Fraud Detection and Defense workstream](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158)[ ](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158/11)of GitcoinDAO has a sub-stream called Grant Verifications. The community members & stewards review each grant, then approve or deny it based on the policy outlined below.
 
 A list of all the grants, their approval stage, and comments from reviewers can be found here: [Public Grant Approval Oversight](https://www.notion.so/gitcoin/Public-Grant-Approval-Oversight-Page-af7e9caa25b5478b901df5ac78349c4b)
 
@@ -11,17 +11,17 @@ A list of all the grants, their approval stage, and comments from reviewers can 
 * Process of approval - How grants are reviewed
 * Levels of approval - Inclusion and exclusion in matching pools
 * Participation Policy - What is allowed
-* Recourse for denied grants - How to
+* Recourse for denied grants - How to appeal
 
 **Process of approval**
 
-New grants usually takes 1-2 days for a response. Multiple Gitcoin reviewers investigate the grant, the team, the documentation and asses whether it fits within Gitcoin policy & norms.
+New grants usually takes 1-2 days for a response. Multiple Gitcoin reviewers investigate the grant, the team, the documentation and assess whether it fits within Gitcoin's policy & norms.
 
 ![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/06-30/75d4d00d-7ffd-4a75-be11-49b5b609cacf/Twitter\_post\_-\_2\_1.png)
 
 This is how this process most commonly transpires:
 
-1. Grant is put in que
+1. Grant is put in the queue
 2. Reviewers comment on relevant items
 3. Grant Verification sub-stream lead makes a decision
 4. Reviewers confirm and document decision
@@ -33,13 +33,13 @@ The policy is set at the highest level through our stewards in a process similar
 
 The judge makes a determination based on the current policy. Some of these decisions lay in ambiguous areas. The novel decisions need to be made quickly. Therefore, the judgement creates a new precedent for novel situations.
 
-Each round the stewards then ratify the decisions made. This act following the round "Governance Brief" signals the community's agreement with the decisions made.
+Each round the stewards then ratifies the decisions made. This act following the round "Governance Brief" signals the community's agreement with the decisions made.
 
 For each new policy precedent, the Anti-Fraud & Collusion workstream will define parameters and present the updated policy for ratification prior to the next round of matching.
 
 **Levels of approval**
 
-Approval & denial happens at multiple levels. Each has their own sets of rules for what can and can't participate in matching.
+Approval & denial happens at multiple levels. Each has its own sets of rules for what can and can't participate in matching.
 
 **PLATFORM**
 
@@ -107,6 +107,6 @@ Let us know about your situation in the [appeals-sanctions channel on Discord.](
 
 This is a rough diagram of the appeal process. The staking amount is still to be determined and will be updated at that time. Stake is needed to deter spam.
 
-Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization.  This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new.  The new process is designed to improve upon the previous process and can be found  in the _Policy_ section, under [_Appeals_](https://app.gitbook.com/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-policy/policy/appeals), at the bottom of the scroll-menu on the left.  The new process is a work-in-progress.
+Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization. This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new. The new process is designed to improve upon the previous process and can be found in the _Policy_ section, under [_Appeals_](https://app.gitbook.com/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-policy/policy/appeals), at the bottom of the scroll-menu on the left. The new process is a work-in-progress.
 
 ![](../../.gitbook/assets/image.png)

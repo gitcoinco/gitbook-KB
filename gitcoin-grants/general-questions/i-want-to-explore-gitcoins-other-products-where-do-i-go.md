@@ -1,14 +1,5 @@
-# I want to explore Gitcoin's other products, where do I go?
+# 📚 What are Gitcoin's other products?
 
-**Introduce yourself on:**
-
-{% embed url="https://gitcoin.co/chat" %}
-
-{% embed url="https://gitcoin.co/townsquare" %}
-
-**Also checkout:**
+Other than Gitcoin Grants, Gitcoin has many successful products helping to push forward public goods funding and Web3. You can see a full list of Gitcoin's products at [gitcoin.co/products](https://gitcoin.co/products).
 
 {% embed url="https://gitcoin.co/products" %}
-
-
-

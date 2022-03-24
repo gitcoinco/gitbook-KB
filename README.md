@@ -8,12 +8,14 @@ description: >-
 
 ### Mission First
 
-The first thing to know about Gitcoin is that we are mission first. [Our mission](https://gitcoin.co/mission) is to build and fund digital public goods. We believe that Open Source Software is a digital public good that creates $400bn/year in value, but that creators of OSS don’t have great ways to monetize their work on this digital infrastructure. Our goal is to correct this asymmetry
+The first thing to know about Gitcoin is that we are mission first. [Our mission](https://gitcoin.co/mission) is to build and fund digital public goods. We believe that open-source software is a digital public good that creates $400bn/year in value, but that creators of OSS don’t have great ways to monetize their work on this digital infrastructure. Our goal is to correct this asymmetry
 
-### How we support our mission.
+### How we support our mission
 
-Gitcoin is community first, and our software products a double sided market that connects digital creatives to the people who want to fund their work.\
-And visa versa. So far [we’ve created $35mm worth of funding for OSS devs](https://gitcoin.co/results).\
+Gitcoin is a community first, and our software products a double-sided market that connects digital creatives to the people who want to fund their work.\
+And visa versa. So far [we’ve created $35mm worth of funding for OSS devs](https://gitcoin.co/results).
+
+\
 Specifically, the way we do that is:
 
 1. Giving members opportunities to [earn](https://gitcoin.co/earn).
@@ -25,7 +27,7 @@ Specifically, the way we do that is:
 1. [Bounties](https://gitcoin.co/bounties/contributor) - gig-based work for web3 projects.
 2. [Hackathons](https://gitcoin.co/hackathons) - Build w the coolest web3 projects.
 3. [Grants](https://gitcoin.co/grants) - Crowdfunding for Open Source.
-4. [KERNEL](http://kernel.community) - A web3-native, community centric accelerator.
+4. [KERNEL](http://kernel.community) - A web3-native, community-centric accelerator.
 5. [tip.party](https://tip.party) - a small, modular tool for engaging people for showing up.
 6. [Quadratic Diplomacy](https://quadraticdiplomacy.com) - a decentralized tool for engaging contributors.
 
@@ -55,12 +57,12 @@ If you want to learn more about the GitcoinDAO, read this post [here](https://go
 
 Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event - a combination Gitcoin Grants round, Hackathon, and KERNEL block - where millions of \$$$ of funding are deployed to the community. Typically a quarter looks like this:
 
-1. Plan for quarterly stacked event.
-2. Execute quarterly stacked event.
-3. Learn from the quarterly stacked event.
+1. Plan for the quarterly stacked event
+2. Execute the quarterly stacked event
+3. Learn from the quarterly stacked event
 4. Repeat
 
-The next quarterly event is GR12 starting in December 2021.
+The next quarterly event is GR14, starting in Q2 2022.
 
 ### DAO KPIs
 

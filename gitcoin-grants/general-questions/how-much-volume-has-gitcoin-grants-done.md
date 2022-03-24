@@ -1,6 +1,3 @@
-# How much volume has Gitcoin Grants done?
+# 🎉 How much volume has Gitcoin Grants done?
 
 {% embed url="https://gitcoin.co/results" %}
-
-
-

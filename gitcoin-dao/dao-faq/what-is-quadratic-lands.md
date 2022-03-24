@@ -1,4 +1,4 @@
-# What is Quadratic Lands?
+# 📚 What are the Quadratic Lands?
 
 Quadratic Lands is the destination we hope to bring the world to:
 
@@ -8,4 +8,3 @@ Quadratic Lands is the destination we hope to bring the world to:
 4. Because of the composability of blockchain-based systems, the surface area of opportunity will exponentially grow as the tools compound upon each other.
 
 We long to see the Quadratic Lands. Let’s go there together!
-

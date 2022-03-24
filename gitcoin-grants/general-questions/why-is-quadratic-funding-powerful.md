@@ -1,4 +1,4 @@
-# Why is Quadratic funding powerful?
+# 🤖 Why is Quadratic funding powerful?
 
 The QF Mechanism measures the breadth of contributors, not the depth of contributions - which is a very democratic funding model.
 

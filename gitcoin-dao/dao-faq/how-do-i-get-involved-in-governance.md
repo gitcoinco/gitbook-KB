@@ -1,15 +1,9 @@
-# How do I get involved in governance?
+# 🏢 How do I get involved in Gitcoin governance?
 
-Join [Discord](http://discord.gg/gitcoin) to engage with the community!
+### How to get involved
 
-If you have tokens, delegate them to a community Steward or to yourself if you wish to participate as a Steward.
-
-Discuss governance proposals on our governance forum [gov.gitcoin.co](https://gov.gitcoin.co):
-
-{% embed url="https://gov.gitcoin.co" %}
-
-Vote on [Snapshot](https://snapshot.org/#/gitcoin), or [Tally](https://www.withtally.com/governance/gitcoin):
-
-{% embed url="https://snapshot.org/#/gitcoin" %}
-
-{% embed url="https://www.withtally.com/governance/gitcoin" %}
+* Join [Gitcoin Discord](http://discord.gg/gitcoin) to engage with the community!
+* If you have tokens, delegate them to a community Steward or to yourself if you wish to participate as a Steward.
+* Discuss governance proposals on [the Gitcoin governance forum](https://gov.gitcoin.co)
+* Vote on [Snapshot](https://snapshot.org/#/gitcoin)
+* Vote on [Tally](https://www.withtally.com/governance/gitcoin)

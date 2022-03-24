@@ -1,8 +1,5 @@
-# I see a bug or I've got a question, what do I do?
+# 🤨 I see a bug or I've got a question, what do I do?
 
-**Open up a Github issue at:**
+If you have a question please check the Gitcoin knowledge base first to see if it is already answered.
 
-{% embed url="https://github.com/gitcoinco/web/issues/new/choose" %}
-
-
-
+If not, or you'd like to report a bug, you can [join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://support.gitcoin.co/new/).

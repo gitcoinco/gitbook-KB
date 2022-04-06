@@ -1,34 +1,7 @@
 # Table of contents
 
-* [Welcome to Gitcoin](README.md)
-
-## Gitcoin DAO
-
-* [DAO FAQ](gitcoin-dao/dao-faq/README.md)
-  * [📚 What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
-  * [📚 What are the Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
-  * [📚 Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
-  * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
-  * [🏢 What are governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
-  * [🏢 What is the Gitcoin Stewards Delegation Program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
-  * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
-  * [🏢 Where does governance happen?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
-  * [🏢 How do I get involved in Gitcoin governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
-
-## Gitcoin Token
-
-* [GTC FAQ](gitcoin-token/gtc-faq/README.md)
-  * [📚 Why is Gitcoin launching a token?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
-  * [📚 What is the address of GTC?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
-  * [📚 What is the GTC Issuance?](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
-  * [📚 What types of things can the community govern with GTC?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
-  * [✈ How can I claim my GTC?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
-  * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
-  * [🧙♂ What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
-  * [💁 I missed the GTC token claim, what happens next?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
-  * [💁 Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
+* [Welcome to Gitcoin support](README.md)
+* [What is Gitcoin?](<README (1).md>)
 
 ## Gitcoin Grants
 
@@ -38,6 +11,7 @@
   * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
   * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
   * [📚 What are Gitcoin's other products?](gitcoin-grants/general-questions/i-want-to-explore-gitcoins-other-products-where-do-i-go.md)
+  * [📚 Why can't access my Gitcoin account?](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
   * [🤖 What is Quadratic funding?](gitcoin-grants/general-questions/whats-quadratic-funding.md)
   * [🤖 Why is Quadratic funding powerful?](gitcoin-grants/general-questions/why-is-quadratic-funding-powerful.md)
   * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)
@@ -67,12 +41,40 @@
   * [How do I get started with Bounties](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [How do I submit work?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
+## Gitcoin DAO
+
+* [DAO FAQ](gitcoin-dao/dao-faq/README.md)
+  * [📚 What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
+  * [📚 What are the Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
+  * [📚 Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
+  * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
+  * [🏢 What are governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
+  * [🏢 What is the Gitcoin Stewards Delegation Program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
+  * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
+  * [🏢 Where does governance happen?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
+  * [🏢 How do I get involved in Gitcoin governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
+
 ## Gitcoin Quests
 
 * [Quests FAQ](gitcoin-quests/quests-faq/README.md)
   * [How do I mint a kudo?](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
   * [How do I use kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
   * [Why can't I access my account?](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
+
+## Gitcoin Token
+
+* [GTC FAQ](gitcoin-token/gtc-faq/README.md)
+  * [📚 Why is Gitcoin launching a token?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
+  * [📚 What is the address of GTC?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
+  * [📚 What is the GTC Issuance?](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
+  * [📚 What types of things can the community govern with GTC?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
+  * [✈ How can I claim my GTC?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
+  * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+  * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
+  * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
+  * [🧙♂ What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
+  * [💁 I missed the GTC token claim, what happens next?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
+  * [💁 Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 
 ## Gitcoin Policy
 

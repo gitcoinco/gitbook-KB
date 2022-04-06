@@ -24,6 +24,10 @@ We've curated a collection of the most commonly asked general questions about Gi
 [i-want-to-explore-gitcoins-other-products-where-do-i-go.md](i-want-to-explore-gitcoins-other-products-where-do-i-go.md)
 {% endcontent-ref %}
 
+{% content-ref url="why-cant-access-my-gitcoin-account.md" %}
+[why-cant-access-my-gitcoin-account.md](why-cant-access-my-gitcoin-account.md)
+{% endcontent-ref %}
+
 
 
 ### Technical questions

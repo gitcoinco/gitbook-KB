@@ -1,18 +1,10 @@
 # 📚 Why aren't my contributions showing on my profile?
 
-asdasdasdas
-
-
-
-
-
-
-
 You can add any missing contributions using this form:
 
 [https://gitcoin.co/grants/add-missing-contributions](https://gitcoin.co/grants/add-missing-contributions)
 
-**Attention:** Make sure you connected your wallet to the Ethereum main net with the same address you used to checkout.
+**Attention:** Make sure you have connected your wallet to the same network and address you used to checkout.
 
 If you donated using Ethereum Layer 1, please enter the transaction hash.
 

@@ -73,6 +73,7 @@
   * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
   * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [🧙♂ What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
+  * [🧙♂ How do I delegate my GTC?](gitcoin-token/gtc-faq/how-do-i-delegate-my-gtc.md)
   * [💁 I missed the GTC token claim, what happens next?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
   * [💁 Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 

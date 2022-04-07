@@ -44,6 +44,10 @@ We've curated a collection of the most commonly asked general questions about ho
 
 ### Delegating your GTC
 
+{% content-ref url="how-do-i-delegate-my-gtc.md" %}
+[how-do-i-delegate-my-gtc.md](how-do-i-delegate-my-gtc.md)
+{% endcontent-ref %}
+
 {% content-ref url="what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md" %}
 [what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md](what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
 {% endcontent-ref %}

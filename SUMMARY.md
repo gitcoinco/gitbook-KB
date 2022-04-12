@@ -38,6 +38,7 @@
 
 ## Gitcoin Bounties
 
+* [Bounty Guidelines](gitcoin-bounties/bounty-guidelines.md)
 * [Bounties FAQ](gitcoin-bounties/bounties-faq/README.md)
   * [How do I get started with Bounties](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [How do I submit work?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)

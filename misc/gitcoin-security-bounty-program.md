@@ -1,3 +1,7 @@
+---
+description: Guidelines, scope, and payouts of the Gitcoin Security Bounty Program.
+---
+
 # Gitcoin Security Bounty Program
 
 Gitcoin is an open-source marketplace with our code available for inspection and research. If you discover a severe bug affecting our users' privacy, data, or security, we ask that you disclose it responsibly and privately. For security-related vulnerabilities, we reward researchers for private and professional disclosure.
@@ -12,7 +16,7 @@ Participating in our security bounty program requires you to follow our guidelin
 * Don't cause a denial of service on our platform through exploits, vulnerabilities, traffic, or causing issues with our technology providers.
 * Don't repeatedly request updates on your reports. Gitcoin is a small team, and constant requests for updates can render your report ineligible. Allow us up to 7 days to respond to your emails.
 * Do only use your own account to test issues in production. You can also download our open source code and run your own instance to research and test for vulnerabilities.
-* Social engineering attacks, DDOS, physical access, spearfishing, etc. are not eligible.
+* Social engineering attacks, DDOS, physical access, spearfishing, etc., are not eligible.
 * Payouts will be made to the first individuals who submit a report.
 
 The Gitcoin team has the final say in all determinations of bounty payouts, including severity, classification, amount, whether the report falls under our guidelines, etc.

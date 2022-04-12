@@ -142,7 +142,6 @@
     * [Appeal Process - Stage 1](gitcoin-policy/policy/appeals/appeal-process-stage-1.md)
     * [Appeal Process - Stage 2](gitcoin-policy/policy/appeals/appeal-process-stage-2.md)
 
-## Miscellaneous
+## Misc
 
-* [Miscellaneous items](miscellaneous/miscellaneous-items/README.md)
-  * [Gitcoin Security Bounty Program](miscellaneous/miscellaneous-items/gitcoin-security-bounty-program.md)
+* [Gitcoin Security Bounty Program](misc/gitcoin-security-bounty-program.md)

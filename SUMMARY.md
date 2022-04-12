@@ -141,3 +141,8 @@
     * [GitcoinDAO Appeal Group Qualifications](gitcoin-policy/policy/appeals/gitcoindao-appeal-group-qualifications.md)
     * [Appeal Process - Stage 1](gitcoin-policy/policy/appeals/appeal-process-stage-1.md)
     * [Appeal Process - Stage 2](gitcoin-policy/policy/appeals/appeal-process-stage-2.md)
+
+## Miscellaneous
+
+* [Miscellaneous items](miscellaneous/miscellaneous-items.md)
+* [Gitcoin Security Bounty Program](miscellaneous/gitcoin-security-bounty-program.md)

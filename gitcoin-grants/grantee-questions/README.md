@@ -24,6 +24,10 @@ We've curated a collection of the most commonly asked questions from grantees. D
 [i-forgot-to-update-my-grant-from-a-previous-round.-can-i-get-funding.md](i-forgot-to-update-my-grant-from-a-previous-round.-can-i-get-funding.md)
 {% endcontent-ref %}
 
+{% content-ref url="why-have-my-grants-tags-been-removed.md" %}
+[why-have-my-grants-tags-been-removed.md](why-have-my-grants-tags-been-removed.md)
+{% endcontent-ref %}
+
 
 
 ### Matching amounts

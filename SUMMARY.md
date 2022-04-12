@@ -144,5 +144,5 @@
 
 ## Miscellaneous
 
-* [Miscellaneous items](miscellaneous/miscellaneous-items.md)
-* [Gitcoin Security Bounty Program](miscellaneous/gitcoin-security-bounty-program.md)
+* [Miscellaneous items](miscellaneous/miscellaneous-items/README.md)
+  * [Gitcoin Security Bounty Program](miscellaneous/miscellaneous-items/gitcoin-security-bounty-program.md)

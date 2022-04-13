@@ -12,16 +12,17 @@ Gitcoin utilises browser caching to enhance. However, on rare occasions, browser
 
 ### Step 2: Email support
 
-If clearing your browser cache did not work you can email Gitcoin support at [support@gitcoin.co](mailto:support@gitcoin.co) to investigate the issue.
+If clearing your browser cache did not work, you can email Gitcoin support at [support@gitcoin.co](mailto:support@gitcoin.co) to investigate the issue.
 
 #### The information we require
 
 In your email to [support@gitcoin.co](mailto:support@gitcoin.co), please include the following information:
 
 * Your **Gitcoin** username
-* Your **GitHub** username
+* The email associated with your **GitHub** account
+* A description of what you are trying to do (e.g. trying to log in, trying to access a specific page)
 * A description of the error&#x20;
-* If possible, a screenshot of the error&#x20;
+* If possible, a screenshot of the error and browser's console logs.
 
 _Requests without the required information may take a long time to process due to the volume of enquiries we receive._
 

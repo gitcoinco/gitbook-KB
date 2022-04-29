@@ -4,10 +4,9 @@ description: The basic steps required in an appeal.
 
 # Appeal Process - Stage 1
 
-1. Find a Steward who supports your position.  They will take your appeal and evidence to a Steward vote.  If you are unable to find a supportive Steward proceed to the next steps. &#x20;
-2. Complete the Gitcoin Appeal form here: [https://forms.gle/t1yfwZYfBNJBshxT7](https://forms.gle/t1yfwZYfBNJBshxT7)
-3. Declare intention to appeal by emailing GitcoinGrantsAppeals@gmail.com.  Also explain why your grant was denied, and why you believe it should be approved.  If your case is strong it is possible a Steward from within the FDD group will support your appeal, and take your case to a Steward vote.
-4. If your case is not deemed strong enough to appeal you will be notified by email from the Gitcoin FDD.
-5. When contacted, provide the necessary information.
-6. Gitcoin Stewards will consider the case, vote and contact you with the result.  Note, the results will also get posted in our public repository where we share all grant approvals and disputes.
-7. Gitcoin Appeals encourages all denied applicants to apply again after appropriate revisions or with new projects.
+1. Declare your intention to appeal by emailing GitcoinGrantsAppeals@gmail.com and/or notifying [Gitcoin Support on the Gitcoin Discord Server](https://discord.gg/YHAZXSqDvv).  Include the transaction number from step 2.
+2. Deposit $15 USD-equivalent to a Polygon Gnosis multi-sig account under the control of FDD Policy group. Address: 0x23Ec1eDd39A6f69862FE8F705363F21da0A96096  Include the transaction number in the step 1. notification.
+3. Submit a written statement explaining why you believe the grant should be eligible.  Also submit any supporting evidence and/or other relevant information.  Send the information to the email address in step 1.
+4. After a review and potential follow-up questions the GDAG will vote.  The Appellant will be the first person notified about the result after Gitcoin departments.
+5. GDAG refunds staked funds to Appellant if the appeal was successful. If the appeal is denied the staked funds are not returned.&#x20;
+

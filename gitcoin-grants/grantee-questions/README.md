@@ -48,6 +48,10 @@ We've curated a collection of the most commonly asked questions from grantees. D
 [how-can-i-withdraw-my-funds-from-zksync.md](how-can-i-withdraw-my-funds-from-zksync.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-can-i-withdraw-my-funds-from-polygon.md" %}
+[how-can-i-withdraw-my-funds-from-polygon.md](how-can-i-withdraw-my-funds-from-polygon.md)
+{% endcontent-ref %}
+
 
 
 ### General questions

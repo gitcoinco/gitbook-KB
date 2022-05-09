@@ -1,3 +1,9 @@
+---
+description: >-
+  Withdrawing funds from zkSync differs depending on the type of wallet you
+  have.
+---
+
 # 🏧 How can I withdraw my funds from zkSync?
 
 ### Withdraw funds from a regular account

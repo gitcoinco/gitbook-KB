@@ -109,4 +109,4 @@ This is a rough diagram of the appeal process. The staking amount is still to be
 
 Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization. This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new. The new process is designed to improve upon the previous process and can be found in the _Policy_ section, under [_Appeals_](https://app.gitbook.com/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-policy/policy/appeals), at the bottom of the scroll-menu on the left. The new process is a work-in-progress.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)

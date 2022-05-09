@@ -31,6 +31,7 @@
   * [💰 Why isn't my matching amount updating?](gitcoin-grants/grantee-questions/why-isnt-the-match-amount-updating.md)
   * [💰 Why is my estimated matching is different from Grants with similar contributors?](gitcoin-grants/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md)
   * [🏧 How can I withdraw my funds from zkSync?](gitcoin-grants/grantee-questions/how-can-i-withdraw-my-funds-from-zksync.md)
+  * [🏧 How can I withdraw my funds from Polygon?](gitcoin-grants/grantee-questions/how-can-i-withdraw-my-funds-from-polygon.md)
   * [📚 How do I update my Grant's wallet address?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-wallet-address.md)
   * [📚 How do I update my Grant's tags?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-tags.md)
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)

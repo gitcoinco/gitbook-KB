@@ -7,6 +7,7 @@
 
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
 * [General questions](gitcoin-grants/general-questions/README.md)
+  * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
   * [📚 What is the scope of Gitcoin Grants?](gitcoin-grants/general-questions/what-is-the-scope-of-gitcoin-grants.md)
   * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
   * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
@@ -51,7 +52,7 @@
   * [📚 What are the Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
   * [📚 Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
   * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
-  * [🏢 What are governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
+  * [🏢 What are the governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
   * [🏢 What is the Gitcoin Stewards Delegation Program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
   * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
   * [🏢 Where does governance happen?](gitcoin-dao/dao-faq/where-does-governance-happen.md)

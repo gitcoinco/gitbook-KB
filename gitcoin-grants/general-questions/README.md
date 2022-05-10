@@ -8,6 +8,10 @@ We've curated a collection of the most commonly asked general questions about Gi
 
 ### General
 
+{% content-ref url="when-is-the-next-grants-round.md" %}
+[when-is-the-next-grants-round.md](when-is-the-next-grants-round.md)
+{% endcontent-ref %}
+
 {% content-ref url="what-is-the-scope-of-gitcoin-grants.md" %}
 [what-is-the-scope-of-gitcoin-grants.md](what-is-the-scope-of-gitcoin-grants.md)
 {% endcontent-ref %}

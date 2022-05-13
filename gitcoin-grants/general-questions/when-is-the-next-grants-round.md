@@ -9,8 +9,10 @@ Gitcoin Grants Rounds operate on a quarterly cadence. The next Grants Round, GR1
 ## Upcoming Grants Rounds
 
 * GR14: June 8-23, 2022
-* GR15: September 7-22, 2022
-* GR16: December 1-15, 2022
+* GR15: September 7-22, 2022\*
+* GR16: December 1-15, 2022\*
+
+_\*These dates are provisional and may change._
 
 ## Previous Grants Rounds
 

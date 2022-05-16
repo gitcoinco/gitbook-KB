@@ -90,7 +90,7 @@ In this situation, the policy for the round would be ratified by the individual,
 
 Any subset of grants on the platform is a collection. Any user can make a collection. Participation for their collection in an ecosystem | round would be determined by that ecosystem | round. Uniquely funding a collection is encouraged, but has stipulations. For Gitcoin's Grant Rounds, to fund a collection there is a request to also fund the matching pool for all Grants at the same time. For example, if I want to build a collection for "Owocki's Fav Grants" and put a $15K matching fund together for that collection, Gitcoin has requested there is an equal $15K donated to the "main" matching pool to ensure the sustainability of the matching pool for all eligible ecosystem grants.
 
-**Recourse for denied grants**
+**Appeal recourse for denied grants**
 
 If a grant is denied, there is a chance that one of two things have happened.
 
@@ -101,12 +101,10 @@ In the first situation, you will need evidence showing that the decision is made
 
 For the second, you will need to clearly articulate your case.
 
-To get the process started you will need a steward who will back up your claim. You can ask for one in the discord, but DO NOT send them a dm! (This could get you banned from the server)
-
-Let us know about your situation in the [appeals-sanctions channel on Discord.](https://discord.gg/YHAZXSqDvv)
-
-This is a rough diagram of the appeal process. The staking amount is still to be determined and will be updated at that time. Stake is needed to deter spam.
-
-Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization. This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new. The new process is designed to improve upon the previous process and can be found in the _Policy_ section, under [_Appeals_](https://app.gitbook.com/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-policy/policy/appeals), at the bottom of the scroll-menu on the left. The new process is a work-in-progress.
-
-![](<../../.gitbook/assets/image (1).png>)
+1. Find a Steward who supports your position.  They will take your appeal and evidence to a Steward vote.  If you are unable to find a supportive Steward proceed to the next steps. &#x20;
+2. Complete the Gitcoin Appeal form here: [https://forms.gle/t1yfwZYfBNJBshxT7](https://forms.gle/t1yfwZYfBNJBshxT7)
+3. Explain why your grant was denied, and why you believe it should be approved.  If your case is strong it is possible a Steward from within the FDD group will support your appeal, and take your case to a Steward vote.
+4. If your case is not deemed strong enough to appeal you will be notified by email from the Gitcoin FDD.
+5. When contacted, provide the necessary information.
+6. Gitcoin Stewards will consider the case, vote and contact you with the result.  Note, the results will also get posted in our public repository where we share all grant approvals and disputes.
+7. Gitcoin Appeals encourages all denied applicants to apply again after appropriate revisions, as a new project.

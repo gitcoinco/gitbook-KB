@@ -4,7 +4,7 @@ As part of the Gitcoin token launch on May 25, 2021, GTC was allocated to people
 
 At the time of token launch (5/25/2021), there are three different ways to see/know if you are eligible for the airdrop.
 
-1. The [Gitcoin.co](https://gitcoin.co) landing page will show that you have a claim available in the banner.
+1. The [Gitcoin.co](https://gitcoin.co/) landing page will show that you have a claim available in the banner.
 2. You will see a message on the [Quadratic Lands Mission](http://gitcoin.co/quadraticlands/mission) page:
 
 > Complete all 3 missions to receive your tokens.

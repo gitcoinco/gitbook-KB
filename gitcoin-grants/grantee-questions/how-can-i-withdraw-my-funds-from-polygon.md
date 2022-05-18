@@ -44,4 +44,4 @@ Please note that you'll need ETH on Ethereum Mainnet to withdraw from the Polygo
 
 ![Transfer in progress on Polygon](../../.gitbook/assets/image.png)
 
-9\. Confirm your withdrawal was successful [using Etherscan](https://etherscan.io).
+9\. Confirm your withdrawal was successful [using Etherscan](https://etherscan.io/).

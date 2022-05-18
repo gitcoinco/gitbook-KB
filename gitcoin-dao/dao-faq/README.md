@@ -40,15 +40,13 @@ We've curated a collection of the most commonly asked general questions about ho
 [who-chooses-stewards.md](who-chooses-stewards.md)
 {% endcontent-ref %}
 
-{% content-ref url="where-does-governance-happen.md" %}
-[where-does-governance-happen.md](where-does-governance-happen.md)
-{% endcontent-ref %}
-
 {% content-ref url="how-do-i-get-involved-in-governance.md" %}
 [how-do-i-get-involved-in-governance.md](how-do-i-get-involved-in-governance.md)
 {% endcontent-ref %}
 
-###
+{% content-ref url="how-do-i-become-a-gitcoin-steward.md" %}
+[how-do-i-become-a-gitcoin-steward.md](how-do-i-become-a-gitcoin-steward.md)
+{% endcontent-ref %}
 
 ### Did we answer your question?
 

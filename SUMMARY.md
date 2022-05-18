@@ -6,21 +6,6 @@
 ## Gitcoin Grants
 
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
-* [General questions](gitcoin-grants/general-questions/README.md)
-  * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
-  * [📚 What is the scope of Gitcoin Grants?](gitcoin-grants/general-questions/what-is-the-scope-of-gitcoin-grants.md)
-  * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
-  * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
-  * [📚 What are Gitcoin's other products?](gitcoin-grants/general-questions/i-want-to-explore-gitcoins-other-products-where-do-i-go.md)
-  * [📚 Why can't access my Gitcoin account?](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
-  * [🤖 What is Quadratic funding?](gitcoin-grants/general-questions/whats-quadratic-funding.md)
-  * [🤖 Why is Quadratic funding powerful?](gitcoin-grants/general-questions/why-is-quadratic-funding-powerful.md)
-  * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)
-  * [🤖 Can a programmer build on top of Gitcoin Grants?](gitcoin-grants/general-questions/im-a-programmer-who-wants-to-build-on-gitcoin-grants-where-do-i-start.md)
-  * [🤨 I see a bug or I've got a question, what do I do?](gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
-  * [🤨 I see a Grant that I don't like, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
-  * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
-  * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 * [Contributor questions](gitcoin-grants/contributor-questions/README.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Grantee questions](gitcoin-grants/grantee-questions/README.md)
@@ -37,6 +22,21 @@
   * [📚 How do I update my Grant's tags?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-tags.md)
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
+* [General questions](gitcoin-grants/general-questions/README.md)
+  * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
+  * [📚 What is the scope of Gitcoin Grants?](gitcoin-grants/general-questions/what-is-the-scope-of-gitcoin-grants.md)
+  * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
+  * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
+  * [📚 What are Gitcoin's other products?](gitcoin-grants/general-questions/i-want-to-explore-gitcoins-other-products-where-do-i-go.md)
+  * [📚 Why can't access my Gitcoin account?](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
+  * [🤖 What is Quadratic funding?](gitcoin-grants/general-questions/whats-quadratic-funding.md)
+  * [🤖 Why is Quadratic funding powerful?](gitcoin-grants/general-questions/why-is-quadratic-funding-powerful.md)
+  * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)
+  * [🤖 Can a programmer build on top of Gitcoin Grants?](gitcoin-grants/general-questions/im-a-programmer-who-wants-to-build-on-gitcoin-grants-where-do-i-start.md)
+  * [🤨 I see a bug or I've got a question, what do I do?](gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
+  * [🤨 I see a Grant that I don't like, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
+  * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
+  * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 
 ## Gitcoin Bounties
 
@@ -53,10 +53,10 @@
   * [📚 Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
   * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
   * [🏢 What are the governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
-  * [🏢 What is the Gitcoin Stewards Delegation Program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
-  * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
-  * [🏢 Where does governance happen?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
+  * [🏢 What is the Stewards delegation program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
   * [🏢 How do I get involved in Gitcoin governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
+  * [🏢 How do I become a Gitcoin Steward?](gitcoin-dao/dao-faq/how-do-i-become-a-gitcoin-steward.md)
+  * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
 
 ## Gitcoin Quests
 

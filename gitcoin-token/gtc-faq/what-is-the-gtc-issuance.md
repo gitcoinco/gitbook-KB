@@ -43,15 +43,15 @@ On-platform actions refer to any user who:
 
 This piece (user activity) of the distribution included a decay, meaning actions performed early in Gitcoin’s lifecycle are weighted more heavily.
 
-A portion of tokens is reserved for members of [KERNEL](http://kernel.community), to be allocated based on interactions and participation in Block I and Block II.
+A portion of tokens is reserved for members of [KERNEL](http://kernel.community/), to be allocated based on interactions and participation in Block I and Block II.
 
 Projects who participated in the Funder’s League will split a GTC allocation. This was calculated by splitting total contribution amounts to the Funders League matching pool and issuing GTC pro-rata.
 
-To claim GTC, head over to [quadraticlands.com](https://gitcoin.co/quadraticlands) and follow the instructions.
+To claim GTC, head over to [quadraticlands.com](https://gitcoin.co/quadraticlands?utm\_source=gitcoin\&utm\_medium=blog\&utm\_campaign=gtclaunch) and follow the instructions.
 
 Users will be required to take a trip through Quadratic Lands to claim their tokens, and will be met by a request to delegate tokens to themselves or one of the [Gitcoin Stewards](https://gov.gitcoin.co/t/introducing-stewards-governance/41) as a first use of GTC.
 
-More details on this process will be shared in a separate post on [gov.gitcoin.co](https://gov.gitcoin.co).
+More details on this process will be shared in a separate post on [gov.gitcoin.co](https://gov.gitcoin.co/).
 
 ### **Gitcoin’s DAO – 50,000,000 GTC (50%)**
 

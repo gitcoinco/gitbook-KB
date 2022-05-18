@@ -8,7 +8,7 @@ description: >-
 
 ### Withdraw funds from a regular account
 
-If your address is a regular externally owned account; you should visit [zkSync's Wallet page](https://wallet.zksync.io) and withdraw them in the browser.
+If your address is a regular externally owned account; you should visit [zkSync's Wallet page](https://wallet.zksync.io/) and withdraw them in the browser.
 
 ### Withdraw funds from a smart contract account
 

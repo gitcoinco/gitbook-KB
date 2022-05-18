@@ -1,11 +1,38 @@
-# 🏢 What is the Gitcoin Stewards Delegation Program?
+---
+description: >-
+  Learn more about how the Steward delegation program helps governance in the
+  GitcoinDAO.
+---
 
-So far one of the biggest challenges of DAO governance is maintaining an active community, which is crucial for legitimacy. To that end, Gitcoin is launching a liquid democracy through a Stewardship Delegation program.
+# 🏢 What is the Stewards delegation program?
 
-### How it works
+One of the largest challenges of token governance was maintaining an active community of voters, which is crucial for legitimacy. Gitcoin launched a liquid democracy through the Stewards delegation program to combat this.
 
-GTC holders have voting rights proportional to the number of tokens they hold. They may assign their voting rights to community Stewards to vote on their behalf, without giving up their tokens
+## The Stewards delegation program
 
-Stewards are active community members who participate in governance. Their influence is directly determined by the community. The more voting rights assigned to them, the more trust the community has in their stewardship.
+### GTC
 
-Some of Ethereum’s most trusted members have volunteered to be the first Gitcoin Stewards, but anyone may become a Steward simply by accepting voting rights.
+Any address holding GTC has voting rights in GitcoinDAO proportional to the number of GTC tokens it holds.
+
+Many community members hold their GTC because they are interested in GitcoinDAO succeeding in its mission, but they might not want the responsibility of following every detail within the DAO or participating in every vote.
+
+### Stewards
+
+Stewards are active community members who participate in governance on behalf of GTC holders (delegates). The community directly determines the influence of a Steward by delegating GTC to them. The more voting rights assigned to them, the more trust the community has in their stewardship.
+
+Many of Ethereum’s most trusted members have volunteered to be Gitcoin Stewards, but anyone can become a Steward.
+
+## Further reading
+
+* [Introducing Stewards Governance](https://gov.gitcoin.co/t/introducing-stewards-governance/41)
+* [Introducing Steward Health Cards 2.0](https://gov.gitcoin.co/t/introducing-steward-health-cards-2-0/)
+
+## Related topics
+
+{% content-ref url="who-chooses-stewards.md" %}
+[who-chooses-stewards.md](who-chooses-stewards.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../gitcoin-token/gtc-faq/how-do-i-delegate-my-gtc.md" %}
+[how-do-i-delegate-my-gtc.md](../../gitcoin-token/gtc-faq/how-do-i-delegate-my-gtc.md)
+{% endcontent-ref %}

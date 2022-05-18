@@ -1,6 +1,6 @@
 # What are Gitcoin Grants ?
 
-Gitcoin Grants allows individuals to get funding for a public goods project they are working on. Gitcoin Grants leverages [**Quadratic Funding (QF)**](https://wtfisqf.com) **** to allocate extra funding from a matching pool to the most impactful projects, based on the number of contributors.
+Gitcoin Grants allows individuals to get funding for a public goods project they are working on. Gitcoin Grants leverages [**Quadratic Funding (QF)**](https://wtfisqf.com/) **** to allocate extra funding from a matching pool to the most impactful projects, based on the number of contributors.
 
 Gitcoin—with the support of the Ethereum Foundation and other matching partners—aims to run at least quarterly rounds in 2022.
 

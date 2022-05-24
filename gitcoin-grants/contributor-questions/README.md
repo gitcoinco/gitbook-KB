@@ -12,6 +12,12 @@ We've curated a collection of the most commonly asked questions from grantees. D
 [what-do-i-do-if-my-contributions-are-missing.md](what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
+### Accounts
+
+{% content-ref url="can-i-reset-my-brightid.md" %}
+[can-i-reset-my-brightid.md](can-i-reset-my-brightid.md)
+{% endcontent-ref %}
+
 
 
 ### Did we answer your question?

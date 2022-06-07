@@ -5,6 +5,7 @@ Gitcoin Grants are focused on public goods.
 * Open Source Software
 * Journalism
 * Public Health
+* Environmentalism
 
 Those are all examples of public goods. To learn more about public goods checkout:
 

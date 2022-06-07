@@ -10,8 +10,18 @@ Read more on the Gitcoin Grants launch:
 
 {% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
 
-Got questions? It might already be answered in [the Grants FAQ](broken-reference). If not, you can open [a support ticket](https://support.gitcoin.co/new/) or email us at [founders@gitcoin.co](mailto:founders@gitcoin.co).
+Got questions? They might already be answered in our grants FAQs. If not, you can open [a support ticket](https://gitcoin.happyfox.com/new).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+### Related topics
+
+{% content-ref url="grantee-questions/" %}
+[grantee-questions](grantee-questions/)
+{% endcontent-ref %}
+
+{% content-ref url="contributor-questions/" %}
+[contributor-questions](contributor-questions/)
+{% endcontent-ref %}
+
+{% content-ref url="general-questions/" %}
+[general-questions](general-questions/)
 {% endcontent-ref %}

@@ -1,14 +1,23 @@
+---
+description: >-
+  To update your Grant's tags, you should fill out our discovery and eligibility
+  tags Google form.
+---
+
 # 📚 How do I update my Grant's tags?
 
-To update the tags on your Grant, you must email Gitcoin at [tags@gitcoin.co](mailto:tags@gitcoin.co)
+To update the tags on your Grant, please complete [the discovery and eligibility tags Google form.](https://forms.gle/vrhoWm1RxNvtRkMZ8)&#x20;
 
 ### The information we require
 
-In your email, please include the following information:
+In the form, please include the following information:
 
-* The name of your Grant
 * A direct link to the Grant
 * The tags you would like to add to the Grant
 * **For each tag:** the reason you believe your Grant is eligible for the tag
 
-_Requests without the required information may take a long time to process due to the volume of enquiries we receive._
+_Requests without ALL of the required information may not be processed correctly due to the volume of enquiries we receive._
+
+### Timelines
+
+During a Grant Round, we aim to complete all new tag requests within 2 working days. However, due to the volume of enquiries, it might take longer than this.

@@ -16,10 +16,6 @@ We've curated a collection of the most commonly asked general questions about ho
 [what-is-quadratic-lands.md](what-is-quadratic-lands.md)
 {% endcontent-ref %}
 
-{% content-ref url="will-you-eventually-dissolve-gitcoin-as-a-company.md" %}
-[will-you-eventually-dissolve-gitcoin-as-a-company.md](will-you-eventually-dissolve-gitcoin-as-a-company.md)
-{% endcontent-ref %}
-
 {% content-ref url="what-does-a-future-gitcoin-dao-look-like.md" %}
 [what-does-a-future-gitcoin-dao-look-like.md](what-does-a-future-gitcoin-dao-look-like.md)
 {% endcontent-ref %}
@@ -50,4 +46,4 @@ We've curated a collection of the most commonly asked general questions about ho
 
 ### Did we answer your question?
 
-Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://support.gitcoin.co/new/).
+Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).

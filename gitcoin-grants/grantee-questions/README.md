@@ -82,5 +82,5 @@ We've curated a collection of the most commonly asked questions from grantees. D
 
 ### Did we answer your question?
 
-Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://support.gitcoin.co/new/).
+Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).
 

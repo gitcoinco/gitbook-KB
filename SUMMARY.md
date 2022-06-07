@@ -53,7 +53,6 @@
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
   * [📚 What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [📚 What are the Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
-  * [📚 Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
   * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
   * [🏢 What are the governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
   * [🏢 What is the Stewards delegation program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
@@ -141,7 +140,7 @@
   * [Community Oversight](gitcoin-policy/policy/community-oversight.md)
   * [Appeals](gitcoin-policy/policy/appeals/README.md)
     * [Introduction to Appeals](gitcoin-policy/policy/appeals/introduction-to-appeals.md)
-    * [Introduction to Appeals for Denied Grants.](gitcoin-policy/policy/appeals/introduction-to-appeals-for-denied-grants..md)
+    * [Introduction to Appeals for Denied Grants](gitcoin-policy/policy/appeals/introduction-to-appeals-for-denied-grants..md)
     * [Appeal Process - Stage 1](gitcoin-policy/policy/appeals/appeal-process-stage-1.md)
     * [Appeal Process - Stage 2](gitcoin-policy/policy/appeals/appeal-process-stage-2.md)
 

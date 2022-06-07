@@ -2,4 +2,4 @@
 
 If you have a question please check the Gitcoin knowledge base first to see if it is already answered.
 
-If not, or you'd like to report a bug, you can [join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://support.gitcoin.co/new/).
+If not, or you'd like to report a bug, you can [join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).

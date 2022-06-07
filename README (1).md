@@ -4,7 +4,7 @@ description: >-
   freedom, and defining the future of the open web.
 ---
 
-# Welcome to Gitcoin
+# What is Gitcoin?
 
 ### Mission First
 
@@ -29,7 +29,6 @@ Specifically, the way we do that is:
 3. [Grants](https://gitcoin.co/grants) - Crowdfunding for Open Source.
 4. [KERNEL](http://kernel.community) - A web3-native, community-centric accelerator.
 5. [tip.party](https://tip.party) - a small, modular tool for engaging people for showing up.
-6. [Quadratic Diplomacy](https://quadraticdiplomacy.com) - a decentralized tool for engaging contributors.
 
 ### The DAO that governs Gitcoin
 
@@ -37,17 +36,17 @@ In order to make sure that Gitcoin is serving its mission and community first, G
 
 There are three important concepts to know to understand how to interact with GitcoinDAO.
 
-1. Most of the action happens on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)
+1. Most of the action happens on [Discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [Twitter](https://twitter.com/gitcoin)
 2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) are ultimately responsible for governing GitcoinDAO.
 3. Workstreams are the primary mechanism through which work is organized in the DAO.
 
 #### DAO Workstreams
 
-1. [Moonshot Collective](https://www.notion.so/Moonshot-Collective-ffa78f44a0de412cb607f9b69d3a376f) is the DAO rapid prototyping workstream
-2. [Public Goods](https://www.notion.so/Public-Goods-80a3202a3a244c65b3fda08c0f7c7d60) is focused on our mission of funding public goods.
-3. [Fraud Detection & Defense](https://www.notion.so/Fraud-Detection-Defense-f1a2969a9f324f57a02ef69a60b25cae) is in charge of preventing fraud on Gitcoin Grants.
-4. [Decentralize-gitcoin](https://www.notion.so/dGrants-c3197f918bf640bc9809cd26d56c93f3) is the mechanism through which Gitcoin is progressively decentralizing.
-5. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
+1. [Moonshot Collective](https://gitcoin.notion.site/Moonshot-Collective-e8a5bbb2b6f3494db109849d159e1b51) is the DAO rapid prototyping workstream
+2. [Public Goods](https://gitcoin.notion.site/Public-Goods-4ccd579f433c4dff9d8952314468d6e8) is focused on our mission of funding public goods.
+3. [Fraud Detection & Defense](https://gitcoin.notion.site/Fraud-Detection-Defense-2bde13c0b8e74fda81435d94e49e2703) is in charge of preventing fraud on Gitcoin Grants.
+4. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
+5. [DAO Ops](https://gitcoin.notion.site/DAO-Ops-84f425e281ae49579a2b4acf0bad5dd5) handles DAO operations&#x20;
 
 If you want to learn more about the GitcoinDAO, read this post [here](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200):
 
@@ -77,7 +76,7 @@ Right now the DAO is focused on:
 
 ### How to get involved.
 
-As of September 2021, here is the way you can get involved in the DAO.
+Here are the ways you can get involved in the DAO.
 
 1. Read the weekly [Week in DAO](https://gov.gitcoin.co/search?q=week%20in%20DAO%20order%3Alatest) posts by [@ceresstation](https://gov.gitcoin.co/u/ceresstation) .
 2. Get engaged on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)

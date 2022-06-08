@@ -34,6 +34,10 @@ We've curated a collection of the most commonly asked questions from grantees. D
 [why-have-my-grants-tags-been-removed.md](why-have-my-grants-tags-been-removed.md)
 {% endcontent-ref %}
 
+{% content-ref url="why-is-my-grant-status-set-to-gray-area.md" %}
+[why-is-my-grant-status-set-to-gray-area.md](why-is-my-grant-status-set-to-gray-area.md)
+{% endcontent-ref %}
+
 
 
 ### Matching amounts

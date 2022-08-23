@@ -62,6 +62,10 @@
   * [🏢 How do I become a Gitcoin Steward?](gitcoin-dao/dao-faq/how-do-i-become-a-gitcoin-steward.md)
   * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
 
+***
+
+* [Page 1](page-1.md)
+
 ## Gitcoin Quests
 
 * [Quests FAQ](gitcoin-quests/quests-faq/README.md)

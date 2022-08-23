@@ -8,10 +8,6 @@ We've curated a collection of the most commonly asked questions from grantees. D
 
 ### Contributions
 
-{% content-ref url="https://app.gitbook.com/o/zeGghDHx5GGWJeSjeKmg/s/l59I2citG7nE5V24wZ2x/" %}
-[How to Donate to Gitcoin Grants](https://app.gitbook.com/o/zeGghDHx5GGWJeSjeKmg/s/l59I2citG7nE5V24wZ2x/)
-{% endcontent-ref %}
-
 {% content-ref url="what-do-i-do-if-my-contributions-are-missing.md" %}
 [what-do-i-do-if-my-contributions-are-missing.md](what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}

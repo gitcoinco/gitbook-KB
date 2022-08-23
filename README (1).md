@@ -1,34 +1,18 @@
 ---
 description: >-
-  Connect with the community developing digital public goods, creating financial
-  freedom, and defining the future of the open web.
+  Connect with the community developing protocols that help communities fund
+  their shared needs.
 ---
 
 # What is Gitcoin?
 
-### Mission First
+### Our Purpose
 
-The first thing to know about Gitcoin is that we are mission first. [Our mission](https://gitcoin.co/mission) is to build and fund digital public goods. We believe that open-source software is a digital public good that creates $400bn/year in value, but that creators of OSS don’t have great ways to monetize their work on this digital infrastructure. Our goal is to correct this asymmetry
+Our purpose is to empower communities to fund their shared needs. This purpose guides our work as both an impact and protocol DAO. We are focused on building and funding tools that support community-driven shared resources.
 
-### How we support our mission
+### How we support our purpose
 
-Gitcoin is a community first, and our software products a double-sided market that connects digital creatives to the people who want to fund their work.\
-And visa versa. So far [we’ve created $35mm worth of funding for OSS devs](https://gitcoin.co/results).
-
-\
-Specifically, the way we do that is:
-
-1. Giving members opportunities to [earn](https://gitcoin.co/earn).
-2. Giving members opportunities to [learn](https://gitcoin.co/learn).
-3. Giving members opportunities to [connect with one another & prospective career opportunities](https://gitcoin.co/connect).
-
-**How do we do that?**
-
-1. [Bounties](https://gitcoin.co/bounties/contributor) - gig-based work for web3 projects.
-2. [Hackathons](https://gitcoin.co/hackathons) - Build w the coolest web3 projects.
-3. [Grants](https://gitcoin.co/grants) - Crowdfunding for Open Source.
-4. [KERNEL](http://kernel.community) - A web3-native, community-centric accelerator.
-5. [tip.party](https://tip.party) - a small, modular tool for engaging people for showing up.
+Gitcoin is a community first, and our software products a double-sided market that connects digital creatives to the people who want to fund their work. So far, we’ve created [$65mm worth of funding](https://gitcoin.co/results).
 
 ### The DAO that governs Gitcoin
 
@@ -42,15 +26,14 @@ There are three important concepts to know to understand how to interact with Gi
 
 #### DAO Workstreams
 
-1. [Moonshot Collective](https://gitcoin.notion.site/Moonshot-Collective-e8a5bbb2b6f3494db109849d159e1b51) is the DAO rapid prototyping workstream
+1. [Gitcoin Product Collective](https://www.notion.so/gitcoin/Gitcoin-Product-Collective-f2860138cbb24505b5cb2d8576119a78) is the DAO's product development team.
 2. [Public Goods](https://gitcoin.notion.site/Public-Goods-4ccd579f433c4dff9d8952314468d6e8) is focused on our mission of funding public goods.
-3. [Fraud Detection & Defense](https://gitcoin.notion.site/Fraud-Detection-Defense-2bde13c0b8e74fda81435d94e49e2703) is in charge of preventing fraud on Gitcoin Grants.
-4. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
-5. [DAO Ops](https://gitcoin.notion.site/DAO-Ops-84f425e281ae49579a2b4acf0bad5dd5) handles DAO operations&#x20;
+3. [Moonshot Collective](https://gitcoin.notion.site/Moonshot-Collective-e8a5bbb2b6f3494db109849d159e1b51) is the DAO rapid prototyping workstream.
+4. [Fraud Detection & Defense](https://gitcoin.notion.site/Fraud-Detection-Defense-2bde13c0b8e74fda81435d94e49e2703) is in charge of preventing fraud on Gitcoin Grants.
+5. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
+6. [DAO Ops](https://gitcoin.notion.site/DAO-Ops-84f425e281ae49579a2b4acf0bad5dd5) handles DAO operations.
 
-If you want to learn more about the GitcoinDAO, read this post [here](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200):
 
-{% embed url="https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200" %}
 
 #### DAO’s Quarterly Cadence
 
@@ -61,36 +44,22 @@ Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem re
 3. Learn from the quarterly stacked event
 4. Repeat
 
-The next quarterly event is GR14, starting in Q2 2022.
-
-### DAO KPIs
-
-Right now the DAO is focused on:
-
-1. Creating more ecosystem impact (measured in \$$$ distributed to devs)
-2. Decentralizing Gitcoin.
-
-[Ongoing discussions on these KPIs here](https://gov.gitcoin.co/t/what-are-the-kpis-that-gitcoindao-optimizes-for/8497):
-
-{% embed url="https://gov.gitcoin.co/t/what-are-the-kpis-that-gitcoindao-optimizes-for/8497" %}
+The next quarterly event is GR16, starting in Q4 2022.
 
 ### How to get involved.
 
 Here are the ways you can get involved in the DAO.
 
-1. Read the weekly [Week in DAO](https://gov.gitcoin.co/search?q=week%20in%20DAO%20order%3Alatest) posts by [@ceresstation](https://gov.gitcoin.co/u/ceresstation) .
+1. Signup for the weekly [GitcoinDAO Digest](https://form.typeform.com/to/ttNCMt8w?typeform-source=gov.gitcoin.co).
 2. Get engaged on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)
-3. [Apply as a Contributor](https://airtable.com/shrNCh4oIQYx1QJ2y)
-4. Checkout [see available openings on the stream](https://gov.gitcoin.co/06fad27dbd2d49468aa810c92f1f28c2?v=2adef018760d469fa32b9f96a3e54f63).
-5. Explore any workstreams (use links above).
-6. Use Gitcoin to earn, learn, or fund. (use links above).
-7. Explore any of the links below:
+3. Checkout [see available openings on the streams](https://www.notion.so/gitcoin/Open-Positions-All-61278bb274694d5d8dd244657da31e1e).
+4. Use Gitcoin to earn, learn, or fund. (use links above).
+5. Explore any of the links below:
 
 ### Links
 
 * [Gitcoin.co](https://gitcoin.co)
 * [Gitcoin Schwag Store](https://store.gitcoin.co)
-* [Gitcoin Jobs](https://gitcoin.co/jobs)
 * [Gitcoin Support](https://gitcoin.co/support)
 * [Gitcoin twitter](https://twitter.com/gitcoin)
 * [Gitcoin discord](https://gitcoin.co/discord)
@@ -105,8 +74,6 @@ Here are the ways you can get involved in the DAO.
 > Gitcoin Grants is establishing itself as a significant pillar of the Ethereum ecosystem that more and more projects are relying on for some or all of their support. \~ [Vitalik Buterin](https://vitalik.ca/general/2020/04/30/round5.html)
 
 > I LOVE IT…The community has been outstanding. I have made contact outside of slack w a couple of people. William Schwab was kind enough to ZOOM w me for an hour and tell me his story, letme pick his brain, and as he shared some valuable resources with me. - John Wilkinson
-
-> KERNEL is the greatest thing to ever happen to my crypto/business/personal life. I have made plenty of new friends, connected with people who believe in me and want to work together on other projects, and of course learned a lot from other seedlings, mentors and speakers. - Ethan Chiasson
 
 > Gitcoin gave me the first break into Ethereum and the crypto space. It helped me find bounties that I could work on and get paid in crypto. After my first ever bounty I got paid a lot and I felt euphoric. - Sebastian TF
 

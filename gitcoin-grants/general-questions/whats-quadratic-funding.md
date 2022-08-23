@@ -6,4 +6,4 @@ Crowdfund individual donations towards open source projects (try to have the max
 
 Read more about QF here:
 
-{% embed url="https://papers.ssrn.com/sol3/papers.cfm?abstract:id=3243656" %}
+{% embed url="https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000" %}

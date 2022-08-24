@@ -23,6 +23,7 @@
   * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 * [Grantee questions](gitcoin-grants/grantee-questions/README.md)
+  * [Platform Level Grant Participation Policy](gitcoin-grants/grantee-questions/platform-level-grant-participation-policy.md)
   * [🤔 How do I check the status of my Grant?](gitcoin-grants/grantee-questions/how-do-i-check-the-status-of-my-grant.md)
   * [🤔 Why isn't my Grant active?](gitcoin-grants/grantee-questions/why-isnt-my-grant-active.md)
   * [🤔 Can I appeal after my Grant is denied?](gitcoin-grants/grantee-questions/can-i-appeal-after-my-grant-is-denied.md)

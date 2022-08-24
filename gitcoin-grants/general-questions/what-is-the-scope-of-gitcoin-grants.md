@@ -4,7 +4,7 @@
 
 Clean air is an example of a naturally occurring public good, while the electric grid is a public good created by people.
 
-What are the public goods of today's industrial-knowledge society?
+#### What are the public goods of today's industrial-knowledge society?
 
 Open source code, which supports millions of companies and independent developers, is often thought of this way.
 
@@ -18,7 +18,7 @@ A **great public good** should:
 
 **• Create positive externalities** — benefits a public beyond an immediate set of users.
 
-Gitcoin started off focusing on Digital Public Goods (like Open Source software) but we have now expanded into real life Public Goods.
+Gitcoin started off focusing on Digital Public Goods (like Open Source software) but we have now expanded into real-life Public Goods.
 
 To learn more about public goods checkout:
 

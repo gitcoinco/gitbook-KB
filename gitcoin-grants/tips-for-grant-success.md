@@ -10,8 +10,6 @@ description: Advice for first-time and returning Grantees.
 
 Try to get it ready 15 days before the start of the Grants Round. Give time to the process of getting your grant approved and for the team to review your Tags Request.
 
-Check out the [GR15 Round Briefs](https://docs.google.com/document/d/1KQ9NofHCXvRKyvy18iuiwINMVifAtNGESRb3pV2HJtM/edit) for the specific eligibility requirements of each round. &#x20;
-
 #### Start with a TL;DR or summary
 
 Provide a brief overview of what it is that you're trying to do. Some key questions to answer upfront:
@@ -21,15 +19,13 @@ Provide a brief overview of what it is that you're trying to do. Some key questi
 * Any other specific relevant information.&#x20;
 * If you are tagging your project for a specific round, be very proactive about trying to illustrate how your project fits within that round.
 
-Many donor only read the beginning of a grant proposal, so start with a concise summary that includes how you plan to use the grant funding. You can add more technical specifications further down, or link to your website for more details
+#### Add a 1-2 minute explainer video (updated every round)
 
-#### Add a 1-2 minute explainer video&#x20;
+Show your face and your creativity. People love videos and they are a very engaging way to quickly showcase all the important aspects of your project. If your video is constantly updated, it proves your community that you are constantly working hard.
 
-Show your face and your creativity. People love videos and they are a very engaging way to quickly showcase all the important aspects of your project. Regular updates to your content demonstrate to potential supporters that you are consistently improving your project.
+#### Include your What & Why on your grant title
 
-#### Explain what your are building & why it's important in your grant title
-
-Placing header descriptions is very helpful when going through grants - it gives you an idea of what they are about. Keep your description simple and clear. The first line of your description will also be visible in your thumbnail so it is a good idea to communicate your best hook right here.
+Placing header descriptions is very helpful when going through grants - it gives you an idea of what they are about.
 
 #### Compare your solution vs the Status Quo
 
@@ -37,15 +33,7 @@ When describing your project, try to demonstrate its importance by contrasting y
 
 #### New to Gitcoin and have more questions about setting up your grant?
 
-Check out the following [Grantee Onboarding Guide](https://www.notion.so/gitcoin/Gitcoin-Grantee-Onboarding-Document-bbfe106a32534fb5a011f09c121257c3).
-
-#### Grab people’s attention
-
-Choose your banner, headline picture, and title carefully. You do not have to use your logo. Any visually compelling picture can be uploaded here. These images are important signals that will help your proposal gain attention. There are many projects on the Gitcoin platform so choose a picture and title that will make your project stand out.
-
-#### Share information about your Team Members
-
-Often, the people involved in the project are just as critical as the innovation itself. Make sure you include a list of your key project members and their qualifications.
+Check out the following [Grantee Onboard Guide](https://www.notion.so/gitcoin/Gitcoin-Grantee-Onboarding-Document-bbfe106a32534fb5a011f09c121257c3).
 
 ## SHARING RESULTS FROM PREVIOUS ROUNDS
 

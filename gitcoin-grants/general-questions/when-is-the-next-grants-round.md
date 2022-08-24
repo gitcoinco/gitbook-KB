@@ -4,7 +4,7 @@ description: Grants Round 15 will run September 7-22.
 
 # 📚 When is the next Grants Round?
 
-Gitcoin Grants Rounds operate on a quarterly cadence. During Grants Rounds you[ donate to your favorite causes, ecosystems, and public goods.](https://gitcoin.co/grants/explorer/)
+Gitcoin Grants Rounds operate on a quarterly cadence. During Grants Rounds, you may[ donate to your favorite causes, ecosystems, and public goods.](https://gitcoin.co/grants/explorer/)
 
 The next Grants Round, GR16, will run from December 1st to December 15th.&#x20;
 

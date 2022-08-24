@@ -1,26 +1,26 @@
 ---
-description: Grants Round 14 will run June 8-23.
+description: Grants Round 15 will run September 7-22.
 ---
 
 # 📚 When is the next Grants Round?
 
-Gitcoin Grants Rounds operate on a quarterly cadence. Grants Round 14 (GR14) is live! [Go donate to public goods.](https://gitcoin.co/grants/explorer/)
+Gitcoin Grants Rounds operate on a quarterly cadence. During Grants Rounds you[ donate to your favorite causes, ecosystems, and public goods.](https://gitcoin.co/grants/explorer/)
 
-The next Grants Round, GR15, will run from September 7th to September 22nd.&#x20;
+The next Grants Round, GR16, will run from December 1st to December 15th.&#x20;
 
 ## Current Grants Round
 
-* GR14: June 8-23, 2022
+* GR15: September 7-22, 2022
 
 ## Upcoming Grants Rounds
 
-* GR15: September 7-22, 2022\*
 * GR16: December 1-15, 2022\*
 
 _\*These dates are provisional and may change._
 
 ## Previous Grants Rounds
 
+* GR14: June 8-23, 2022
 * GR13: March 9-24, 2022
 * GR12: December 1-16, 2021
 * GR11: September 8-23, 2021

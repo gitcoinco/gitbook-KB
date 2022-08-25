@@ -18,3 +18,4 @@ Matching for all other Grant Rounds is included in the claimed contract(s) and p
 * Because funding is in cryptocurrency, both individual and matching pool funds can fluctuate from the time of donation.
 * Only individual contributions are visible in the “lifetime funding” section of your grants page, therefore total matching funds are not reflected.
 
+<figure><img src="../../.gitbook/assets/lifetimefunding.png" alt=""><figcaption></figcaption></figure>

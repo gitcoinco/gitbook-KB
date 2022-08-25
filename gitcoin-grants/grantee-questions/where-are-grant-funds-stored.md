@@ -1,4 +1,4 @@
-# 🏧 Where Are Grant Funds Stored?
+# 💰 Where Are Grant Funds Stored?
 
 Approximately a few weeks after the Grant Rounds have concluded, you will be able to claim your donations. Before you do, it is important to understand how Gitcoin grant funding is stored.
 

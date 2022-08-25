@@ -7,6 +7,7 @@
 
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
+* [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [General questions](gitcoin-grants/general-questions/README.md)
   * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
   * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-is-the-scope-of-gitcoin-grants.md)

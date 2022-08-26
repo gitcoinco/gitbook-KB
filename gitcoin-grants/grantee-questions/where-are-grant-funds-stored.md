@@ -11,7 +11,7 @@ There are two types of funding:
 
 There is a notable exception for grants that received matching funds in the Celo or Radicle ecosystem rounds. The total portion of the matching funds will be sent directly to your wallet or through Radicle drips. No claiming is required.
 
-Matching for all other Grant Rounds is included in the claimed contract(s) and paid in DAI or the respective token. If your grant was in the Unlock, Subgraph, Web3 Social, or Aurora around, you will have to claim each unique token match with a separate on-chain transaction. All other rounds are matching in DAI and are claimed together.
+Some Round Owners prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.
 
 **Other notes:**
 

@@ -6,4 +6,4 @@ The Gitcoin team will review each submission per platform and main round to conf
 
 Check out this article to prepare for your Grant Round:&#x20;
 
-{% embed url="https://gitcoin.co/blog/level-up-your-grant-for-gr15/" %}
+{% embed url="https://support.gitcoin.co/gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs" %}

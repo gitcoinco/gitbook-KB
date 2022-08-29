@@ -44,6 +44,7 @@
 * [Contributor questions](gitcoin-grants/contributor-questions/README.md)
   * [📚 Can I reset my BrightID?](gitcoin-grants/contributor-questions/can-i-reset-my-brightid.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
+* [Identity Staking questions](gitcoin-grants/identity-staking-questions.md)
 * [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions.md)
 
 ## Gitcoin Bounties

@@ -32,6 +32,7 @@
   * [🤔 I forgot to update my Grant from a previous round. Can I get funding?](gitcoin-grants/grantee-questions/i-forgot-to-update-my-grant-from-a-previous-round.-can-i-get-funding.md)
   * [🤔 Why have my grants tags been removed?](gitcoin-grants/grantee-questions/why-have-my-grants-tags-been-removed.md)
   * [🤔 Why is my grant status set to ‘Gray Area’?](gitcoin-grants/grantee-questions/why-is-my-grant-status-set-to-gray-area.md)
+  * [🤔 How many Grant Rounds can I enter?](gitcoin-grants/grantee-questions/how-many-grant-rounds-can-i-enter.md)
   * [💰 Why isn't my matching amount updating?](gitcoin-grants/grantee-questions/why-isnt-the-match-amount-updating.md)
   * [💰 Why is my estimated matching is different from Grants with similar contributors?](gitcoin-grants/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md)
   * [💰 Where Are Grant Funds Stored?](gitcoin-grants/grantee-questions/where-are-grant-funds-stored.md)

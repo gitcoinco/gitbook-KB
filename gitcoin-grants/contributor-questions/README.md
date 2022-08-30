@@ -14,10 +14,6 @@ We've curated a collection of the most commonly asked questions from grantees. D
 
 ### Accounts
 
-{% content-ref url="can-i-reset-my-brightid.md" %}
-[can-i-reset-my-brightid.md](can-i-reset-my-brightid.md)
-{% endcontent-ref %}
-
 
 
 ### Did we answer your question?

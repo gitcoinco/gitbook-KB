@@ -6,7 +6,7 @@
 ## Gitcoin Grants
 
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
-* [How to Create a Grant](gitcoin-grants/how-to-create-a-grant.md)
+* [How to Create a Gitcoin Grant](gitcoin-grants/how-to-create-a-gitcoin-grant.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [General questions](gitcoin-grants/general-questions/README.md)
@@ -45,7 +45,7 @@
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
 * [Contributor questions](gitcoin-grants/contributor-questions/README.md)
-  * [📚 Can I reset my BrightID?](gitcoin-grants/contributor-questions/can-i-reset-my-brightid.md)
+  * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/contributor-questions/how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Identity Staking questions](gitcoin-grants/identity-staking-questions.md)
 * [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions.md)

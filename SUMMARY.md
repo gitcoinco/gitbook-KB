@@ -6,6 +6,7 @@
 ## Gitcoin Grants
 
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
+* [How to Create a Grant](gitcoin-grants/how-to-create-a-grant.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [General questions](gitcoin-grants/general-questions/README.md)

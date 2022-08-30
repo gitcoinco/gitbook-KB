@@ -4,20 +4,6 @@ description: A Guide for First-Time Funders
 
 # 📚 How to Donate to Gitcoin Grants
 
-#### [What will I need?](how-to-donate-to-gitcoin-grants.md#what-will-i-need)
-
-#### [Where do I start?](how-to-donate-to-gitcoin-grants.md#where-do-i-start)
-
-#### [Exploring grants you'd like to donate to](how-to-donate-to-gitcoin-grants.md#exploring-grants-youd-like-to-donate-to-1)
-
-#### [Make sure that you've created your Gitcoin Passport](how-to-donate-to-gitcoin-grants.md#make-sure-that-youve-created-your-gitcoin-passport-1)
-
-#### [Allocating crypto & the Quadratic Funding experience](how-to-donate-to-gitcoin-grants.md#allocating-crypto-and-the-quadratic-funding-experience-1)
-
-#### [Fund, Support & Amplify](how-to-donate-to-gitcoin-grants.md#fund-support-and-amplify-1)
-
-
-
 ### What Will I need
 
 All you need is a custodial Web3 wallet such as Metamask. You can watch the video below if you need help setting this up:
@@ -46,9 +32,9 @@ Start at the Gitcoin Grants home page: [https://gitcoin.co/grants/](https://gitc
 
 <figure><img src="../../.gitbook/assets/1" alt=""><figcaption></figcaption></figure>
 
-Adjust your amounts and have fun viewing the estimated match.
+**Adjust your amounts and have fun viewing the estimated match.**
 
-
+****
 
 ### Make sure that you've created your Gitcoin Passport
 
@@ -83,7 +69,7 @@ To gain a better understanding of Sybil Attacks and the importance of Sybil Resi
    \
    Once you are happy with the summary, you are ready to select the purple “I’m Ready to Check Out” button and proceed to the next step.
 
-![There are three ways to checkout](<../../.gitbook/assets/2 (1)>)
+![](<../../.gitbook/assets/2 (1)>)
 
 **Important to note:** there are three ways to checkout.
 
@@ -113,7 +99,7 @@ When you select the purple “I’m Ready to Check Out” box, it will ask you t
 
 _To learn more, visit Branch\_Out\_Now’s_ [_Guide to Making @gitcoin Grant Donations Using Polygon_](https://branchoutnow.org/wp-content/uploads/2022/06/Gitcoin-GR-14-Guide.pdf)
 
-![Verify your account to maximize your match](../../.gitbook/assets/3)
+![](../../.gitbook/assets/3)
 
 **Verify your account to maximize your match**
 

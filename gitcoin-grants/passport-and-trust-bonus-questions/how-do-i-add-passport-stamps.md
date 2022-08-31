@@ -9,4 +9,4 @@ Once you've created a Gitcoin Passport, you can immediately begin collecting sta
 
 Watch this video for a quick and simple run through of how to add your Passport stamps:&#x20;
 
-[https://www.loom.com/share/ff733d246c9744a59aeff8ff6a7a435a](https://www.loom.com/share/ff733d246c9744a59aeff8ff6a7a435a)
+{% embed url="https://www.loom.com/share/ff733d246c9744a59aeff8ff6a7a435a" %}

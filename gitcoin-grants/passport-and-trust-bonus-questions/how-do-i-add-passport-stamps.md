@@ -1,6 +1,6 @@
 # How do I add Passport stamps?
 
-Once you've created a Gitcoin Passport, you can immediately begin collecting stamps:
+Once you've created your Gitcoin Passport, you can immediately begin collecting stamps:
 
 * Visit [passport.gitcoin.co](https://passport.gitcoin.co/).
 * Click on _Connect Wallet_.

@@ -48,7 +48,11 @@
   * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/contributor-questions/how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Identity Staking questions](gitcoin-grants/identity-staking-questions.md)
-* [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions.md)
+* [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions/README.md)
+  * [What is Ceramic?](gitcoin-grants/passport-and-trust-bonus-questions/what-is-ceramic.md)
+  * [How does Trust Bonus work?](gitcoin-grants/passport-and-trust-bonus-questions/how-does-trust-bonus-work.md)
+  * [How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-grants/passport-and-trust-bonus-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
+  * [How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps.md)
 
 ## Gitcoin Bounties
 

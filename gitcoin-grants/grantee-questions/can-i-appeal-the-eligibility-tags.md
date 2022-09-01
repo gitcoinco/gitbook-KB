@@ -1,4 +1,4 @@
-# Can I appeal the eligibility tags?
+# 📚 Can I appeal the eligibility tags?
 
 The Gitcoin team reviews each submission per platform and main round to confirm eligibility and the round owners review their applicants separately based on their own rules and some feedback from FDD, and the Gitcoin DAO.
 

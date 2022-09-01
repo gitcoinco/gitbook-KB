@@ -10,8 +10,8 @@ We've curated a collection of the most commonly asked questions from grantees. D
 
 ### Contributions
 
-{% content-ref url="what-do-i-do-if-my-contributions-are-missing.md" %}
-[what-do-i-do-if-my-contributions-are-missing.md](what-do-i-do-if-my-contributions-are-missing.md)
+{% content-ref url="../contributor-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
+[what-do-i-do-if-my-contributions-are-missing.md](../contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
 ### Accounts

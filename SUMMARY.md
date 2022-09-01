@@ -45,14 +45,15 @@
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
 * [Funder questions](gitcoin-grants/funder-questions/README.md)
-  * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/funder-questions/how-to-donate-to-gitcoin-grants.md)
-  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/funder-questions/what-do-i-do-if-my-contributions-are-missing.md)
+  * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/contributor-questions/how-to-donate-to-gitcoin-grants.md)
+  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Identity Staking questions](gitcoin-grants/identity-staking-questions.md)
 * [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions.md)
   * [🛂 What is Ceramic?](gitcoin-grants/passport-and-trust-bonus-questions/what-is-ceramic.md)
   * [🛂 How does Trust Bonus work?](gitcoin-grants/passport-and-trust-bonus-questions/how-does-trust-bonus-work.md)
   * [🛂 How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-grants/passport-and-trust-bonus-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
-  * [🛂 How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps.md)
+  * [🛂 How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps/README.md)
+    * [🛠 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps/troubleshooting-passport-or-trust-bonus-technical-issues.md)
 
 ## Gitcoin Bounties
 

@@ -4,8 +4,8 @@
 
 ### Most commonly asked questions
 
-{% content-ref url="gitcoin-grants/funder-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
-[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants/funder-questions/what-do-i-do-if-my-contributions-are-missing.md)
+{% content-ref url="gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
+[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
 {% content-ref url="gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md" %}

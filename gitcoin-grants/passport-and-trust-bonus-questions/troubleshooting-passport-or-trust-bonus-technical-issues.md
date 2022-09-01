@@ -19,8 +19,6 @@ Usually, this means that you created your Passport on another network (i.e., not
 5. Click “Connect Wallet”.
 6. Return to [gitcoin.co/trust](http://gitcoin.co/trust) and log in with your Ethereum wallet and connect your passport.
 
-
-
 ### **Issue 2:** The Trust Bonus page does not respond after you click “Connect Passport”
 
 The issue is often related to the Brave browser blocking JavaScript.

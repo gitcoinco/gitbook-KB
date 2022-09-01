@@ -42,6 +42,7 @@
   * [🏧 How can I withdraw my funds from Polygon?](gitcoin-grants/grantee-questions/how-can-i-withdraw-my-funds-from-polygon.md)
   * [📚 How do I update my Grant's wallet address?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-wallet-address.md)
   * [📚 How do I update my Grant's tags?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-tags.md)
+  * [Can I appeal the eligibility tags?](gitcoin-grants/grantee-questions/can-i-appeal-the-eligibility-tags.md)
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
 * [Funder questions](gitcoin-grants/funder-questions/README.md)

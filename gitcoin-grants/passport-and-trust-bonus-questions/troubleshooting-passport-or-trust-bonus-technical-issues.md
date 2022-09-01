@@ -8,7 +8,7 @@ description: How to fix known technical issues some funders experience.
 
 Usually, this means that you created your Passport on another network (i.e., not Ethereum Mainnet).
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-31 at 8.34.47 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.34.47 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Solution:**
 
@@ -25,7 +25,7 @@ Usually, this means that you created your Passport on another network (i.e., not
 
 The issue is often related to the Brave browser blocking JavaScript.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-31 at 8.43.35 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.43.35 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Solution:**
 
@@ -35,7 +35,7 @@ Turn off the Brave shields and try again.
 
 The funder bought an ENS domain, but didn’t set the reverse records.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-31 at 8.46.47 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.46.47 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Solution**
 

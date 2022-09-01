@@ -52,8 +52,8 @@
   * [🛂 What is Ceramic?](gitcoin-grants/passport-and-trust-bonus-questions/what-is-ceramic.md)
   * [🛂 How does Trust Bonus work?](gitcoin-grants/passport-and-trust-bonus-questions/how-does-trust-bonus-work.md)
   * [🛂 How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-grants/passport-and-trust-bonus-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
-  * [🛂 How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps/README.md)
-    * [🛠 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps/troubleshooting-passport-or-trust-bonus-technical-issues.md)
+  * [🛂 How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps.md)
+  * [🛠 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-grants/passport-and-trust-bonus-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
 
 ## Gitcoin Bounties
 

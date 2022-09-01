@@ -1,4 +1,4 @@
-# What is Ceramic?
+# 🛂 What is Ceramic?
 
 [_Ceramic_](https://ceramic.network/) _is a decentralized data network that brings unlimited data composability to Web3 applications._
 

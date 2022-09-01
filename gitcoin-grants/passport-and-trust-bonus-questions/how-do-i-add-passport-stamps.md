@@ -1,4 +1,4 @@
-# How do I add Passport stamps?
+# 🛂 How do I add Passport stamps?
 
 Once you've created your Gitcoin Passport, you can immediately begin collecting stamps:
 

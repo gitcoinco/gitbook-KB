@@ -18,8 +18,8 @@ Got questions? They might already be answered in our grants FAQs. If not, you ca
 [grantee-questions](grantee-questions/)
 {% endcontent-ref %}
 
-{% content-ref url="contributor-questions/" %}
-[contributor-questions](contributor-questions/)
+{% content-ref url="funder-questions/" %}
+[funder-questions](funder-questions/)
 {% endcontent-ref %}
 
 {% content-ref url="general-questions/" %}

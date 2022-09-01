@@ -1,4 +1,4 @@
-# How does Trust Bonus work?
+# 🛂 How does Trust Bonus work?
 
 ### **What is Trust Bonus?**
 

@@ -11,7 +11,7 @@
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [General questions](gitcoin-grants/general-questions/README.md)
   * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
-  * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-is-the-scope-of-gitcoin-grants.md)
+  * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-are-public-goods.md)
   * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
   * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
   * [📚 What are Gitcoin's other products?](gitcoin-grants/general-questions/i-want-to-explore-gitcoins-other-products-where-do-i-go.md)

@@ -12,8 +12,8 @@ We've curated a collection of the most commonly asked general questions about Gi
 [when-is-the-next-grants-round.md](when-is-the-next-grants-round.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-the-scope-of-gitcoin-grants.md" %}
-[what-is-the-scope-of-gitcoin-grants.md](what-is-the-scope-of-gitcoin-grants.md)
+{% content-ref url="what-are-public-goods.md" %}
+[what-are-public-goods.md](what-are-public-goods.md)
 {% endcontent-ref %}
 
 {% content-ref url="why-should-i-contribute.md" %}

@@ -1,4 +1,8 @@
-# 🛂 How does Trust Bonus work?
+---
+description: Learn how Trust Bonus works.
+---
+
+# 🤔 How does Trust Bonus work?
 
 ### **What is Trust Bonus?**
 

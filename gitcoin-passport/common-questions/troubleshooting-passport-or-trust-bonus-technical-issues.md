@@ -2,7 +2,7 @@
 description: How to fix known technical issues some funders experience.
 ---
 
-# 🛠 Troubleshooting Passport or Trust Bonus Technical Issues
+# 🤔 Troubleshooting Passport or Trust Bonus Technical Issues
 
 ### **Issue 1:** There is no Ceramic Account associated with your wallet
 

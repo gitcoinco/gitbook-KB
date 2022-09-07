@@ -1,4 +1,8 @@
-# 🛂 How is Gitcoin Passport’s Trust Bonus calculated?
+---
+description: Learn how Gitcoin Passport's Trust Bonus scores are calculated.
+---
+
+# 🤔 How is Gitcoin Passport’s Trust Bonus calculated?
 
 As in previous versions of the Trust Bonus, matching weights for Passport holders will range between 50% and 150%.
 

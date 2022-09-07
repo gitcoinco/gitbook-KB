@@ -49,14 +49,27 @@
   * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/contributor-questions/how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Identity Staking questions](gitcoin-grants/identity-staking-questions.md)
-* [Passport & Trust Bonus Questions](gitcoin-grants/passport-and-trust-bonus-questions.md)
-  * [🛂 What is Gitcoin Passport?](gitcoin-grants/passport-and-trust-bonus-questions/what-is-gitcoin-passport.md)
-  * [🛂 What is Ceramic?](gitcoin-grants/passport-and-trust-bonus-questions/what-is-ceramic.md)
-  * [🛂 What are Stamps?](gitcoin-grants/passport-and-trust-bonus-questions/what-are-stamps.md)
-  * [🛂 How does Trust Bonus work?](gitcoin-grants/passport-and-trust-bonus-questions/how-does-trust-bonus-work.md)
-  * [🛂 How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-grants/passport-and-trust-bonus-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
-  * [🛂 How do I add Passport stamps?](gitcoin-grants/passport-and-trust-bonus-questions/how-do-i-add-passport-stamps.md)
-  * [🛠 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-grants/passport-and-trust-bonus-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
+
+## Gitcoin Passport
+
+* [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)
+* [What are Stamps?](gitcoin-passport/what-are-stamps.md)
+* [What is Ceramic?](gitcoin-passport/what-is-ceramic.md)
+* [How do I create a Gitcoin Passport?](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
+* [How do I add Passport Stamps?](gitcoin-passport/how-do-i-add-passport-stamps/README.md)
+  * [🔌 Connecting a Google account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-google-account-to-passport.md)
+  * [🔌 Connecting an ENS account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-an-ens-account-to-passport.md)
+  * [🔌 Connecting a Proof of Humanity (PoH) account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-proof-of-humanity-poh-account-to-passport.md)
+  * [🔌 Connecting a Twitter account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-twitter-account-to-passport.md)
+* [Common questions](gitcoin-passport/common-questions/README.md)
+  * [🤔 How do I update my Passport score?](gitcoin-passport/common-questions/how-do-i-update-my-passport-score.md)
+  * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
+  * [🤔 How does Trust Bonus work?](gitcoin-passport/common-questions/how-does-trust-bonus-work.md)
+  * [🤔 How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
+  * [🤔 How do I unlink a Passport from my Gitcoin account?](gitcoin-passport/common-questions/how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
+  * [🤔 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-passport/common-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
+  * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)
+  * [💻 Can I integrate Gitcoin passport into my dapp?](gitcoin-passport/common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
 
 ## Gitcoin Bounties
 
@@ -77,10 +90,6 @@
   * [🏢 How do I get involved in Gitcoin governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
   * [🏢 How do I become a Gitcoin Steward?](gitcoin-dao/dao-faq/how-do-i-become-a-gitcoin-steward.md)
   * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
-
-***
-
-* [Page 1](page-1.md)
 
 ## Gitcoin Quests
 

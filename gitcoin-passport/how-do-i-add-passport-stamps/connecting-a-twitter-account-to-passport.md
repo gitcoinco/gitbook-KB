@@ -35,7 +35,7 @@ Step 5: A signature request modal will pop up. Read it carefully and then click 
 
 Step 6: Return to the passport browser window and confirm your account is now verified.
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../commonly-asked-passport-questions/how-to-access-your-passport-json.md)
 
 ### Still not working?
 

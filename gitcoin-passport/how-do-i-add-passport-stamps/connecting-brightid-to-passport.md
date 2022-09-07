@@ -44,7 +44,7 @@ Step 8: Confirm your account is now verified.
 
 <figure><img src="../../.gitbook/assets/brightid-seven (1).png" alt=""><figcaption></figcaption></figure>
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../commonly-asked-passport-questions/how-to-access-your-passport-json.md)
 
 ### Still not working?
 

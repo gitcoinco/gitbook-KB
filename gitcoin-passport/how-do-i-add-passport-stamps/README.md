@@ -31,7 +31,41 @@ The general steps for every Stamp are:
 [connecting-a-twitter-account-to-passport.md](connecting-a-twitter-account-to-passport.md)
 {% endcontent-ref %}
 
+{% content-ref url="connecting-poaps-to-passport.md" %}
+[connecting-poaps-to-passport.md](connecting-poaps-to-passport.md)
+{% endcontent-ref %}
 
+{% content-ref url="connecting-brightid-to-passport.md" %}
+[connecting-brightid-to-passport.md](connecting-brightid-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="connecting-a-github-account-to-passport.md" %}
+[connecting-a-github-account-to-passport.md](connecting-a-github-account-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="connecting-gitcoin-grants-to-passport.md" %}
+[connecting-gitcoin-grants-to-passport.md](connecting-gitcoin-grants-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="connecting-a-discord-account-to-passport.md" %}
+[connecting-a-discord-account-to-passport.md](connecting-a-discord-account-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="connecting-gitpoaps-to-passport.md" %}
+[connecting-gitpoaps-to-passport.md](connecting-gitpoaps-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="connecting-snapshot-to-passport.md" %}
+[connecting-snapshot-to-passport.md](connecting-snapshot-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="verifying-ethereum-transactions-to-passport.md" %}
+[verifying-ethereum-transactions-to-passport.md](verifying-ethereum-transactions-to-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="verifying-gtc-ownership-on-passport.md" %}
+[verifying-gtc-ownership-on-passport.md](verifying-gtc-ownership-on-passport.md)
+{% endcontent-ref %}
 
 ### More on adding Stamps
 

@@ -13,7 +13,7 @@ This guide gives instructions on connecting a Twitter account to Gitcoin Passpor
 * A Twitter account
   * If you do not have a Twitter account, you can [create one at twitter.com](https://twitter.com/).
 
-### How to verify your ENS account
+### How to verify your Twitter account
 
 Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
 
@@ -35,7 +35,7 @@ Step 5: A signature request modal will pop up. Read it carefully and then click 
 
 Step 6: Return to the passport browser window and confirm your account is now verified.
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, you can inspect the Passport JSON.
+You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
 
 ### Still not working?
 

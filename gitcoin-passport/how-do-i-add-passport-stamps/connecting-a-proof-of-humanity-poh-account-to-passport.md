@@ -13,7 +13,7 @@ This guide gives instructions on connecting a PoH account to Gitcoin Passport an
 * A PoH account associated with the wallet address registered on your Gitcoin Passport
   * If you do not have a PoH account, you can [create one on the PoH platform](https://www.proofofhumanity.id/).
 
-### How to verify your ENS account
+### How to verify your PoH account
 
 Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
 
@@ -33,7 +33,7 @@ Step 5: Return to the passport browser window and confirm your account is now ve
 
 <figure><img src="../../.gitbook/assets/poh-five.png" alt=""><figcaption></figcaption></figure>
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, you can inspect the Passport JSON.
+You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
 
 ### Still not working?
 

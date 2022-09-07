@@ -61,6 +61,15 @@
   * [🔌 Connecting an ENS account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-an-ens-account-to-passport.md)
   * [🔌 Connecting a Proof of Humanity (PoH) account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-proof-of-humanity-poh-account-to-passport.md)
   * [🔌 Connecting a Twitter account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-twitter-account-to-passport.md)
+  * [🔌 Connecting POAPs to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-poaps-to-passport.md)
+  * [🔌 Connecting BrightID to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-brightid-to-passport.md)
+  * [🔌 Connecting a GitHub account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-github-account-to-passport.md)
+  * [🔌 Connecting Gitcoin Grants to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-gitcoin-grants-to-passport.md)
+  * [🔌 Connecting a Discord account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-discord-account-to-passport.md)
+  * [🔌 Connecting GitPOAPs to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-gitpoaps-to-passport.md)
+  * [🔌 Connecting Snapshot to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-snapshot-to-passport.md)
+  * [🔌 Verifying Ethereum transactions to Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
+  * [🔌 Verifying GTC ownership on Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-gtc-ownership-on-passport.md)
 * [Common questions](gitcoin-passport/common-questions/README.md)
   * [🤔 How do I update my Passport score?](gitcoin-passport/common-questions/how-do-i-update-my-passport-score.md)
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
@@ -70,6 +79,8 @@
   * [🤔 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-passport/common-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
   * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)
   * [💻 Can I integrate Gitcoin passport into my dapp?](gitcoin-passport/common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
+  * [💻 How to access your Passport JSON](gitcoin-passport/common-questions/how-to-access-your-passport-json.md)
+  * [💻 How to download your Passport JSON](gitcoin-passport/common-questions/how-to-download-your-passport-json.md)
 
 ## Gitcoin Bounties
 

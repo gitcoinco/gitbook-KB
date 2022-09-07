@@ -18,7 +18,7 @@ Step 2: Click Create Passport to visit [passport.gitcoin.co](http://passport.git
 
 Step 3: Click on **Connect Wallet**
 
-<figure><img src="../.gitbook/assets/create-passport-three.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-07 at 17.58.13.png" alt=""><figcaption></figcaption></figure>
 
 Step 4: You’ll see a number of available wallets. Pick the one that best suits you.
 

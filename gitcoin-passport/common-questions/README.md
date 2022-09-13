@@ -2,7 +2,7 @@
 description: More commonly asked questions about Gitcoin Passport
 ---
 
-# Common questions
+# Commonly asked Passport questions
 
 We've curated a collection of some commonly asked questions about Gitcoin Passport. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 

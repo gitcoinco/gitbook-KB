@@ -46,7 +46,7 @@
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
 * [Funder questions](gitcoin-grants/funder-questions/README.md)
-  * [📚 How to Donate to Gitcoin Grants](gitcoin-grants/contributor-questions/how-to-donate-to-gitcoin-grants.md)
+  * [📚 GR15: How to Donate to Gitcoin Grants](gitcoin-grants/funder-questions/gr15-how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [GTC Staking on your Identity](gitcoin-grants/identity-staking-questions.md)
 

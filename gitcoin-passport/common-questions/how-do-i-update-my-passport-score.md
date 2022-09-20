@@ -4,6 +4,8 @@ description: A guide on rescoring your Gitcoin Passport with Trust Bonus.
 
 # 🤔 How do I update my Passport score?
 
+It does not matter if you update your Trust Bonus score before or after you make a donation. It is only important that it is updated to the highest score possible before the Grant Round has ended.&#x20;
+
 After [adding additional stamps to your Passport](../how-do-i-add-passport-stamps/), you'll need to _resubmit_ your Passport on your Gitcoin profile to update your Trust Bonus score.
 
 Step 1: Log into your Gitcoin profile via [gitcoin.co](broken-reference). It will look something like this:

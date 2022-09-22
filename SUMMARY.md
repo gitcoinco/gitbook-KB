@@ -48,6 +48,7 @@
 * [Funder questions](gitcoin-grants/funder-questions/README.md)
   * [📚 GR15: How to Donate to Gitcoin Grants](gitcoin-grants/funder-questions/gr15-how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
+* [🚩 My GitHub Account Is Flagged](gitcoin-grants/my-github-account-is-flagged.md)
 * [GTC Staking on your Identity](gitcoin-grants/identity-staking-questions.md)
 
 ## Gitcoin Passport

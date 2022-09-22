@@ -2,7 +2,7 @@
 description: What do I do if my GitHub account has been flagged?
 ---
 
-# 🚩 My GitHub Account Is Flagged
+# My GitHub Account Is Flagged
 
 The use of GitHub is intended to be an easy method for Users to sign into their Gitcoin account as it is a tool built by open source developers for open source developers.
 

@@ -1,7 +1,5 @@
 # 🏧 How to Claim Your Matching Funds
 
-You will be able to claim your donations approximately 3 weeks after Grant Rounds have concluded and the results have been ratified.&#x20;
-
 Written steps for claiming your matching funds are listed below, but if you prefer to be walked through the process you can watch: &#x20;
 
 {% embed url="https://drive.google.com/file/d/1Rn5yytFNfSm7ZO15YQXfJhzFSXtYMFCY/view" %}

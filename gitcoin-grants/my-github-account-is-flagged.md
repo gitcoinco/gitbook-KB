@@ -8,4 +8,4 @@ The use of GitHub is intended to be an easy method for Users to sign into their 
 
 If your GitHub account is flagged, we will not be able to assist you as it is a different product from Gitcoin.
 
-You will need to contact GitHub support at[https://support.github.com/](https://support.github.com/) in order to have the restrictions removed from your GitHub account in order to regain access to your Gitcoin profile.
+You will need to contact GitHub support at [https://support.github.com](https://support.github.com/) in order to have the restrictions removed from your GitHub account in order to regain access to your Gitcoin profile.

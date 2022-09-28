@@ -1,4 +1,8 @@
 root: ./
 
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
 redirects:
-  gitcoin-knowledge-base/kb/article/42-code-of-conduct: gitcoin-policy/code-of-conduct.md
+  gitcoin-knowledge-base/kb/article/42-code-of-conduct: gitcoin-knowledge-base/gitcoin-policy/code-of-conduct.md

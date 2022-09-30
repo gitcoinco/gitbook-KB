@@ -13,10 +13,13 @@ There is a notable exception for grants that received matching funds in the Celo
 
 Some Round Owners prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.\
 \
-Check out the video bellow to learn how to find our matching funds and how to convert to FIAT:&#x20;
+Check out the video below to learn how to find your matching funds and how to convert them to FIAT:&#x20;
 
-``[``\
-``](https://vimeo.com/754897026)\
+{% embed url="https://vimeo.com/754897026" %}
+Where to find crowdfunded contributions\
+
+{% endembed %}
+
 **Other notes:**
 
 * Because funding is in cryptocurrency, both individual and matching pool funds can fluctuate from the time of donation.

@@ -1,6 +1,6 @@
 # 💰 Where Are Grant Funds Stored?
 
-Approximately a few weeks after the Grant Rounds have concluded, you will be able to claim your donations. Before you do, it is important to understand how Gitcoin grant funding is stored.
+Approximately 3 weeks after the Grant Rounds have concluded, you will be able to claim your donations. Before you do, it is important to understand how Gitcoin grant funding is stored.
 
 There are two types of funding:
 
@@ -11,8 +11,12 @@ There are two types of funding:
 
 There is a notable exception for grants that received matching funds in the Celo or Radicle ecosystem rounds. The total portion of the matching funds will be sent directly to your wallet or through Radicle drips. No claiming is required.
 
-Some Round Owners prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.
+Some Round Owners prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.\
+\
+Check out the video bellow to learn how to find our matching funds and how to convert to FIAT:&#x20;
 
+``[``\
+``](https://vimeo.com/754897026)\
 **Other notes:**
 
 * Because funding is in cryptocurrency, both individual and matching pool funds can fluctuate from the time of donation.

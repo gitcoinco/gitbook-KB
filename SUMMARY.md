@@ -38,6 +38,8 @@
   * [💰 Why is my estimated matching is different from Grants with similar contributors?](gitcoin-grants/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md)
   * [💰 Where Are Grant Funds Stored?](gitcoin-grants/grantee-questions/where-are-grant-funds-stored.md)
   * [🏧 How to Claim Your Matching Funds](gitcoin-grants/grantee-questions/how-to-claim-your-matching-funds.md)
+  * [🏧 How to Convert Individual Donations to Fiat](gitcoin-grants/grantee-questions/how-to-convert-individual-donations-to-fiat.md)
+  * [🏧 Copy of How to Convert Individual Donations to Fiat](gitcoin-grants/grantee-questions/copy-of-how-to-convert-individual-donations-to-fiat.md)
   * [🏧 How can I withdraw my funds from zkSync?](gitcoin-grants/grantee-questions/how-can-i-withdraw-my-funds-from-zksync.md)
   * [🏧 How can I withdraw my funds from Polygon?](gitcoin-grants/grantee-questions/how-can-i-withdraw-my-funds-from-polygon.md)
   * [📚 How do I update my Grant's wallet address?](gitcoin-grants/grantee-questions/how-do-i-update-my-grants-wallet-address.md)

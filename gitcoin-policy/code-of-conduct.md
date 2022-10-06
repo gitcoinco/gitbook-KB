@@ -1,7 +1,3 @@
----
-description: 'Last edited: 10/5/2022 at 12:50pm EST by Jodi Callender'
----
-
 # Code of Conduct
 
 **Our Pledge**

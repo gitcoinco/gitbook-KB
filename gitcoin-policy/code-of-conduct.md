@@ -45,3 +45,8 @@ Attribution This Code of Conduct is adapted from the Contributor Covenant, versi
 For answers to common questions about this code of conduct, see:
 
 {% embed url="https://www.contributor-covenant.org/faq" %}
+
+Code of Conduct Github link: \
+
+
+{% embed url="https://github.com/gitcoinco/gitbook-KB/blob/main/gitcoin-policy/code-of-conduct.md" %}

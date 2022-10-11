@@ -46,7 +46,6 @@ For answers to common questions about this code of conduct, see:
 
 {% embed url="https://www.contributor-covenant.org/faq" %}
 
-Code of Conduct Github link: \
-
+Code of Conduct Github link:&#x20;
 
 {% embed url="https://github.com/gitcoinco/gitbook-KB/blob/main/gitcoin-policy/code-of-conduct.md" %}

@@ -14,9 +14,7 @@ The next Grants Round, GR16, will run from December 1st to December 15th.&#x20;
 
 ## Upcoming Grants Rounds
 
-* GR16: December 1-15, 2022\*
-
-_\*These dates are provisional and may change._
+* GR16: TBD
 
 ## Previous Grants Rounds
 

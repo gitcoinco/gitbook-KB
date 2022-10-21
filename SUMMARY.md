@@ -36,7 +36,6 @@
   * [📚 GR15: How to Donate to Gitcoin Grants](gitcoin-grants/funder-questions/gr15-how-to-donate-to-gitcoin-grants.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [My GitHub Account Is Flagged](gitcoin-grants/my-github-account-is-flagged.md)
-* [GTC Staking on your Identity](gitcoin-grants/identity-staking-questions.md)
 * [Gitcoin Grants FAQ](gitcoin-grants/general-questions/README.md)
   * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
   * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-are-public-goods.md)
@@ -57,6 +56,7 @@
 
 * [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)
 * [What are Stamps?](gitcoin-passport/what-are-stamps.md)
+* [GTC Staking on your Identity](gitcoin-passport/identity-staking-questions.md)
 * [What is Ceramic?](gitcoin-passport/what-is-ceramic.md)
 * [How do I create a Gitcoin Passport?](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
 * [How do I add Passport Stamps?](gitcoin-passport/how-do-i-add-passport-stamps/README.md)

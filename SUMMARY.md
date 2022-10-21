@@ -73,7 +73,7 @@
   * [🔌 Connecting Snapshot to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-snapshot-to-passport.md)
   * [🔌 Verifying Ethereum transactions to Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
   * [🔌 Verifying GTC ownership on Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-gtc-ownership-on-passport.md)
-* [Commonly asked Passport questions](gitcoin-passport/common-questions/README.md)
+* [Gitcoin Passport FAQ](gitcoin-passport/common-questions/README.md)
   * [🤔 How do I update my Passport score?](gitcoin-passport/common-questions/how-do-i-update-my-passport-score.md)
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
   * [🤔 How does Trust Bonus work?](gitcoin-passport/common-questions/how-does-trust-bonus-work.md)

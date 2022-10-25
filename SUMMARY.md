@@ -52,6 +52,8 @@
   * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 
+## GITCOIN GRANTS PROTOCOL
+
 ## Gitcoin Passport
 
 * [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)

@@ -54,6 +54,11 @@
 
 ## GITCOIN GRANTS PROTOCOL
 
+* [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
+* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
+* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
+* [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
+
 ## Gitcoin Passport
 
 * [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)

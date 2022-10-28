@@ -32,7 +32,7 @@
 
 Certain rounds may have their own specific KYC requirements and process - so far this has only been the a16z round. Grantees in that round will have received an email with more info on the specific requirements.
 
-### If I’ve done KYC with Gitcoin in the past, do I need to do it again
+### If I’ve done KYC with Gitcoin in the past, do I need to do it again?
 
 Yes, we have created a new system for GR15 therefore you will need to complete KYC again for this for the new system.
 

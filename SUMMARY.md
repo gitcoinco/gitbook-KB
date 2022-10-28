@@ -8,6 +8,7 @@
 * [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
 * [How to Create a Gitcoin Grant](gitcoin-grants/how-to-create-a-gitcoin-grant.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
+* [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [Grantee questions](gitcoin-grants/grantee-questions/README.md)
   * [Platform Level Grant Participation Policy](gitcoin-grants/grantee-questions/platform-level-grant-participation-policy.md)

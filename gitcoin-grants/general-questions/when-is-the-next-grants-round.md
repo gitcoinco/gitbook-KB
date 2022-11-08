@@ -1,23 +1,30 @@
 ---
-description: Grants Round 15 will run September 7-22.
+description: Major changes to the Gitcoin quarterly Grants Rounds program
 ---
 
 # 📚 When is the next Grants Round?
 
-Gitcoin Grants Rounds operate on a quarterly cadence. During Grants Rounds, you may[ donate to your favorite causes, ecosystems, and public goods.](https://gitcoin.co/grants/explorer/)
+Historically, the Gitcoin Grants Rounds operate on a quarterly cadence. However, [Governance](https://gov.gitcoin.co/) has approved the decision to sunset centralized grants (cGrants) and transition to the [Grants Protocol](https://support.gitcoin.co/gitcoin-grants-protocol).
 
-The next Grants Round, GR16 is tentatively scheduled to run from December 1st to December 15th.&#x20;
+GR16 will not happen in December of 2022 and instead, we’ll run a streamlined Alpha Round on the protocol in January 2023 with the goal of testing the product while supporting established grantees.\
+\
+The Alpha Round will consist of 3 separate matching pools: Open Source Software, Ethereum Infrastructure, and Climate Solutions. These rounds will only be open to a subset of existing grantees with a goal to support about 300 projects in total.
+
+We will also be running a variety of smaller design partner rounds on the protocol in the weeks ahead to support the design phase of the protocol.\
+\
+More information about eligibility will be released soon. In the meantime, you can learn more about this decision in the [Governance Forum](https://gov.gitcoin.co/t/discussion-feedback-request-grants-protocol-alpha-round-eligibility/11873).&#x20;
 
 ## Current Grants Round
 
-* GR15: September 7-22, 2022
+* ~~GR16: December 1-15, 2022~~
 
 ## Upcoming Grants Rounds
 
-* GR16: TBD
+* Alpha Round: January 17-31, 2023
 
 ## Previous Grants Rounds
 
+* GR15: September 7-22, 2022
 * GR14: June 8-23, 2022
 * GR13: March 9-24, 2022
 * GR12: December 1-16, 2021

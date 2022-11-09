@@ -2,25 +2,11 @@
 description: Get answers to questions commonly asked about GitcoinDAO.
 ---
 
-# DAO FAQ
+# Gitcoin Governance
 
-We've curated a collection of the most commonly asked general questions about how Gitcoin's DAO works. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
+We've curated a collection of the most commonly asked general questions about how Gitcoin's governance works. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 
-### General
 
-{% content-ref url="what-is-gitcoindao.md" %}
-[what-is-gitcoindao.md](what-is-gitcoindao.md)
-{% endcontent-ref %}
-
-{% content-ref url="what-is-quadratic-lands.md" %}
-[what-is-quadratic-lands.md](what-is-quadratic-lands.md)
-{% endcontent-ref %}
-
-{% content-ref url="what-does-a-future-gitcoin-dao-look-like.md" %}
-[what-does-a-future-gitcoin-dao-look-like.md](what-does-a-future-gitcoin-dao-look-like.md)
-{% endcontent-ref %}
-
-###
 
 ### Governance
 

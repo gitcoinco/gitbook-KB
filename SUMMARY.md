@@ -56,9 +56,9 @@
 ## GITCOIN GRANTS PROTOCOL
 
 * [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
-* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
-* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
-* [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
+* [Create a project in Grants Hub](gitcoin-grants-protocol/create-a-project-in-grants-hub.md)
+* [Edit your project in Grants Hub](gitcoin-grants-protocol/edit-your-project-in-grants-hub.md)
+* [Apply to a round in Grants Hub](gitcoin-grants-protocol/apply-to-a-round-in-grants-hub.md)
 
 ## Gitcoin Passport
 
@@ -100,41 +100,6 @@
   * [How do I create a bounty?](gitcoin-bounties/bounties-faq/how-do-i-create-a-bounty.md)
   * [How do I get started with Bounties](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [How do I submit work?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
-
-## Gitcoin DAO
-
-* [DAO FAQ](gitcoin-dao/dao-faq/README.md)
-  * [📚 What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
-  * [📚 What are the Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
-  * [📚 What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
-  * [🏢 What are the governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
-  * [🏢 What is the Stewards delegation program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
-  * [🏢 How do I get involved in Gitcoin governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
-  * [🏢 How do I become a Gitcoin Steward?](gitcoin-dao/dao-faq/how-do-i-become-a-gitcoin-steward.md)
-  * [🏢 Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
-
-## Gitcoin Quests
-
-* [Quests FAQ](gitcoin-quests/quests-faq/README.md)
-  * [How do I mint a kudo?](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
-  * [How do I use kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
-  * [Why can't I access my account?](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
-
-## Gitcoin Token
-
-* [GTC FAQ](gitcoin-token/gtc-faq/README.md)
-  * [📚 Why is Gitcoin launching a token?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
-  * [📚 What is the address of GTC?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
-  * [📚 What is the GTC Issuance?](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
-  * [📚 What types of things can the community govern with GTC?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
-  * [✈ How can I claim my GTC?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
-  * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
-  * [🧙♂ 🧙♂ What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
-  * [🧙♂ 🧙♂ How do I delegate my GTC?](gitcoin-token/gtc-faq/how-do-i-delegate-my-gtc.md)
-  * [💁 I missed the GTC token claim, what happens next?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
-  * [💁 Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 
 ## Gitcoin Policy
 
@@ -199,4 +164,15 @@
 
 ## Misc
 
+* [Contact us](misc/contact-us.md)
+* [GTC Delegation](misc/gtc-delegation/README.md)
+  * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
+  * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)
+  * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+* [Gitcoin Governance](misc/dao-faq/README.md)
+  * [🏢 What are the governance workstreams?](misc/dao-faq/what-are-governance-workstreams.md)
+  * [🏢 What is the Stewards delegation program?](misc/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
+  * [🏢 How do I get involved in Gitcoin governance?](misc/dao-faq/how-do-i-get-involved-in-governance.md)
+  * [🏢 Who chooses Stewards?](misc/dao-faq/who-chooses-stewards.md)
+  * [🏢 How do I become a Gitcoin Steward?](misc/dao-faq/how-do-i-become-a-gitcoin-steward.md)
 * [Gitcoin Security Bounty Program](misc/gitcoin-security-bounty-program.md)

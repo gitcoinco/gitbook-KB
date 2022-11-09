@@ -1,4 +1,4 @@
-# How to apply to a round in Grants Hub
+# Apply to a round in Grants Hub
 
 Do you want to apply to a round? _Here’s how._
 
@@ -19,8 +19,7 @@ There's three possible journeys currently:
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-23 at 17.23.14.png" alt=""><figcaption></figcaption></figure>
 
 * Answer a series of required questions that follow.
-*   When it’s all complete, click on “Preview Application,” where you can see your application answers before you submit. _Make sure that all the information is captured correctly,_ then click “Submit.”
-
-    * You will then be prompted to “Sign” through your wallet.
-
-    _Note: with each application you submit,_ you will have to pay gas fees, because creating/editing a project is an on-chain transaction\*.\*
+* When it’s all complete, click on “Preview Application,” where you can see your application answers before you submit. _Make sure that all the information is captured correctly,_ then click “Submit.”
+* You will then be prompted to “Sign” through your wallet.\
+  \
+  _Note: with each application you submit,_ you will have to pay gas fees, because creating/editing a project is an on-chain transaction\*.\*

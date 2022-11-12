@@ -1,16 +1,18 @@
-# What are Gitcoin Grants ?
+# What is the Gitcoin Grants program?
 
-Gitcoin Grants allows individuals to get funding for a public goods project they are working on. Gitcoin Grants leverages [**Quadratic Funding (QF)**](https://wtfisqf.com/) **** to allocate extra funding from a matching pool to the most impactful projects, based on the number of contributors.
+The Gitcoin Grants program was born from the concept of using [Quadratic Funding (QF)](https://wtfisqf.com/) as a novel mechanism to support and fund public goods via grants. QF was introduced in a [paper](https://arxiv.org/abs/1809.06421v1) published in 2018 by Vitalik Buterin, Zoe Hitzig, and Glen Weyl.
 
-Gitcoin—with the support of the Ethereum Foundation and other matching partners—aims to run at least quarterly rounds in 2022.
+Gitcoin’s mission began in 2017 by creating better incentives to support and fund open-source software developers. The mission eventually solidified to building and sustaining digital public goods. GR1, in 2019, saw 200 contributors and **$38k** raised. Since then, we have run two-week rounds once per quarter, with the most recent being GR15, which saw a total of **$4.4M** distributed to grantees. Across the first 15 grant rounds, $**50.81M** has been distributed in total.
 
-The hope is that the regularly scheduled rounds will allow grantees to use these funds as a strong funding source for their work in the Ethereum community.
+During a QF round, the community contributes to the project they feel should be funded and supported; a matching partner offers funds to match the community’s contributions, but not in a 1:1 match. Instead, the fund matching is more aligned with the sentiment of the community as opposed to the sheer dollar value amount raised by any grantee. The _number of contributions_ matters more than the _amount funded._
+
+For further information on the latest GR15, read the recap [here](https://go.gitcoin.co/blog/gr15-results).
 
 Read more on the Gitcoin Grants launch:
 
 {% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
 
-Got questions? They might already be answered in our grants FAQs. If not, you can open [a support ticket](https://gitcoin.happyfox.com/new).
+Have more questions? They might already be answered in our grants FAQs. If not, you can open [a support ticket](https://gitcoin.happyfox.com/new).
 
 ### Related topics
 

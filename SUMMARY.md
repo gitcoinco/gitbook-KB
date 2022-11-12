@@ -5,13 +5,16 @@
 
 ## Gitcoin Grants
 
-* [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
+* [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
+* [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
+* [Season 16 questions](gitcoin-grants/season-16-questions.md)
 * [How to Create a Gitcoin Grant](gitcoin-grants/how-to-create-a-gitcoin-grant.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [Grantee questions](gitcoin-grants/grantee-questions/README.md)
   * [Platform Level Grant Participation Policy](gitcoin-grants/grantee-questions/platform-level-grant-participation-policy.md)
+  * [🤔 When are the next opportunities to get funding?](gitcoin-grants/grantee-questions/when-are-the-next-opportunities-to-get-funding.md)
   * [🤔 How do I check the status of my Grant?](gitcoin-grants/grantee-questions/how-do-i-check-the-status-of-my-grant.md)
   * [🤔 Why isn't my Grant active?](gitcoin-grants/grantee-questions/why-isnt-my-grant-active.md)
   * [🤔 Can I appeal after my Grant is denied?](gitcoin-grants/grantee-questions/can-i-appeal-after-my-grant-is-denied.md)

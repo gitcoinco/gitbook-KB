@@ -43,7 +43,7 @@ Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem re
 3. Learn from the quarterly stacked event
 4. Repeat
 
-The next quarterly event is GR16, starting in Q4 2022.
+The next quarterly event is a streamlined Alpha Round that will be running on the [Grants Hub Protocol](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/what-is-grants-hub) in January 2023.
 
 ### How to get involved.
 

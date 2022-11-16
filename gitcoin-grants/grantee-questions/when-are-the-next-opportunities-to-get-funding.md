@@ -10,4 +10,4 @@ More information about eligibility will be released soon. In the meantime, you c
 
 From March 2023, the protocol will move into our beta phase and round partners will have the flexibility to use it in a self-service or Gitcoin serviced capacity. This means anyone will be able to use it for their own grants program and round owners can engage Gitcoin for support from an operational, grant review, marketing and fraud detection perspective.
 
-During march, we plan to “officially” launch the protocol and Gitcoin Program with a full scale round similar to GR15, engaging the community and governance to help select the focus areas and partners. This should align with the start of GitcoinDAO’s Season 17.
+During this period, we plan to “officially” launch the protocol and Gitcoin Program with a full scale round similar to GR15, engaging the community and governance to help select the focus areas and partners. This should align with the start of GitcoinDAO’s Season 17.

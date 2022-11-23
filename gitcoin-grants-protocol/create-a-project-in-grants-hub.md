@@ -1,6 +1,6 @@
-# How to create a project in Grants Hub
+# Create a project in Grants Hub
 
-Firstly, you’ll need to connect your wallet. Got to [granthub.gitcoin.co](http://granthub.gitcoin.co), and click on “Connect Wallet.” Here you’ll have the option to connect via Metamask, Coinbase Wallet, or WalletConnect.
+Firstly, you’ll need to connect your wallet. Go to [grantshub.gitcoin.co](https://grantshub.gitcoin.co/), and click on “Connect Wallet.” Here you’ll have the option to connect via Metamask, Coinbase Wallet, or WalletConnect.
 
 Step 1: If you don’t have a wallet set up already, click on “Get a Wallet” to set up your wallet, or “Learn More” to learn more about wallets.
 

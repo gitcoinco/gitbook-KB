@@ -35,6 +35,19 @@ Step 5: Return to the passport browser window and confirm your account is now ve
 
 You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
 
+
+
+### Unable to verify ENS Stamp?
+
+If you receive the error Your address does not have an ENS domain associated, that means the owner bought an ENS domain but didn’t set the reverse records.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.46.47 PM.png" alt=""><figcaption></figcaption></figure>
+
+#### **Solution**
+
+1. You need to set up an ENS reverse record. Please refer to this helpful guide: [https://www.alpharithms.com/ens-reverse-records-guide-552211/](https://www.alpharithms.com/ens-reverse-records-guide-552211/)&#x20;
+2. Once you set the ENS reverse records correctly, please come back to verify your ENS stamp.
+
 ### Still not working?
 
 If you're unable to connect after following these steps, you can [message Gitcoin support on Gitcoin's Discord](https://discord.gg/b5PEjyVFXT), and we'll try to help resolve your issue.

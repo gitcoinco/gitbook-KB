@@ -12,7 +12,7 @@ _Grants Explorer allows donors to browse through and donate to projects that hav
 
 The Grants Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, the landing page could look something like this:
 
-<figure><img src="../.gitbook/assets/App. landing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/App. landing.png" alt=""><figcaption></figcaption></figure>
 
 This page allows you to get information on:
 
@@ -26,7 +26,7 @@ This page allows you to get information on:
 
 The UI of the landing page will change once the round becomes active. That is, once Round Operators have approved projects for their round and the round has begun. The landing page would then look something like this:
 
-<figure><img src="../.gitbook/assets/Landing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Landing.png" alt=""><figcaption></figcaption></figure>
 
 You will be able to:
 
@@ -39,7 +39,7 @@ You will be able to:
 
 As you browse the landing page, you might want to click on a project to learn more about it. You will be led to a page that looks like this:
 
-<figure><img src="../.gitbook/assets/Project Details.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Project Details.png" alt=""><figcaption></figcaption></figure>
 
 Here, you will be able to:
 
@@ -56,7 +56,7 @@ Now, you may be wondering, “What the heck is the Shortlist?” The Shortlist i
 
 As you browse projects on GE, you are able to add projects you like to a non-finalized list that we call the Shortlist. After you are done browsing projects and want to move to the donation portion of the process, you can view your Shortlist by clicking on the Shortlist icon in the top right of the page. You will be greeted with a page like this:
 
-<figure><img src="../.gitbook/assets/Empty Final Ballot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Empty Final Ballot.png" alt=""><figcaption></figcaption></figure>
 
 Here, you will be able to do a number of things:
 
@@ -72,15 +72,15 @@ Here, you will be able to do a number of things:
 
 You then want to select certain projects for your Final Donation:
 
-<figure><img src="../.gitbook/assets/Empty Final Ballot 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Empty Final Ballot 3.png" alt=""><figcaption></figcaption></figure>
 
 After you are satisfied with your selection, the selected projects will move over to the Final Donation list.
 
-<figure><img src="../.gitbook/assets/Pre Donation Input 4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pre Donation Input 4 (1).png" alt=""><figcaption></figcaption></figure>
 
 Here you will be able to fund projects individually, or choose to fund projects uniformly, using the bulk donation feature.
 
-<figure><img src="../.gitbook/assets/Pre Donation Input 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pre Donation Input 5.png" alt=""><figcaption></figcaption></figure>
 
 _You can, at any time, add projects back to your Shortlist if you change your mind._
 
@@ -88,14 +88,14 @@ Once you are satisfied with the projects you've chosen and the donation amount, 
 
 When you submit your donation, you will see this popup giving you a heads up that you will have to sign a couple of transactions using the wallet of your choice.
 
-<figure><img src="../.gitbook/assets/Pre Donation Input 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pre Donation Input 6.png" alt=""><figcaption></figcaption></figure>
 
 Once you agree, a processing modal will pop up showing the progress of the transactions:
 
-<figure><img src="../.gitbook/assets/Pre Donation Input 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pre Donation Input 7.png" alt=""><figcaption></figcaption></figure>
 
 Once everything is submitted and finalized, you're greeted with a confirmation screen:
 
-<figure><img src="../.gitbook/assets/Confirmation Screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Confirmation Screen.png" alt=""><figcaption></figcaption></figure>
 
 And boom! You’ve successfully donated to some cool projects in a cool round. High five 😎 🙌

@@ -7,7 +7,9 @@
 
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
-* [Season 16 questions](gitcoin-grants/season-16-questions.md)
+* [Season 16 questions](gitcoin-grants/season-16-questions/README.md)
+  * [All Grantees questions](gitcoin-grants/season-16-questions/all-grantees-questions.md)
+  * [Non-Alpha round grantees](gitcoin-grants/season-16-questions/non-alpha-round-grantees.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
@@ -61,7 +63,8 @@
 * [Create a project in Grants Hub](gitcoin-grants-protocol/create-a-project-in-grants-hub.md)
 * [Edit your project in Grants Hub](gitcoin-grants-protocol/edit-your-project-in-grants-hub.md)
 * [Apply to a round in Grants Hub](gitcoin-grants-protocol/apply-to-a-round-in-grants-hub.md)
-* [Grants Explorer: How to apply to a round](gitcoin-grants-protocol/grants-explorer-how-to-apply-to-a-round.md)
+* [Grants Explorer Guide](gitcoin-grants-protocol/grants-explorer-guide.md)
+* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-explorer.md)
 
 ## Gitcoin Passport
 

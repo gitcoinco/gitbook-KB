@@ -7,6 +7,7 @@
 
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
+* [What is the Alpha Test Season?](gitcoin-grants/what-is-the-alpha-test-season.md)
 * [Season 16 questions](gitcoin-grants/season-16-questions/README.md)
   * [All Grantees questions](gitcoin-grants/season-16-questions/all-grantees-questions.md)
   * [Non-Alpha round grantees](gitcoin-grants/season-16-questions/non-alpha-round-grantees.md)

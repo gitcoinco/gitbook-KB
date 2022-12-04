@@ -1,5 +1,7 @@
 ---
-description: Here you’ll find a guide on how to use the Grants Explorer platform.
+description: >-
+  Here you’ll find a guide on how to use the Grants Explorer platform, including
+  connecting your wallet and donating to projects.
 ---
 
 # Grants Explorer Guide
@@ -84,9 +86,36 @@ Here you will be able to fund projects individually, or choose to fund projects 
 
 _You can, at any time, add projects back to your Shortlist if you change your mind._
 
-Once you are satisfied with the projects you've chosen and the donation amount, you are able to submit your donation. You must **connect your wallet** in order to submit your donation.
+Once you are satisfied with the projects you've chosen and the donation amount, you are able to submit your donation. You must **connect your wallet** in order to submit your donation:
 
-When you submit your donation, you will see this popup giving you a heads up that you will have to sign a couple of transactions using the wallet of your choice.
+<figure><img src="../../.gitbook/assets/Pre Donation Input 8.png" alt=""><figcaption></figcaption></figure>
+
+When you connect your wallet, a few pop-ups will appear to facilitate wallet connection: in the first pop-up, you'll be able to:
+
+* Choose from a list of wallets to connect to
+* Obtain a wallet if you don't have one&#x20;
+
+If you _don't_ have a wallet, you can choose to create a wallet and connect:
+
+<figure><img src="../../.gitbook/assets/Pre Donation Input 9.png" alt=""><figcaption></figcaption></figure>
+
+If you _do_ have a wallet, you'll be able to connect your wallet by selecting it from the list.&#x20;
+
+For example, if you hold a MetMask wallet, it'll look a bit like this:
+
+* First, you must enter your password
+
+<figure><img src="../../.gitbook/assets/Pre Donation Input 13.png" alt=""><figcaption></figcaption></figure>
+
+* Then, you must choose which account you'd like to connect
+
+<figure><img src="../../.gitbook/assets/Pre Donation Input 11.png" alt=""><figcaption></figcaption></figure>
+
+* Finally, you must confirm and then connect
+
+<figure><img src="../../.gitbook/assets/Pre Donation Input 12.png" alt=""><figcaption></figcaption></figure>
+
+**When you submit your donation**, you will see this popup giving you a heads up that you will have to sign a couple of transactions using the wallet of your choice.
 
 <figure><img src="../../.gitbook/assets/Pre Donation Input 6.png" alt=""><figcaption></figcaption></figure>
 

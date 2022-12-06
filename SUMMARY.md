@@ -8,9 +8,9 @@
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
 * [What is the Alpha Test Season?](gitcoin-grants/what-is-the-alpha-test-season.md)
-* [Season 16 questions](gitcoin-grants/season-16-questions/README.md)
-  * [All Grantees questions](gitcoin-grants/season-16-questions/all-grantees-questions.md)
-  * [Non-Alpha round grantees](gitcoin-grants/season-16-questions/non-alpha-round-grantees.md)
+* [Season 16 FAQ](gitcoin-grants/season-16-faq/README.md)
+  * [All Grantees FAQ](gitcoin-grants/season-16-faq/all-grantees-faq.md)
+  * [Non-Alpha round grantees FAQ](gitcoin-grants/season-16-faq/non-alpha-round-grantees-faq.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
 * [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
@@ -61,7 +61,7 @@
 ## GITCOIN GRANTS PROTOCOL
 
 * [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
-* [Create a project in Grants Hub](gitcoin-grants-protocol/create-a-project-in-grants-hub.md)
+* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
 * [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
 * [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
 * [Grants Explorer Guide](gitcoin-grants-protocol/grants-explorer-guide/README.md)

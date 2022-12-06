@@ -1,4 +1,4 @@
-# Season 16 questions
+# Alpha Test Season FAQ
 
 *   **What resources are available for Grantees not eligible for funding rounds in Season 16?**
 

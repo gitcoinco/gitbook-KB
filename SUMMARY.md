@@ -62,10 +62,10 @@
 
 * [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
 * [Create a project in Grants Hub](gitcoin-grants-protocol/create-a-project-in-grants-hub.md)
-* [Edit your project in Grants Hub](gitcoin-grants-protocol/edit-your-project-in-grants-hub.md)
+* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
 * [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
-* [Grants Explorer Guide](gitcoin-grants-protocol/grants-explorer-guide.md)
-* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-explorer.md)
+* [Grants Explorer Guide](gitcoin-grants-protocol/grants-explorer-guide/README.md)
+* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
 
 ## Gitcoin Passport
 

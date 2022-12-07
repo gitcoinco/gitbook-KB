@@ -16,4 +16,4 @@ We are aware of the issues many donors have been experiencing lately with GitHub
 \
 In alignment with our mission as a protocol DAO, your login experience will become more straightforward starting with the [Alpha Rounds in December 2022 and a larger Gitcoin Round in mid-January 2023](https://go.gitcoin.co/blog/announcing-the-gitcoin-alpha-tests).&#x20;
 
-Logging in to your profile will simply mean connecting to your web3 wallet. You can manage your decentralized identity and increase your trust bonus by connecting the same wallet to [Gitcoin Passport](https://support.gitcoin.co/gitcoin).
+Logging in to your profile will simply mean connecting to your web3 wallet. You can manage your decentralized identity and increase your trust bonus by connecting the same wallet to [Gitcoin Passport](https://support.gitcoin.co/gitcoin-passport).

@@ -10,8 +10,6 @@ description: Advice for first-time and returning Grantees.
 
 Try to get it ready 15 days before the start of the Grants Round. Give time to the process of getting your grant approved and for the team to review your Tags Request.
 
-Check out the [GR15 Round Briefs](https://docs.google.com/document/d/1KQ9NofHCXvRKyvy18iuiwINMVifAtNGESRb3pV2HJtM/edit) for the specific eligibility requirements of each round. &#x20;
-
 #### Start with a TL;DR or summary
 
 Provide a brief overview of what it is that you're trying to do. Some key questions to answer upfront:
@@ -21,19 +19,15 @@ Provide a brief overview of what it is that you're trying to do. Some key questi
 * Any other specific relevant information.&#x20;
 * If you are tagging your project for a specific round, be very proactive about trying to illustrate how your project fits within that round.
 
-Many donor only read the beginning of a grant proposal, so start with a concise summary that includes how you plan to use the grant funding. You can add more technical specifications further down, or link to your website for more details
+Many donors only read the beginning of a grant proposal, so start with a concise summary that includes how you plan to use the grant funding. You can add more technical specifications further down, or link to your website for more details
 
-#### Add a 1-2 minute explainer video&#x20;
-
-Show your face and your creativity. People love videos and they are a very engaging way to quickly showcase all the important aspects of your project. Regular updates to your content demonstrate to potential supporters that you are consistently improving your project.
-
-#### Explain what your are building & why it's important in your grant title
+#### Explain what you are building & why it's essential in your grant title
 
 Placing header descriptions is very helpful when going through grants - it gives you an idea of what they are about. Keep your description simple and clear. The first line of your description will also be visible in your thumbnail so it is a good idea to communicate your best hook right here.
 
 #### Compare your solution vs the Status Quo
 
-When describing your project, try to demonstrate its importance by contrasting your solution to a well known project. This is a powerful statement that clearly demonstrates what exactly you are trying to change and why.
+When describing your project, try to demonstrate its importance by contrasting your solution to a well-known project. This is a powerful statement that clearly demonstrates what exactly you are trying to change and why.
 
 #### New to Gitcoin and have more questions about setting up your grant?
 
@@ -53,21 +47,17 @@ Often, the people involved in the project are just as critical as the innovation
 
 These are two very important sections to be included in your Grant page.
 
-Be very specific about all the activities and projects you worked on with the funds from the latest round. Share links of finished projects or products so that the community can see their support materialized.
+Be very specific about all the activities and projects you worked on with the funds from the latest round. Share finished projects or products so that the community can see their support materialized.
 
-And of course, set up a detailed plan of what are your plans moving forward if the community decides to support you again.
-
-#### Add impactful presentations
-
-It can be a slide deck or pdf. Seek feedback from your community before posting to make sure that it resonates.&#x20;
+And of course, set up a detailed plan of your plans moving forward if the community decides to support you again.
 
 #### Have a separate section to prove your impact
 
-A very important success factor is that your supporters want to know what you end up doing with their funds and how that success is shared transparently with all the community. Document your previous impact or link to an impact report. Videos, statistics and graphs, or proof of the activities are all permitted.
+A very important success factor is that your supporters want to know what you end up doing with their funds and how that success is shared transparently with the community. Document your previous impact.
 
 ## COMMUNITY BUILDING AND MARKETING YOUR GRANT&#x20;
 
-#### Share your failures as part as your evolution
+#### Share your failures as part of your evolution
 
 We all know you are not perfect. There is a lot of value in showing the community that you are learning from your mistakes and listening to the feedback after trying something. It didn't work but you have a plan moving forward. People will want to support a team that seems to be iterating.
 
@@ -75,7 +65,7 @@ One of the most beautiful ideals of open source development is doing and learnin
 
 #### Twitter engagement is more important than a large following
 
-Often the most successful grantees have a true and solid community. Never get disconnected from your audience (do not contact them only when you are crowdfunding). Once they start following your project, maintain a constant contact with all of them. Don’t worry about your following numbers, just focus on having a true connection with your actual community and make sure they are fully engaged with your project.
+Often the most successful grantees have a true and solid community. Never get disconnected from your audience (do not contact them only when you are crowdfunding). Once they start following your project, maintain constant contact with all of them. Don’t worry about your following numbers, just focus on having a true connection with your actual community and make sure they are fully engaged with your project.
 
 #### Reach out to your community early
 

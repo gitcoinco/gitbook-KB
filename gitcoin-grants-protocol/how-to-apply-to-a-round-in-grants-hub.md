@@ -1,10 +1,10 @@
-# Apply to a round in Grants Hub
+# How to apply to a round in Grants Hub
 
-Do you want to apply to a round? _Here’s how._
+Do you want to apply for a round? _Here’s how._
 
-There's three possible journeys currently:
+There are three possible journeys currently:
 
-1: You arrive at [granthub.gitcoin.co](http://granthub.gitcoin.co/) directly > you can create a project -- that's it.
+1: You arrive at [grantshub.gitcoin.co](https://grantshub.gitcoin.co/) directly > you can create a project -- that's it.
 
 2: You can arrive via the special application link the first time, and we'll detect that you haven't created a project yet and redirect you to create a project first. When you're done creating a project, you'll see a banner to apply to the round. Then you can return to the application page and fill out and submit an application
 

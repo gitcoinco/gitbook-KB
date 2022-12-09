@@ -12,7 +12,7 @@ _Grants Explorer allows donors to browse through and donate to projects that hav
 
 ### Pre-Round Screen
 
-The Grants Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, the landing page could look something like this:
+The [Grants Explorer](https://grant-explorer.gitcoin.co) landing page UI changes based on whether a round has started or not. If a round has not begun yet, the landing page could look something like this:
 
 <figure><img src="../../.gitbook/assets/App. landing.png" alt=""><figcaption></figcaption></figure>
 

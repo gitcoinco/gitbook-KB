@@ -3,6 +3,15 @@
 * [Welcome to Gitcoin support](README.md)
 * [What is Gitcoin?](<README (1).md>)
 
+## GITCOIN GRANTS PROTOCOL
+
+* [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
+* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
+* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
+* [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
+* [How to donate to a project in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/README.md)
+* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
+
 ## Gitcoin Grants
 
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
@@ -57,15 +66,6 @@
   * [🤨 I see a Grant that I don't like, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
   * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
-
-## GITCOIN GRANTS PROTOCOL
-
-* [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
-* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
-* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
-* [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
-* [How to donate to a project in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/README.md)
-* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
 
 ## Gitcoin Passport
 

@@ -9,8 +9,11 @@
 * [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
 * [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
 * [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
-* [How to donate to a project in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/README.md)
 * [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
+* [Funder FAQ](gitcoin-grants-protocol/funder-faq/README.md)
+  * [Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
+  * [How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)
+  * [Using the shortlist function to donate](gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate.md)
 
 ## Gitcoin Grants
 

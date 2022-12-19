@@ -10,6 +10,8 @@ description: >-
 
 _Grants Explorer allows donors to browse through and donate to projects that have been approved in any single round._
 
+To visit Grants Explorer, you will need to go to the specific link for each round. Round operators will share those through the specific round’s Grants Explorer via a direct link on Twitter, website, etc.
+
 ### Pre-Round Screen
 
 The Grants Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, the landing page could look something like this:

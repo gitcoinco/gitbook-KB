@@ -20,8 +20,8 @@ Have more questions? They might already be answered in our grants FAQs. If not, 
 [grantee-questions](grantee-questions/)
 {% endcontent-ref %}
 
-{% content-ref url="funder-questions/" %}
-[funder-questions](funder-questions/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="general-questions/" %}

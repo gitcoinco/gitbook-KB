@@ -6,8 +6,8 @@
 
 {% embed url="https://support.gitcoin.co/gitcoin-grants-protocol" %}
 
-{% content-ref url="gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
-[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
+{% content-ref url="gitcoin-grants-protocol/funder-faq/what-do-i-do-if-my-contributions-are-missing.md" %}
+[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants-protocol/funder-faq/what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
 {% content-ref url="gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md" %}

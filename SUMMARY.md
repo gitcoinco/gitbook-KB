@@ -11,9 +11,10 @@
 * [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
 * [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
 * [Funder FAQ](gitcoin-grants-protocol/funder-faq/README.md)
-  * [Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
-  * [How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)
-  * [Using the shortlist function to donate](gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate.md)
+  * [📚 Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
+  * [📚 How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)
+  * [📚 Using the shortlist function to donate](gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate.md)
+  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants-protocol/funder-faq/what-do-i-do-if-my-contributions-are-missing.md)
 
 ## Gitcoin Grants
 
@@ -50,9 +51,6 @@
   * [📚 Can I appeal the eligibility tags?](gitcoin-grants/grantee-questions/can-i-appeal-the-eligibility-tags.md)
   * [📚 How do I maximize my contributions?](gitcoin-grants/grantee-questions/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [📚 Should I create a new Grant for every Grants Round?](gitcoin-grants/grantee-questions/should-i-create-a-new-grant-for-every-grants-round.md)
-* [Funder FAQ](gitcoin-grants/funder-questions/README.md)
-  * [📚 GR15: How to Donate to Gitcoin Grants](gitcoin-grants/funder-questions/gr15-how-to-donate-to-gitcoin-grants.md)
-  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 * [Gitcoin Grants FAQ](gitcoin-grants/general-questions/README.md)
   * [📚 When is the next Grants Round?](gitcoin-grants/general-questions/when-is-the-next-grants-round.md)
   * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-are-public-goods.md)

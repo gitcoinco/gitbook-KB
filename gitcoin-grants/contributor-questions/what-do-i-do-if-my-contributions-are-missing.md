@@ -6,9 +6,11 @@ description: >-
 
 # 📚 Why aren't my contributions showing on my profile?
 
-Sometimes aren't logged properly on your Gitcoin profile. Even if your transaction is not logged on your Gitcoin profile, any grants you donated to will have received the funds.&#x20;
+Sometimes transactions aren't logged properly on your Gitcoin profile. Even if your transaction is not logged on your Gitcoin profile, any grants you donated to will have received the funds.&#x20;
 
-You can add them to your Gitcoin profile by using [the add missing contributions form on Gitcoin](https://gitcoin.co/grants/add-missing-contributions).
+You can add missing transactions to your Gitcoin profile by using [the add missing contributions form on Gitcoin](https://gitcoin.co/grants/add-missing-contributions).
+
+Note: If you used the Gitcoin Grants Explorer to donate to a project the transactions will not be reflected on your Gitcoin profile as Grants Explorer is completely decentralized and only a _non_-_custodial_ wallet is required.&#x20;
 
 {% embed url="https://gitcoin.co/grants/add-missing-contributions" %}
 

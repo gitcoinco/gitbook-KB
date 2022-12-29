@@ -14,7 +14,7 @@
   * [📚 Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)
   * [📚 Using the shortlist function to donate](gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate.md)
-  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants-protocol/funder-faq/what-do-i-do-if-my-contributions-are-missing.md)
+  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
 
 ## Gitcoin Grants
 
@@ -26,7 +26,6 @@
   * [Non-Alpha round grantees FAQ](gitcoin-grants/alpha-test-season-faq/non-alpha-round-grantees-faq.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
-* [GR15 Gitcoin Grant Eligibility Briefs](gitcoin-grants/gr15-gitcoin-grant-eligibility-briefs.md)
 * [Grantee FAQ](gitcoin-grants/grantee-questions/README.md)
   * [Platform Level Grant Participation Policy](gitcoin-grants/grantee-questions/platform-level-grant-participation-policy.md)
   * [🤔 When are the next opportunities to get funding?](gitcoin-grants/grantee-questions/when-are-the-next-opportunities-to-get-funding.md)

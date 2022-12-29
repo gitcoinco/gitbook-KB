@@ -4,7 +4,7 @@ description: >-
   connecting your wallet and donating to projects.
 ---
 
-# 📚 Grants Explorer Guide
+# Grants Explorer Guide
 
 ## TL;DR
 

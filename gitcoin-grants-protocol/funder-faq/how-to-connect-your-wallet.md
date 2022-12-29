@@ -4,7 +4,7 @@ description: >-
   you will find a step-by-step guide on how to connect your wallet.
 ---
 
-# 📚 How to connect your wallet
+# How to connect your wallet
 
 _First, make sure that you have connected your wallet. If you've already connected a wallet._
 

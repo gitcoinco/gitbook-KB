@@ -16,17 +16,14 @@ More information about eligibility will be released soon. In the meantime, you c
 
 ## Current Grants Round
 
-* Fantom Round: Dec 12, 2022 - Jan 2, 2023
+* ~~GR16: December 1-15, 2022~~
 
 ## Upcoming Grants Rounds
 
-* Gitcoin Alpha Round: January 17-31, 2023
-* Optimism Retroactive Public Goods Funding Round 2: January 31 - February 10, 2023
-* Alchemix Round: February (exact dates TBC)
+* Alpha Round: January 17-31, 2023
 
 ## Previous Grants Rounds
 
-* UNICEF Round: December 9-21, 2022
 * GR15: September 7-22, 2022
 * GR14: June 8-23, 2022
 * GR13: March 9-24, 2022

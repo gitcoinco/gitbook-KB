@@ -5,7 +5,7 @@ description: >-
   to light.
 ---
 
-# Non-Alpha round grantees
+# Non-Alpha round grantees FAQ
 
 ### When can I participate in grants again
 
@@ -23,4 +23,4 @@ description: >-
 
 * Only by donating - but look for announcements on future Alpha rounds and the upcoming protocol launch!
 
-_Do you have more questions? Join this_ [_Telegram group_](https://t.me/+xiZqWLiVx2YxYjA5) _or email support@gitcoin.co._
+_Do you have more questions? Join the_[ _Gitcoin Discord_](https://discord.gg/b5PEjyVFXT) _or_ [_submit a ticket to support_](https://gitcoin.happyfox.com/new)_._

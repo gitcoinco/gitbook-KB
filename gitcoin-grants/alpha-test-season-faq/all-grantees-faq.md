@@ -5,7 +5,7 @@ description: >-
   goes live.
 ---
 
-# All Grantees FAQ
+# All Grantees questions
 
 ### How much of my info will stay intact?
 
@@ -22,7 +22,7 @@ description: >-
 
 ### What if my community or I have questions?
 
-* Join the[ Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).
+* Join the grantee [Telegram group](https://t.me/+xiZqWLiVx2YxYjA5), or email support@gitcoin.co.
 
 ### How easy will it be to share with my community?
 

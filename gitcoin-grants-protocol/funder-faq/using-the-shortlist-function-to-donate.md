@@ -5,7 +5,7 @@ description: >-
   function within Grants Explorer.
 ---
 
-# Using the shortlist function to donate
+# 📚 Using the shortlist function to donate
 
 ### The Shortlist
 

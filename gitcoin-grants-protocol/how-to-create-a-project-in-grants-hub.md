@@ -6,7 +6,7 @@ description: >-
 
 # How to create a project in Grants Hub
 
-**Note:** _You can only edit your grant up until the round goes live! If you must edit your grant after the round is live, you must re-apply to your round as a new grant. This is done to ensure sybil protection._\
+**Note:** _You can only edit your grant up until the round goes live! If you must edit your grant after the round is live, you must re-apply to your round as a new grant. This is done to ensure Sybil protection._\
 \
 Firstly, you’ll need to connect your wallet. Go to [grantshub.gitcoin.co](https://grantshub.gitcoin.co/), and click on “Connect Wallet.” Here you’ll have the option to connect via Metamask, Coinbase Wallet, or WalletConnect.
 
@@ -16,7 +16,7 @@ _If you don’t have a wallet set up already, click on “Get a Wallet” to set
 
 ### Before You Continue
 
-Ensure that you have some ETH on Optimism in your Metamask or other noncustodial wallet. This is because project proposals will now be minted to the blockchain and thus will require a gas (transaction) fee. Optimism gas fees will be very low.
+Ensure that you have some ETH on Optimism in your Metamask or another noncustodial wallet. This is because project proposals will now be minted to the blockchain and thus will require a gas (transaction) fee. Optimism gas fees will be very low.
 
 Optimism has a good Help Center including these resources:&#x20;
 
@@ -29,7 +29,7 @@ Optimism has a good Help Center including these resources:&#x20;
 
 1. Go to the specific Gitcoin Grants Hub link and connect your wallet.
 
-&#x20; a. Grants Hub is one of the core areas of the new Grants Protocol — it focuses on tools for project owners to create and manage their projects and build project reputation. This will feed a universal project registry, from which round operators can source projects for their rounds.
+&#x20; a. Grants Hub is one of the core areas of the new Grants Protocol — it focuses on tools for project owners to create and manage their projects and build project reputations. This will feed a universal project registry, from which round operators can source projects for their rounds.
 
 &#x20; b. **Note:** If you have multiple team members, ensure that the person most likely to update your proposal is the one submitting your project. For the Alpha test, only one person will have access to editing your project on the Grants Hub.&#x20;
 
@@ -37,7 +37,7 @@ Optimism has a good Help Center including these resources:&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-01-02 at 21.05.39.png" alt=""><figcaption></figcaption></figure>
 
-3\. Select the correct network for your round. For example, the Alpha Test Climate Solutions round, select Optimism:
+3\. Select the correct network for your round. For example, in the Alpha Test Climate Solutions round, select Optimism:
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-01-02 at 21.15.44.png" alt=""><figcaption></figcaption></figure>
 

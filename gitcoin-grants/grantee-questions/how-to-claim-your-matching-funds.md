@@ -12,7 +12,7 @@ How to withdrawl matching funds
 
 ●       You will need to pay gas fees for the transaction
 
-●       Matching funds are paid out in DAI on mainnet
+●       Matching funds are paid out in DAI on mainnet or another ERC-20 depending on specific ecosystem rounds
 
 1. Go to [https://gitcoin.co](https://gitcoin.co) and log in with the same account used to set up the grant. Even if you have other teammates listed on the grant, they cannot claim the matching funds. It must be the account that created the grant.
 2. Once you are logged in, connect the wallet that you want to receive the matching funds. We recommend using Metamask. The wallet does not have to be the same wallet that was used to set up the grant.

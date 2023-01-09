@@ -63,6 +63,6 @@ This guide will provide steps for #1: Creating Your Grant
 
 7\. You can edit your project by following [these simple instructions](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/edit-your-project-in-grants-hub). Note that each time you edit and “Save and Publish,” you will need to pay gas fees because creating/editing a project is now an on-chain transaction.&#x20;
 
-&#x20; a. **Important:** You can only edit your grant up until the round goes live! If you must edit your grant after the round is live, you will need to re-apply to your round as a new grant. This is done to ensure Sybil protection.
+&#x20; a. **Important:** You can only edit your grant until it's added to a specific round. If you must edit your grant after the round is live, you will need to re-apply to your round as a new grant. This is done to ensure Sybil protection.
 
 _We appreciate your input and feedback during this test of the new protocol. You can find answers to common questions under the_ [_Grants Protocol tab_](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/what-is-grants-hub)_._

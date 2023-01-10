@@ -35,9 +35,7 @@ This guide will provide steps for #1: Creating Your Grant
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-01-02 at 21.05.39.png" alt=""><figcaption></figcaption></figure>
 
-3\. Select the correct network for your round.&#x20;
-
-<figure><img src="../.gitbook/assets/Screen Shot 2023-01-02 at 21.15.44.png" alt=""><figcaption></figcaption></figure>
+3\. Select the correct network for your round (please confirm the correct network with the Round Manager in order for your project to be accepted in the desired round).
 
 4\. Next, you will go to the Project Details page as shown below:
 

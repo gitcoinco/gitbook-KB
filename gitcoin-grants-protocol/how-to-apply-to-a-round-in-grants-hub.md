@@ -20,6 +20,11 @@ There are three possible journeys currently:
 
 * Answer a series of required questions that follow.
 * When it’s all complete, click on “Preview Application,” where you can see your application answers before you submit. _Make sure that all the information is captured correctly,_ then click “Submit.”
-* You will then be prompted to “Sign” through your wallet.\
-  \
-  _Note: with each application you submit,_ you will have to pay gas fees, because creating/editing a project is an on-chain transaction\*.\*
+* You will then be prompted to “Sign” through your wallet.
+* After successfully applying to a round you will be able to view and confirm your applications by clicking on the Grants Hub banner on the top left corner of the page and then going to My Projects > Select the project you applied with > My Applications on the right-hand side.&#x20;
+
+<figure><img src="../.gitbook/assets/Project applications.png" alt=""><figcaption></figcaption></figure>
+
+* You can see if your application is In Review, Approved, or Rejected.
+
+_Note: with each application you submit,_ you will have to pay gas fees, because creating/editing a project is an on-chain transaction\*.\*\

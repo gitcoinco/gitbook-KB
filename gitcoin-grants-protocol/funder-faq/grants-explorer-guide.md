@@ -30,7 +30,7 @@ This page allows you to get information on:
 
 The UI of the landing page will change once the round becomes active. That is, once Round Operators have approved projects for their round and the round has begun. The landing page would then look something like this:
 
-<figure><img src="../../.gitbook/assets/Landing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Landing (2).png" alt=""><figcaption></figcaption></figure>
 
 You will be able to:
 

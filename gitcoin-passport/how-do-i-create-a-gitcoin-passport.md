@@ -1,37 +1,63 @@
 ---
-description: Instructions for creating a Gitcoin Passport from your Gitcoin account.
+description: >-
+  Here you’ll find a guide on how to connect your wallet to Passport and become
+  eligible for your donations to be matched on Grants Explorer.
 ---
 
-# How do I create a Gitcoin Passport?
+# Grants Explorer 🤝 Passport Guide
 
-### Prerequisites&#x20;
+## TL;DR
 
-* You should already have a Gitcoin Account
+Passport verification allows you to verify your identity as a good actor (and not sybil attackers), and to qualify for your donations to be matched.
 
-### How to create a Gitcoin Passport
+## General Overview
 
-Step 1: Navigate to your Gitcoin profile page. Click the **Trust Bonus** tab
+### Landing page
 
-<figure><img src="../.gitbook/assets/create-passport-one.png" alt=""><figcaption></figcaption></figure>
+When you first arrive on the Grants Explorer landing page, you will see a purple banner indicating you to connect their wallet (_top righthand corner_):
 
-Step 2: Click Create Passport to visit [passport.gitcoin.co](http://passport.gitcoin.co)
+<figure><img src="../.gitbook/assets/Landing.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click on **Connect Wallet**
+Once you have connected your wallet, you will see either one of two screens. A green banner at the top, or a red banner:
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-07 at 17.58.13.png" alt=""><figcaption></figcaption></figure>
+#### Green banner
 
-Step 4: You’ll see a number of available wallets. Pick the one that best suits you.
+You will see a green banner if you have a Passport and have a high enough score - _you will be eligible for donation matching_. This means that you have verified your identity by connecting to enough stamps to have a Passport score that meets or surpasses the scoring threshold. You can now continue browsing and donating - no further steps are required. You can always view your score if you wish to do so by clicking on the prompt in the green banner you'll see at the top of the screen.
 
-<figure><img src="../.gitbook/assets/create-passport-four.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Verified.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: A signature request modal will pop up. Read it carefully and then click **Sign**.
+#### Red banner
 
+You will see a red banner if you don’t have a Passport yet, or if you do have a Passport but your score is too low. You will then have the option to create a Passport and/or view your score and increase it.
 
+<figure><img src="../.gitbook/assets/Ineligible.png" alt=""><figcaption></figcaption></figure>
 
-You’ll find yourself on the “My Stamps” page. You have successfully created a Gitcoin Passport 🎉! [Now it’s time to add Stamps.](how-do-i-add-passport-stamps/)
+### Passport scoring page
 
-### Related topics
+You can access this page when you click on “view my score” in the top banner.
 
-{% content-ref url="how-do-i-add-passport-stamps/" %}
-[how-do-i-add-passport-stamps](how-do-i-add-passport-stamps/)
-{% endcontent-ref %}
+If you do not have a Passport yet, you will see this page. Here, you will have step-by-step instructions on how to create a Passport and verify your identity by connecting to various stamps. You will also have access to an article that will dive deep on what Passport is, its value, and how it works.
+
+<figure><img src="../.gitbook/assets/No_Passport.png" alt=""><figcaption></figcaption></figure>
+
+When you click on the “Create a Passport” button, a new window will open and you will be able to create a Passport and verify your identity by connecting to stamps. This is what that window will look like:
+
+<figure><img src="../.gitbook/assets/Passport_Stamps.png" alt=""><figcaption></figcaption></figure>
+
+Once you have, ideally, connected to as many stamps as you can, you can close this window and return to the passport scoring window. Then, as per the step-by-step directions, you must update your score. You can do so by clicking on the “Update score” button.
+
+### Ineligible scores
+
+A score will be ineligible if you do not have a Passport or if your Passport score is too low. You will see a screen like this:
+
+<figure><img src="../.gitbook/assets/Ineligible (1).png" alt=""><figcaption></figcaption></figure>
+
+If you wish to raise your score, your must open Passport and verify with as many stamps as you can. Once you have verified more stamps, then you should have an eligible score. If not, then there is not much more you can do. _You will still be able to donate, but your donations will not be matched._
+
+### Eligible scores
+
+After you have connected to Passport, verified enough stamps, and updated your score, your score will be eligible for donation matching. You will see a screen like this:
+
+<figure><img src="../.gitbook/assets/Eligible.png" alt=""><figcaption></figcaption></figure>
+
+After reaching an eligible score, no further action is needed. You can go back to browsing and know that your donations will be matched.

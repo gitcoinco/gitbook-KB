@@ -19,7 +19,7 @@ Usually, this means that you created your Passport on another network (i.e., not
 5. Click “Connect Wallet”.
 6. Return to [gitcoin.co/trust](http://gitcoin.co/trust) and log in with your Ethereum wallet and connect your passport.
 
-### **Issue 2:** The Trust Bonus page does not respond after you click “Connect Passport”
+### **Issue 2:** The page does not respond after you click “Connect Passport”
 
 The issue is often related to the Brave browser blocking JavaScript.
 
@@ -31,7 +31,7 @@ Turn off the Brave shields and try again.
 
 ### Issue 3: Your address does not have an ENS domain associated
 
-The funder bought an ENS domain, but didn’t set the reverse records.
+The funder bought an ENS domain but didn’t set the reverse records.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.46.47 PM.png" alt=""><figcaption></figcaption></figure>
 

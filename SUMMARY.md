@@ -93,7 +93,7 @@
   * [🤔 How do I update my Passport score?](gitcoin-passport/common-questions/how-do-i-update-my-passport-score.md)
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
   * [🤔 How does Trust Bonus work?](gitcoin-passport/common-questions/how-does-trust-bonus-work.md)
-  * [🤔 How is Gitcoin Passport’s Trust Bonus calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
+  * [🤔 How is Gitcoin Passport’s score calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
   * [🤔 How do I unlink a Passport from my Gitcoin account?](gitcoin-passport/common-questions/how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
   * [🤔 Troubleshooting Passport or Trust Bonus Technical Issues](gitcoin-passport/common-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
   * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)

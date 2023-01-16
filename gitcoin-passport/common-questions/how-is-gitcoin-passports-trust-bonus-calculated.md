@@ -19,3 +19,9 @@ By way of background, the [APU scoring method](https://docs.google.com/presentat
   * Median score = the APU score separating the higher half from the lower half of the APU scores of all the submitted Passports in cGrants.
 * Scales linearly in the number of stamps while maintaining the same interpretation.
 * It has a closed-form solution that is easy to implement.
+
+For a complete breakdown of the Gitcoin Passport Stamp weights please check out below:&#x20;
+
+{% embed url="https://github.com/gitcoinco/passport-scorer/blob/main/api/scorer/settings/gitcoin_passport_weights.py" %}
+Gitcoin Passport Stamp Weights
+{% endembed %}

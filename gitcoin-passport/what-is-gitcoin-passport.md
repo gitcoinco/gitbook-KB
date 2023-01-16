@@ -16,3 +16,13 @@ While we are building the Passport agnostic to specific applications, we are act
 * Watch Gitcoiners explain Gitcoin Passport on The Green Pill podcast:
 
 {% embed url="https://youtu.be/OUNERu4pwbM?t=620" %}
+
+Find out more about Gitcoin Passport below:&#x20;
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-create-a-gitcoin-passport" %}
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-add-passport-stamps" %}
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions" %}
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-trust-bonus-calculated" %}

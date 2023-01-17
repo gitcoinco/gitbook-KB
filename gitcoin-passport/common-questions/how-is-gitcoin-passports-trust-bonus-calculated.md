@@ -4,35 +4,18 @@ description: Learn how Gitcoin Passport's scores are calculated.
 
 # 🤔 How is Gitcoin Passport’s score calculated?
 
-The Gitcoin Grants Round is a program that allows anyone to donate to open-source projects they like. However, only contributions made by individuals with high enough Passport scores will be eligible for matching funds. In order to be eligible for matching funds, participants must have a Passport score of 21.8 or above.
+Matching weights for Passport holders will range between 50% and 150%.
 
-The Passport score is calculated based on the data points verified in the participant's Passport. Each data point is assigned a specific weight, which is used to determine the Passport score. \
-\
-Some example of scoring weights for each data point are listed below:
+The matching weight for a Passport holder is:
 
-GITCOIN\_PASSPORT\_WEIGHTS = { \
-"Brightid": 1.6, \
-"CommunityStakingBronze": 2.5, \
-"CommunityStakingGold": 1.8, \
-"CommunityStakingSilver": 2.2, \
-"Discord": 1.6, \
-"Ens": 1.7, \
-"EthGTEOneTxnProvider": 1.6, \
-"Facebook": 1.6, \
-"FacebookProfilePicture": 1.6, \
-"FiftyOrMoreGithubFollowers": 1.5, \
-"FirstEthTxnProvider": 1.6, \
-"FiveOrMoreGithubRepos": 1.7, \
-"ForkedGithubRepoProvider": 1.7, "GitPOAP": 2.8, "GitcoinContributorStatistics#numGr14ContributionsGte#1": 1.7, "GitcoinContributorStatistics#numGrantsContributeToGte#1": 1.6, "GitcoinContributorStatistics#numGrantsContributeToGte#10": 1.6, "GitcoinContributorStatistics#numGrantsContributeToGte#100": 1.5, "GitcoinContributorStatistics#numGrantsContributeToGte#25": 1.5, "GitcoinContributorStatistics#numRoundsContributedToGte#1": 1.6, "GitcoinContributorStatistics#totalContributionAmountGte#10": 1.7, "GitcoinContributorStatistics#totalContributionAmountGte#100": 1.6, "GitcoinContributorStatistics#totalContributionAmountGte#1000": 1.9,
+* _150%_ if their _Accumulated Partitioned Uniqueness_ (APU) score is above the median APU score.
+* (_their APU score - minimum APU score_) / (_median APU score - minimum APU score_) _+ 50%_ if their APU score is below the median APU score.
 
-The specific weights of all the data points are here:
+By way of background, the [APU scoring method](https://docs.google.com/presentation/d/1h4\_hJdawGlf8VeJhdhJ5LKZfUh6PrBD\_0lLoDe7jwCM/edit?usp=sharing) maps scores to individual Passports according to the number of stamps and the uniqueness of their combination. It has the following properties:
 
-{% embed url="https://github.com/gitcoinco/passport-scorer/blob/main/api/scorer/settings/gitcoin_passport_weights.py" %}
-Gitcoin Passport Stamp Weights
-{% endembed %}
-
-You can find more user-friendly descriptions of the different data points in the Passport stamps:&#x20;
-
-{% embed url="https://passport.gitcoin.co/#/dashboard" %}
-Gitcoin Passport Protocol
-{% endembed %}
+* Scaled from 0 to 1 for straightforward interpretations
+  * 0 = no stamps
+  * 1 = all possible stamps
+  * Median score = the APU score separating the higher half from the lower half of the APU scores of all the submitted Passports in cGrants.
+* Scales linearly in the number of stamps while maintaining the same interpretation.
+* It has a closed-form solution that is easy to implement.

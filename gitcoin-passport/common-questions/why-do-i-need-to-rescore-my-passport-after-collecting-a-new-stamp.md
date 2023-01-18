@@ -12,8 +12,8 @@ Most importantly, how Gitcoin Passport is architected means that you (and only y
 
 ### Related topics
 
-{% content-ref url="how-do-i-update-my-passport-score.md" %}
-[how-do-i-update-my-passport-score.md](how-do-i-update-my-passport-score.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../what-is-ceramic.md" %}

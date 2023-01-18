@@ -2,7 +2,7 @@
 description: More commonly asked questions about Gitcoin Passport
 ---
 
-# Commonly asked Passport questions
+# Gitcoin Passport FAQ
 
 We've curated a collection of some commonly asked questions about Gitcoin Passport. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 
@@ -26,16 +26,16 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 
 ### General
 
-{% content-ref url="how-do-i-update-my-passport-score.md" %}
-[how-do-i-update-my-passport-score.md](how-do-i-update-my-passport-score.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md" %}
 [why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md](why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-does-trust-bonus-work.md" %}
-[how-does-trust-bonus-work.md](how-does-trust-bonus-work.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="how-is-gitcoin-passports-trust-bonus-calculated.md" %}
@@ -46,8 +46,8 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [how-do-i-unlink-a-passport-from-my-gitcoin-account.md](how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="troubleshooting-passport-or-trust-bonus-technical-issues.md" %}
-[troubleshooting-passport-or-trust-bonus-technical-issues.md](troubleshooting-passport-or-trust-bonus-technical-issues.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Developers

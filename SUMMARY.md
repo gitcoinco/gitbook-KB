@@ -42,7 +42,6 @@
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
   * [🤔 How is Gitcoin Passport’s score calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-trust-bonus-calculated.md)
   * [🤔 How do I unlink a Passport from my Gitcoin account?](gitcoin-passport/common-questions/how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
-  * [🤔 Troubleshooting Passport or Passport Scoring Technical Issues](gitcoin-passport/common-questions/troubleshooting-passport-or-trust-bonus-technical-issues.md)
   * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)
   * [💻 Can I integrate Gitcoin passport into my dapp?](gitcoin-passport/common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
   * [💻 How to access your Passport JSON](gitcoin-passport/common-questions/how-to-access-your-passport-json.md)

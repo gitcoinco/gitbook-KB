@@ -2,7 +2,7 @@
 description: More commonly asked questions about Gitcoin Passport
 ---
 
-# Gitcoin Passport FAQ
+# Commonly asked Passport questions
 
 We've curated a collection of some commonly asked questions about Gitcoin Passport. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 
@@ -26,16 +26,16 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 
 ### General
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="how-do-i-update-my-passport-score.md" %}
+[how-do-i-update-my-passport-score.md](how-do-i-update-my-passport-score.md)
 {% endcontent-ref %}
 
 {% content-ref url="why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md" %}
 [why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md](why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="how-does-trust-bonus-work.md" %}
+[how-does-trust-bonus-work.md](how-does-trust-bonus-work.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-is-gitcoin-passports-trust-bonus-calculated.md" %}

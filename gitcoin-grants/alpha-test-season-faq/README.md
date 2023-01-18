@@ -12,5 +12,3 @@
 *   **Where can I ask questions about the Grants Program that aren’t answered here?**
 
     Join this [Telegram group](https://t.me/+xiZqWLiVx2YxYjA5).
-* **Where can I provide feedback about the Gitcoin Alpha Round?** \
-  ****If you found something wrong that seems problem please [contact our Support Team](https://support.gitcoin.co/gitcoin-knowledge-base/misc/contact-us). If you would like to share your thoughts please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfljaAS-aSUBMOWTcAzBWc4kq2YSlSV0W62iDaFgvOpHa7-BQ/viewform).&#x20;

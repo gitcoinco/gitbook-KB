@@ -88,6 +88,8 @@ We encourage all users to verify as many stamps as they can to increase their Pa
 
 Your score must be over the 21.76 threshold before the donation is made in order for it to receive matching eligibility.&#x20;
 
+_Note: Passport stamps will automatically expire 90 days after verification. You will need to re-verify Passport Stamps periodically._
+
 The specific weights of all the data points are here:
 
 {% embed url="https://github.com/gitcoinco/passport-scorer/blob/main/api/scorer/settings/gitcoin_passport_weights.py" %}

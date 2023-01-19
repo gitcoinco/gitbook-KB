@@ -16,4 +16,7 @@ It will take you through the same flow as when you created your project (_see Ho
 
 Step 3: Make all the necessary changes, by clicking “Next,” and finalize by clicking “Save and Publish.”
 
-_Note: each time you edit and “Save and Publish,” you will have to pay gas fees because creating/editing a project is an on-chain transaction._
+After editing your project you must reapply to the round you desire to participate in.&#x20;
+
+_Note: each time you edit and “Save and Publish,” you will have to pay gas fees because creating/editing a project is an on-chain transaction._ \
+__

@@ -18,3 +18,5 @@ With Ceramic, Passport data is also composable and interoperable, providing secu
 * Watch Gitcoiners explain Stamps on The Green Pill podcast:
 
 {% embed url="https://youtu.be/OUNERu4pwbM?t=1237" %}
+
+_Note: Passport stamps will automatically expire 90 days after verification. You will need to re-verify Passport Stamps periodically._

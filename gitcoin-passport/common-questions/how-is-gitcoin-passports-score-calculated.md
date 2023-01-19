@@ -7,10 +7,9 @@ description: Learn how Gitcoin Passport's scores are calculated.
 The Gitcoin Grants Round is a program that allows anyone to donate to open-source projects they like. However, only contributions made by individuals with high enough Passport scores will be eligible for matching funds. In order to be eligible for matching funds, participants must have a Passport score of 21.8 or above.
 
 The Passport score is calculated based on the data points verified in the participant's Passport. Each data point is assigned a specific weight, which is used to determine the Passport score. \
-\
-Here are some examples of scoring weights for each data point are listed below:
 
-### Gitcoin Passport Scoring Weights:&#x20;
+
+### &#x20;Gitcoin Passport Scoring Weights:&#x20;
 
 * BrightID: 1.6
 * GTC Staking
@@ -83,9 +82,11 @@ Here are some examples of scoring weights for each data point are listed below:
 
 
 
-Total Gitcoin Passport Threshold = 21.76
+The threshold for Gitcoin Passport Scoring is 21.76 and the maximum possible score is 100. Any score above 21.76 will be eligible for matching funding for their donations.
 
+We encourage all users to verify as many stamps as they can to increase their Passport Score for matching funds of their donation, but a score of 21.76 is sufficient.&#x20;
 
+Your score must be over the 21.76 threshold before the donation is made in order for it to receive matching eligibility.&#x20;
 
 The specific weights of all the data points are here:
 

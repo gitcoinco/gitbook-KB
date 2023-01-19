@@ -38,8 +38,8 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="how-is-gitcoin-passports-score-calculated.md" %}
-[how-is-gitcoin-passports-score-calculated.md](how-is-gitcoin-passports-score-calculated.md)
+{% content-ref url="how-is-gitcoin-passports-trust-bonus-calculated.md" %}
+[how-is-gitcoin-passports-trust-bonus-calculated.md](how-is-gitcoin-passports-trust-bonus-calculated.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-do-i-unlink-a-passport-from-my-gitcoin-account.md" %}

@@ -26,10 +26,10 @@ The Passport score is calculated based on the data points verified in the partic
   * Possessed at least 10 ETH: 2.7
   * Possessed at least 32 ETH: 1.6
   * First ETH transaction occurred more than 30 days ago: 1.6
-  * At least .5 ETH in gas fees spent:&#x20;
+  * At least .5 ETH in gas fees spent: 1.5
 * Facebook
   * Facebook Account Name Encryption: 1.6
-  * Facebook Friends Greater than 100:&#x20;
+  * Facebook Friends Greater than 100: 1.6
   * Facebook Profile Picture attached: 1.6
 * GitHub
   * GitHub account: 1.6

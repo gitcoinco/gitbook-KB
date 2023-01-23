@@ -1,20 +1,10 @@
 # Welcome to Gitcoin support
 
-&#x20;We've curated a collection of the most commonly asked support questions.&#x20;
-
-Don't see your question below? You can use the search bar in the search through our knowledge base articles.
+&#x20;We've curated a collection of the most commonly asked support questions. Don't see your question below? You can use the search bar in the search through our knowledge base articles.
 
 ### Most commonly asked questions
 
 {% embed url="https://support.gitcoin.co/gitcoin-grants-protocol" %}
-
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-create-a-gitcoin-passport" %}
-
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
-
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/identity-staking-questions" %}
-
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants/what-is-the-alpha-test-season" %}
 
 {% content-ref url="gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
 [what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
@@ -24,9 +14,23 @@ Don't see your question below? You can use the search bar in the search through 
 [why-cant-access-my-gitcoin-account.md](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
 {% endcontent-ref %}
 
-{% embed url="https://www.notion.so/gitcoin/ALPHA-ROUNDS-POAP-QUEST-493d64efd08e4b40b11c39748a8f1278" %}
-Gitcoin POAP Quest
-{% endembed %}
+{% content-ref url="gitcoin-grants/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md" %}
+[why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md](gitcoin-grants/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md)
+{% endcontent-ref %}
+
+{% content-ref url="gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md" %}
+[i-see-a-bug-or-ive-got-a-question-what-do-i-do.md](gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
+{% endcontent-ref %}
+
+{% content-ref url="gitcoin-grants/grantee-questions/why-isnt-my-grant-active.md" %}
+[why-isnt-my-grant-active.md](gitcoin-grants/grantee-questions/why-isnt-my-grant-active.md)
+{% endcontent-ref %}
+
+{% content-ref url="gitcoin-grants/grantee-questions/can-i-appeal-after-my-grant-is-denied.md" %}
+[can-i-appeal-after-my-grant-is-denied.md](gitcoin-grants/grantee-questions/can-i-appeal-after-my-grant-is-denied.md)
+{% endcontent-ref %}
+
+
 
 ### Did we answer your question?
 

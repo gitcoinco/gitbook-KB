@@ -49,12 +49,12 @@
 
 ## Gitcoin Grants
 
-* [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
-* [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
 * [What is the Alpha Test Season?](gitcoin-grants/what-is-the-alpha-test-season.md)
 * [Alpha Test Season FAQ](gitcoin-grants/alpha-test-season-faq/README.md)
   * [All Grantees FAQ](gitcoin-grants/alpha-test-season-faq/all-grantees-faq.md)
   * [Non-Alpha round grantees FAQ](gitcoin-grants/alpha-test-season-faq/non-alpha-round-grantees-faq.md)
+* [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
+* [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
 * [Grantee FAQ](gitcoin-grants/grantee-questions/README.md)

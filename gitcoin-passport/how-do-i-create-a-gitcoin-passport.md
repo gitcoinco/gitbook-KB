@@ -61,3 +61,9 @@ After you have connected to your Passport, verified enough stamps, and updated y
 <figure><img src="../.gitbook/assets/Gitcoin _ Grant Explorer (1).png" alt=""><figcaption></figcaption></figure>
 
 After reaching an eligible score, no further action is needed. You can go back to browsing and know that your donations will be matched.
+
+_Note: The threshold for Gitcoin Passport Scoring is 21.76 and the maximum possible score is 100. Any score above 21.76 will be eligible for matching funding for their donations._
+
+To find out more about Passport Score check here:&#x20;
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}

@@ -15,7 +15,3 @@ Most importantly, how Gitcoin Passport is architected means that you (and only y
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-add-passport-stamps" %}
-
-{% content-ref url="../what-are-stamps.md" %}
-[what-are-stamps.md](../what-are-stamps.md)
-{% endcontent-ref %}

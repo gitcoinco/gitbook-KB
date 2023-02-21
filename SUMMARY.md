@@ -10,6 +10,8 @@
 * [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
 * [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
 * [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
+* [What is Round Manager?](gitcoin-grants-protocol/what-is-round-manager/README.md)
+  * [How to Accept/Reject Grantees in Round Manager](gitcoin-grants-protocol/what-is-round-manager/how-to-accept-reject-grantees-in-round-manager.md)
 * [Funder FAQ](gitcoin-grants-protocol/funder-faq/README.md)
   * [📚 Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)

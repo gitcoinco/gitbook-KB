@@ -25,7 +25,7 @@ Before you can create a round, you must create a program. A program is a contain
     <figure><img src="https://gitcoin.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F84b8b8a0-f412-4080-a802-39b2e94340f8%2FScreen_Shot_2023-01-20_at_3.37.12_PM.png?id=9484b2b5-bd80-4453-afca-3ca7db5dda44&#x26;table=block&#x26;spaceId=d5441ecb-756c-4608-a398-8b34fc71ebe8&#x26;width=1340&#x26;userId=&#x26;cache=v2" alt=""><figcaption></figcaption></figure>
 
 
-2.  Once you are connected, click “Start a Grant Program”.\
+2.  Once you are connected, click “Create Program”.\
 
 
     <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><br></p></figcaption></figure>

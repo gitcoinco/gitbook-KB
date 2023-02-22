@@ -2,23 +2,16 @@
 
 This guide shares key information about Round Manager and teaches you how to create your round. If you prefer to lean through a video please click [here](https://www.loom.com/share/295677ce07fc4cce83b3f246256f6ee3).&#x20;
 
-### Overview ℹ️
+### Overview
 
-Round Manager is where you can create and manage rounds. As a round operator, you can manage high-impact grant programs and distribute funds across different rounds and voting mechanisms.
+Round Manager is where you can create and manage rounds. As a round operator, you can manage high-impact grant programs and distribute funds across different rounds and voting mechanisms.\
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://round-manager.gitcoin.co/" %}
 Round Manager Website
 {% endembed %}
-
-<div>
-
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91b59f61-0f7c-4b60-912b-d29f35560fe2/Untitled.png" alt="">
-
- 
-
-<figure><img src="../../.gitbook/assets/RM.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ### Part 1: Create Your Program 🎨
 

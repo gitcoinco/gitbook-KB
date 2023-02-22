@@ -42,6 +42,6 @@ Please note that you'll need ETH on Ethereum Mainnet to withdraw from the Polygo
 
 8\. You'll be prompted again to sign another transaction on MetaMask to confirm the transfer of funds from the checkpoint to your MetaMask wallet. This is the second part of the withdrawal process and **may take up to 3 hours to complete**
 
-![Transfer in progress on Polygon](../../.gitbook/assets/image.png)
+![Transfer in progress on Polygon](<../../.gitbook/assets/image (12).png>)
 
 9\. Confirm your withdrawal was successful [using Etherscan](https://etherscan.io/).

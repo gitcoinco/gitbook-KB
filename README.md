@@ -1,6 +1,6 @@
 # Welcome to Gitcoin support
 
-&#x20;We've curated a collection of the most commonly asked support questions
+&#x20;We've curated a collection of the most commonly asked support questions.
 
 Don't see your question below? You can use the search bar in the search through our knowledge base articles.
 

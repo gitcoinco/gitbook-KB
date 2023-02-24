@@ -12,10 +12,10 @@ While we are building the Passport agnostic to specific applications, we are act
 
 ### Learn more about Gitcoin Passport
 
-* [Introduction to Passport](https://gitcoin.co/blog/intro-to-passport) - _Gitcoin blog_
-* Watch Gitcoiners explain Gitcoin Passport on The Green Pill podcast:
+* [Introduction to Passport](https://go.gitcoin.co/blog/intro-to-passport) - _Gitcoin blog_
+* Watch a quick overview of the Gitcoin Passport:
 
-{% embed url="https://youtu.be/OUNERu4pwbM?t=620" %}
+{% embed url="https://www.youtube.com/watch?t=5s&v=Sc5Ms_xygjI" %}
 
 Find out more about Gitcoin Passport below:&#x20;
 

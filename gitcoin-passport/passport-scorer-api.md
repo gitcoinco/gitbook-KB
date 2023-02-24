@@ -7,6 +7,8 @@ description: >-
 
 # Passport Scorer API
 
+{% embed url="https://www.youtube.com/watch?t=1s&v=ni7HKq2LcgY" %}
+
 ## TL;DR
 
 To use the Gitcoin Passport API you need to:
@@ -18,3 +20,6 @@ To use the Gitcoin Passport API you need to:
 
 Below you will find more detailed instructions on how to integrate the API into your application.
 
+{% embed url="https://docs.passport.gitcoin.co/overview/creating-your-passport" %}
+
+If you have any questions about Passport Scorer API please join our [Telegram](https://t.me/+2ILnaexYeEI0MWUx).&#x20;

@@ -12,6 +12,7 @@
 * [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
 * [What is Round Manager?](gitcoin-grants-protocol/what-is-round-manager/README.md)
   * [How to Create a Round](gitcoin-grants-protocol/what-is-round-manager/how-to-create-a-round.md)
+  * [KYC on Round Manager](gitcoin-grants-protocol/what-is-round-manager/kyc-on-round-manager.md)
   * [How to Accept/Reject Grantees in Round Manager](gitcoin-grants-protocol/what-is-round-manager/how-to-accept-reject-grantees-in-round-manager.md)
 * [Funder FAQ](gitcoin-grants-protocol/funder-faq/README.md)
   * [📚 Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)

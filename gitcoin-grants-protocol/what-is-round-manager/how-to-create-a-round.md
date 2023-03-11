@@ -89,7 +89,7 @@ Now that you have a program, you may create your first round within the program.
 
        <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
    * However, you can configure the application. Every applicant must provide a payout address, but the rest is optional. You may add to or edit the existing list. You also have the option to make questions required/optional or to make results encrypted/unencrypted. If a question is encrypted, the responses can only be viewed by Round Operators with access to that Round.
-9.  Click “Launch” and sign the transaction.\
+9.  Click “Launch” and sign the transaction.\*\
 
 
     ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8aac6d4b-f464-417a-88d1-b8f8e750d619/Screen\_Shot\_2023-01-20\_at\_3.49.05\_PM.png)
@@ -98,6 +98,8 @@ Now that you have a program, you may create your first round within the program.
 
     \
     This may take some time, be patient!
+
+**\*Important Note:** _**Make sure that you have enough ETH (or L2 tokens) in your wallet to deploy all three smart contracts simultaneously, otherwise the round won't be deployed and ETH will be lost, and you will need to restart the process.**_
 
 ### Part 3: View Your Round In Grants Explorer 🔭
 

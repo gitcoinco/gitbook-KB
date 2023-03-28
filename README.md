@@ -1,6 +1,6 @@
 # Welcome to Gitcoin support
 
-&#x20;We've curated a collection of the most commonly asked support questions.&#x20;
+&#x20;We've curated a collection of the most commonly asked support questions.
 
 Don't see your question below? You can use the search bar in the search through our knowledge base articles.
 
@@ -30,4 +30,4 @@ Gitcoin POAP Quest
 
 ### Did we answer your question?
 
-Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).
+Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [email us at support.gitcoin.co](mailto:support@gitcoin.co).

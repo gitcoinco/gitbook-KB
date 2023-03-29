@@ -1,8 +1,8 @@
 ---
 description: >-
-  Please visit Grants Explorer Guide for the full scope of the platform. Here
-  you will find a step-by-step guide on understanding and using the Shortlist
-  function within Grants Explorer.
+  Please visit Explorer Guide for the full scope of the platform. Here you will
+  find a step-by-step guide on understanding and using the Shortlist function
+  within Explorer.
 ---
 
 # 📚 Using the shortlist function to donate
@@ -11,7 +11,7 @@ description: >-
 
 Now, you may be wondering, _“What the heck is the Shortlist?”_ The Shortlist is an interactive tool that allows you to visualize how you distribute your impact across projects as you make your decisions.
 
-As you browse projects on Grants Explorer, you are able to add projects you like to a non-finalized list that we call the Shortlist.
+As you browse projects on Explorer, you are able to add projects you like to a non-finalized list that we call the Shortlist.
 
 <figure><img src="../../.gitbook/assets/Landing (1).png" alt=""><figcaption></figcaption></figure>
 

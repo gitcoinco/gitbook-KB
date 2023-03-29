@@ -1,10 +1,10 @@
 ---
 description: >-
   One a round is finalized, here are the steps to view the grantees and make
-  payments.
+  payments in Manager.
 ---
 
-# How to Finalize a Round and Make Payments
+# How to make payments after a round is finalized
 
 You will see this screen on the dashboard under the "Fund Grantees" (LEFT) tab if the round is still in progress:
 
@@ -22,6 +22,6 @@ Under the "Paid Grantees" tab, this will be the screen:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-26 at 14.47.56 (1).png" alt=""><figcaption></figcaption></figure>
 
-_We have given you the option to do batch payments or individual so that if you wish to require KYC, you have the choice to pay out those grantees with KYC first if you wish to, for example._&#x20;
+_**Note: We have given you the option to do batch payments or individual so that if you wish to require KYC, you have the choice to pay out those grantees with KYC first if you wish to, for example.**_&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-26 at 14.48.06.png" alt=""><figcaption></figcaption></figure>

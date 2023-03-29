@@ -1,14 +1,14 @@
-# How to Accept/Reject Grantees in Round Manager
+# How to Accept/Reject Grantees in Manager
 
-_At the time of writing, grant reviews in Round Manager are very rudimentary. Most of the work will rely on the round operator(s) coming to a consensus on the approval or denial of a given grant outside of the protocol. After that decision has been made it will be implemented in the protocol via signing an on-chain transaction. It’s important to note that applications cannot be submitted while a round is running, but grant review decisions can be made at any time during the round. Reviews can also be reversed; accepted applications can be rejected at any point before or during the round and vice versa._
+_At the time of writing, grant reviews in Manager are very rudimentary. Most of the work will rely on the round operator(s) coming to a consensus on the approval or denial of a given grant outside of the protocol. After that decision has been made it will be implemented in the protocol via signing an on-chain transaction. It’s important to note that applications cannot be submitted while a round is running, but grant review decisions can be made at any time during the round. Reviews can also be reversed; accepted applications can be rejected at any point before or during the round and vice versa._
 
 ### Grant Review Steps
 
-For a single grant application, review decisions can be made by clicking on the application in Round Manager and clicking Approve or Reject. This will initiate a transaction, and once approved the grant will move from the ‘Received’ tab to either ‘Approved’ or ‘Rejected’.
+For a single grant application, review decisions can be made by clicking on the application in Manager and clicking Approve or Reject. This will initiate a transaction, and once approved the grant will move from the ‘Received’ tab to either ‘Approved’ or ‘Rejected’.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-11 at 11.09.28.png" alt=""><figcaption></figcaption></figure>
 
-Multiple reviews can be batched in a single transaction to reduce gas costs. This is done by clicking ‘Select’ at the top right of the ‘received’ applications tab:
+Multiple reviews can be batched in a single transaction to reduce gas fees. This is done by clicking ‘Select’ at the top right of the ‘received’ applications tab:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-11 at 11.09.37.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,13 +24,13 @@ And if they are already rejected you will only see an option to approve:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-11 at 11.10.03.png" alt=""><figcaption></figcaption></figure>
 
-#### Gas Costs
+#### Gas Fees
 
-The gas costs for these transactions will vary depending on network choice and congestion, however, batching multiple grant review decisions into one transaction will have a negligible impact on the gas cost and it will be comparable to approving or denying a single grant. For this reason, we highly recommend working through grant reviews and marking down decisions off-chain before coming back to Round Manager and batching all the decisions together into a single transaction.
+The gas fees for these transactions will vary depending on network choice and congestion, however, batching multiple grant review decisions into one transaction will have a negligible impact on the gas fee and it will be comparable to approving or denying a single grant. For this reason, we highly recommend working through grant reviews and marking down decisions off-chain before coming back to Manager and batching all the decisions together into a single transaction.
 
 #### Adding Questions & Requirements in Round Manager
 
-Round Manager has built-in functionality to add a round description and a set of requirements that will show up above the ‘Apply’ button when grantees are about to start their applications. This is a great way to make sure the eligibility criteria are clear and visible to grantees before they apply to the round.
+Manager has built-in functionality to add a round description and a set of requirements that will show up above the ‘Apply’ button when grantees are about to start their applications. This is a great way to make sure the eligibility criteria are clear and visible to grantees before they apply to the round.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-11 at 11.10.11.png" alt=""><figcaption></figcaption></figure>
 

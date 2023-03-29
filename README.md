@@ -16,8 +16,8 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants/what-is-the-alpha-test-season" %}
 
-{% content-ref url="gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md" %}
-[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
+{% content-ref url="gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md" %}
+[what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
 {% content-ref url="gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md" %}

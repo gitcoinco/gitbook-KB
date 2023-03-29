@@ -3,23 +3,23 @@
 * [Welcome to Gitcoin support](README.md)
 * [What is Gitcoin?](<README (1).md>)
 
-## GITCOIN GRANTS PROTOCOL
+## GITCOIN GRANTS PROGRAM
 
-* [What is Grants Hub?](gitcoin-grants-protocol/what-is-grants-hub.md)
-* [How to create a project in Grants Hub](gitcoin-grants-protocol/how-to-create-a-project-in-grants-hub.md)
-* [How to edit your project in Grants Hub](gitcoin-grants-protocol/how-to-edit-your-project-in-grants-hub.md)
-* [How to apply to a round in Grants Hub](gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub.md)
-* [How to apply to a round in Grants Explorer](gitcoin-grants-protocol/grants-explorer-guide/how-to-apply-to-a-round-in-grants-explorer.md)
-* [What is Round Manager?](gitcoin-grants-protocol/what-is-round-manager/README.md)
-  * [How to Create a Round](gitcoin-grants-protocol/what-is-round-manager/how-to-create-a-round.md)
-  * [KYC on Round Manager](gitcoin-grants-protocol/what-is-round-manager/kyc-on-round-manager.md)
-  * [How to Finalize a Round and Make Payments](gitcoin-grants-protocol/what-is-round-manager/how-to-finalize-a-round-and-make-payments.md)
-  * [How to Accept/Reject Grantees in Round Manager](gitcoin-grants-protocol/what-is-round-manager/how-to-accept-reject-grantees-in-round-manager.md)
-* [Funder FAQ](gitcoin-grants-protocol/funder-faq/README.md)
-  * [📚 Grants Explorer Guide](gitcoin-grants-protocol/funder-faq/grants-explorer-guide.md)
-  * [📚 How to connect your wallet](gitcoin-grants-protocol/funder-faq/how-to-connect-your-wallet.md)
-  * [📚 Using the shortlist function to donate](gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate.md)
-  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants/contributor-questions/what-do-i-do-if-my-contributions-are-missing.md)
+* [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack.md)
+* [Project Owners](gitcoin-grants-program/project-owners/README.md)
+  * [How to create a project in Builder](gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder.md)
+  * [How to edit your project in Builder](gitcoin-grants-program/project-owners/how-to-edit-your-project-in-builder.md)
+  * [How to apply to a round in Explorer](gitcoin-grants-program/project-owners/how-to-apply-to-a-round-in-explorer.md)
+* [Program Managers](gitcoin-grants-program/program-managers/README.md)
+  * [How to Create a Round](gitcoin-grants-program/program-managers/how-to-create-a-round.md)
+  * [KYC on Manager](gitcoin-grants-program/program-managers/kyc-on-manager.md)
+  * [How to make payments after a round is finalized](gitcoin-grants-program/program-managers/how-to-make-payments-after-a-round-is-finalized.md)
+  * [How to Accept/Reject Grantees in Manager](gitcoin-grants-program/program-managers/how-to-accept-reject-grantees-in-manager.md)
+* [Supporter (donor) FAQ](gitcoin-grants-program/supporter-donor-faq/README.md)
+  * [📚 Explorer Guide](gitcoin-grants-program/supporter-donor-faq/explorer-guide.md)
+  * [📚 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
+  * [📚 Using the shortlist function to donate](gitcoin-grants-program/supporter-donor-faq/using-the-shortlist-function-to-donate.md)
+  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
 
 ## Gitcoin Passport
 

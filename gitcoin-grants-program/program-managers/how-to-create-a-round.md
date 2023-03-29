@@ -1,10 +1,10 @@
 # How to Create a Round
 
-This guide shares key information about Round Manager and teaches you how to create your round. If you prefer to lean through a video please click [here](https://www.loom.com/share/295677ce07fc4cce83b3f246256f6ee3).&#x20;
+This guide shares key information about Manager and teaches you how to create your round. If you prefer to learn through a video please click [here](https://www.loom.com/share/295677ce07fc4cce83b3f246256f6ee3).&#x20;
 
 ### Overview
 
-Round Manager is where you can create and manage rounds. As a round operator, you can manage high-impact grant programs and distribute funds across different rounds and voting mechanisms.\
+Manager is where you can create and manage rounds. As a round operator, you can manage high-impact grant programs and distribute funds across different rounds and voting mechanisms.\
 
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
@@ -15,11 +15,11 @@ Round Manager Website
 
 ### Part 1: Create Your Program 🎨
 
-Before you can create a round, you must create a program. A program is a container, there can be multiple rounds with unique criteria in each program. However, all of the rounds within a program must operate on the same chain.
+Before you can create a round, you must create a program. A program is a container, there can be multiple rounds with unique criteria in each program.
 
 #### Steps:
 
-1.  Visit the [Round Manger site](https://round-manager.gitcoin.co/) and connect your wallet. \
+1.  Visit the [Manager site](https://round-manager.gitcoin.co/) and connect your wallet. \
 
 
     <figure><img src="https://gitcoin.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F84b8b8a0-f412-4080-a802-39b2e94340f8%2FScreen_Shot_2023-01-20_at_3.37.12_PM.png?id=9484b2b5-bd80-4453-afca-3ca7db5dda44&#x26;table=block&#x26;spaceId=d5441ecb-756c-4608-a398-8b34fc71ebe8&#x26;width=1340&#x26;userId=&#x26;cache=v2" alt=""><figcaption></figcaption></figure>
@@ -80,7 +80,7 @@ Now that you have a program, you may create your first round within the program.
     \
     Your description and requirements are what grantees will see when they apply to the round, so try to provide as much relevant information as possible. \
     \
-    _Note: Requirements do not restrict who can apply to the round, rather they define who will be accepted. In other words, you cannot prohibit someone from applying based on the requirements, anyone with the link can apply. However, you can accept the grantees that fit your requirements._\
+    _Note: Requirements do not restrict who can apply to the round, rather they define who will be accepted. In other words, you cannot prohibit someone from applying based on the requirements, anyone with the link can apply. However, you can manually choose to accept the grantees that fit your requirements._\
     __
 7. Click “Next” in the bottom right-hand corner.
 8. Define the information you will require from grantees.
@@ -101,9 +101,9 @@ Now that you have a program, you may create your first round within the program.
 
 **\*Important Note:** _**Make sure that you have enough ETH (or L2 tokens) in your wallet to deploy all three smart contracts simultaneously, otherwise the round won't be deployed and ETH will be lost, and you will need to restart the process.**_
 
-### Part 3: View Your Round In Grants Explorer 🔭
+### Part 3: View Your Round In Explorer 🔭
 
-Once you have launched your Round, you can click “View on Grants Explorer”.
+Once you have launched your Round, you can click “View on Explorer”
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: >-
 
 # 📚 Why aren't my contributions showing on my profile?
 
-_Note: If you used the Gitcoin Grants Explorer to donate to a project the transactions will not be reflected on your Gitcoin profile as Grants Explorer is completely decentralized and only a non-custodial wallet is required. A Gitcoin profile is not needed._
+_Note: If you used Explorer to donate to a project the transactions will not be reflected on your Gitcoin profile as Explorer is completely decentralized and only a non-custodial wallet is required. A Gitcoin profile is not needed._
 
 Sometimes transactions aren't logged properly on your Gitcoin profile. Even if your transaction is not logged on your Gitcoin profile, any grants you donated to will have received the funds.&#x20;
 

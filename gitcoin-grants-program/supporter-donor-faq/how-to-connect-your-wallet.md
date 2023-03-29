@@ -1,7 +1,7 @@
 ---
 description: >-
-  Please visit Grants Explorer Guide for the full scope of the platform. Here
-  you will find a step-by-step guide on how to connect your wallet.
+  Please visit Explorer Guide for the full scope of the platform. Here you will
+  find a step-by-step guide on how to connect your wallet.
 ---
 
 # 📚 How to connect your wallet

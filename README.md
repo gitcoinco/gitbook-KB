@@ -8,7 +8,7 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-create-a-gitcoin-passport" %}
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/supporter-donor-faq/explorer-guide" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
 

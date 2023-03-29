@@ -1,10 +1,10 @@
 ---
 description: >-
   Here you’ll find a guide on how to connect your wallet to Passport and become
-  eligible for your donations to be matched on Grants Explorer.
+  eligible for your donations to be matched on Explorer.
 ---
 
-# Grants Explorer 🤝 Passport Guide
+# Explorer 🤝 Passport Guide
 
 ## TL;DR
 
@@ -14,7 +14,7 @@ Passport verification allows you to verify your identity as a good actor (and no
 
 ### Landing page
 
-When you first arrive on the Grants Explorer landing page, you will see a purple banner indicating you to connect their wallet (_top righthand corner_):
+When you first arrive on the Explorer landing page, you will see a purple banner indicating you to connect their wallet (_top righthand corner_):
 
 <figure><img src="../.gitbook/assets/Landing.png" alt=""><figcaption></figcaption></figure>
 

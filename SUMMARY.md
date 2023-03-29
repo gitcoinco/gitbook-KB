@@ -27,7 +27,7 @@
 * [What are Stamps?](gitcoin-passport/what-are-stamps.md)
 * [GTC Staking on your Identity](gitcoin-passport/identity-staking-questions.md)
 * [Passport Scorer API](gitcoin-passport/passport-scorer-api.md)
-* [Grants Explorer 🤝 Passport Guide](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
+* [Explorer 🤝 Passport Guide](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
 * [How do I add Passport Stamps?](gitcoin-passport/how-do-i-add-passport-stamps/README.md)
   * [🔌 Connecting a Google account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-google-account-to-passport.md)
   * [🔌 Connecting an ENS account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-an-ens-account-to-passport.md)

@@ -6,15 +6,13 @@ Don't see your question below? You can use the search bar in the search through 
 
 ### Most commonly asked questions
 
-{% embed url="https://support.gitcoin.co/gitcoin-grants-protocol" %}
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-create-a-gitcoin-passport" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/identity-staking-questions" %}
-
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants/what-is-the-alpha-test-season" %}
 
 {% content-ref url="gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md" %}
 [what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
@@ -23,10 +21,6 @@ Don't see your question below? You can use the search bar in the search through 
 {% content-ref url="gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md" %}
 [why-cant-access-my-gitcoin-account.md](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
 {% endcontent-ref %}
-
-{% embed url="https://www.notion.so/gitcoin/ALPHA-ROUNDS-POAP-QUEST-493d64efd08e4b40b11c39748a8f1278" %}
-Gitcoin POAP Quest
-{% endembed %}
 
 ### Did we answer your question?
 

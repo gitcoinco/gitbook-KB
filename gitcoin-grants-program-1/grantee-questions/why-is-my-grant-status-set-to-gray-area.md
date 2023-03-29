@@ -12,10 +12,10 @@ The Gitcoin Policy team will review gray areas following the Grant Round, and ch
 
 ## Related topics
 
-{% content-ref url="../../gitcoin-policy/policy/" %}
-[policy](../../gitcoin-policy/policy/)
+{% content-ref url="../../about-gitcoin/policy/" %}
+[policy](../../about-gitcoin/policy/)
 {% endcontent-ref %}
 
-{% content-ref url="../../gitcoin-policy/policy/appeals/introduction-to-appeals.md" %}
-[introduction-to-appeals.md](../../gitcoin-policy/policy/appeals/introduction-to-appeals.md)
+{% content-ref url="../../about-gitcoin/policy/appeals/introduction-to-appeals.md" %}
+[introduction-to-appeals.md](../../about-gitcoin/policy/appeals/introduction-to-appeals.md)
 {% endcontent-ref %}

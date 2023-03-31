@@ -22,7 +22,7 @@ description: >-
 
 ### What if my community or I have questions?
 
-* Join the[ Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).
+* Join the[ Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [email our support team](mailto:support@gitcoin.co).
 
 ### How easy will it be to share with my community?
 

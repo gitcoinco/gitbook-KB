@@ -15,7 +15,7 @@ _If you don’t have a wallet set up already, click on “Get a Wallet” to set
 There are 2 separate steps that must be taken in order to participate in a grant round:&#x20;
 
 1. Create Your Grant in Builder
-2. [Apply to the specific Grant Round](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/how-to-apply-to-a-round-in-grants-hub) you wish to participate in
+2. [Apply to the specific Grant Round](how-to-apply-to-a-round-in-explorer.md) you wish to participate in
 
 This guide will provide steps for #1: Creating Your Grant
 

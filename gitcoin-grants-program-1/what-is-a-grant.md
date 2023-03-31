@@ -12,7 +12,7 @@ Read more on the Gitcoin Grants launch:
 
 {% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
 
-Have more questions? They might already be answered in our grants FAQs. If not, you can open [a support ticket](https://gitcoin.happyfox.com/new).
+Have more questions? They might already be answered in our grants FAQs. If not, you can [email our support team](mailto:support@gitcoin.co).
 
 ### Related topics
 

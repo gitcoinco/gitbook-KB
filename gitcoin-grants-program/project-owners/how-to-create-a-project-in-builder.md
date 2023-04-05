@@ -6,11 +6,11 @@ description: >-
 
 # How to create a project in Builder
 
-Firstly, you’ll need to connect your wallet. Go to [grantshub.gitcoin.co](https://grantshub.gitcoin.co/), and click on “Connect Wallet.” Here you’ll have the option to connect via Metamask, Coinbase Wallet, or WalletConnect.
+Firstly, you’ll need to connect your wallet. Go to [builder.gitcoin.co](https://builder.gitcoin.co/), and click on “Connect Wallet.” Here you’ll have the option to connect via Metamask, Coinbase Wallet, or WalletConnect.
 
 _If you don’t have a wallet set up already, click on “Get a Wallet” to set up your wallet, or “Learn More” to learn more about wallets._
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-02 at 21.10.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 07.35.41.png" alt=""><figcaption></figcaption></figure>
 
 There are 2 separate steps that must be taken in order to participate in a grant round:&#x20;
 
@@ -19,7 +19,7 @@ There are 2 separate steps that must be taken in order to participate in a grant
 
 This guide will provide steps for #1: Creating Your Grant
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-02 at 21.11.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 07.36.14.png" alt=""><figcaption></figcaption></figure>
 
 ### Steps to Submitting Your Project&#x20;
 
@@ -31,9 +31,11 @@ This guide will provide steps for #1: Creating Your Grant
 
 &#x20; 2\.   Select either the purple "+New Project" button or the "Create a Project" button as shown below:
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-02 at 21.05.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 07.36.29.png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the correct network for your round (please confirm the correct network with the round manager in order for your project to be accepted in the desired round).
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 07.37.23.png" alt=""><figcaption></figcaption></figure>
 
 4\. Next, you will go to the Project Details page as shown below:
 
@@ -49,7 +51,7 @@ This guide will provide steps for #1: Creating Your Grant
 
 &#x20; a. If connecting to Twitter, be sure that you are currently logged into your project’s Twitter account.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-02 at 21.19.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 07.38.28.png" alt=""><figcaption></figcaption></figure>
 
 6\. Select the Next button and you will see a preview of what your project will look like. Once you’re happy with how it looks, select “Save and Publish.”&#x20;
 

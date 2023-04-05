@@ -28,13 +28,13 @@ A grants reviewer adds an eligibility tag as a recommendation, but the matching 
 
 _Matching owners reserve the right to remove the eligibility tag from a grant for any reason._
 
-__
+
 
 ## Discovery tags
 
 Discovery tags improve the discoverability of a grant through the search feature. **Discovery tags make no difference to the amount of matching funding a grant will receive.**
 
-****
+
 
 ### How discovery tags get added
 

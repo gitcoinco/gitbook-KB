@@ -13,7 +13,7 @@ Once GTC has been staked, the amount will be locked until a few days after the G
 To get started please visit the [GTC Staking home page](https://www.staking.passport.gitcoin.co/StakeDashboard).
 
 _Note: You can only verify the GTC Staking stamp in Gitcoin Passport if you have either staked on yourself or had GTC staked on you by the community._ \
-__\
+\
 _You will not be able to verify the Community Staking stamp by staking on another member of the community._&#x20;
 
 Watch this in-depth walkthrough with our team to get an overview of how to stake and what the benefits are:

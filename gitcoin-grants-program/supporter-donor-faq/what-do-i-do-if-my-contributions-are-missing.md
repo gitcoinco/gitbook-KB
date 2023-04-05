@@ -12,7 +12,7 @@ Sometimes transactions aren't logged properly on your Gitcoin profile. Even if y
 
 You can add missing transactions to your Gitcoin profile by using [the add missing contributions form on Gitcoin](https://gitcoin.co/grants/add-missing-contributions).
 
-__
+
 
 {% embed url="https://gitcoin.co/grants/add-missing-contributions" %}
 

@@ -4,7 +4,7 @@ To visit Explorer, you will be directed to a dedicated landing page.
 
 You will see all the accepted projects within the round. _**Note: this page will display as below only when the donation/voting period has opened. Before that time, the home page will have a different interface.**_
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-03 at 13.24.56 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 08.13.41.png" alt=""><figcaption></figcaption></figure>
 
 To get started with applying to the round, follow these steps:
 
@@ -12,7 +12,7 @@ Step 1: Click on “Apply to Grant Round”
 
 _This will open up to an application for this specific round._
 
-**Note:** __ If you’re running an ad blocker on your computer, you might not see the round application form pop up. If that happens, make sure you disable any blockers and try again.
+**Note:** If you’re running an ad blocker on your computer, you might not see the round application form pop up. If that happens, make sure you disable any blockers and try again.
 
 Step 2: You will see the necessary eligibility questions for the specific round. Click on “Apply to this round” to continue.
 

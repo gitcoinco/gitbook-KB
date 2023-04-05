@@ -8,7 +8,7 @@ This guide gives instructions on verifying GTC ownership to Gitcoin Passport and
 
 ### Prerequisites
 
-* An Ethereum address with at least **** 10 GTC
+* An Ethereum address with at least 10 GTC
 
 ### How to verify your GTC
 

@@ -1,10 +1,10 @@
 # How to edit your project in Builder
 
-To edit your project on Builder, visit [granthub.gitcoin.co](http://granthub.gitcoin.co).&#x20;
+To edit your project on Builder, visit [builder.gitcoin.co](https://builder.gitcoin.co/).
 
 Step 1: Once you’re in your Builder dashboard, you will see a list of your active projects. Click on the one you’d like to edit:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-09-23 at 17.06.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 08.12.21.png" alt=""><figcaption></figcaption></figure>
 
 Step 2: Click on “Edit Project” on the top right.
 
@@ -17,4 +17,3 @@ Step 3: Make all the necessary changes, by clicking “Next,” and finalize by 
 After editing your project you must reapply to the round you desire to participate in.&#x20;
 
 _**Note:** each time you edit and “Save and Publish,” you will have to pay gas fees because creating/editing a project is an on-chain transaction._ \
-__

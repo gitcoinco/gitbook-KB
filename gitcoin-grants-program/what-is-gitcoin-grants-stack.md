@@ -42,4 +42,4 @@ Empowers project owners to create a single profile where they can build reputati
 
 Additionally, through an integration with [Gitcoin Passport](https://passport.gitcoin.co/), it also helps with identifying & protecting from bad actors (Sybils) on the donor and applicant sides, preventing the draining of program funds.
 
-_For a deeper dive, visit_ [_Gitcoin Grants Stack: Your Tools to Fund What Matters._](https://www.gitcoin.co/grants-stack)__
+_For a deeper dive, visit_ [_Gitcoin Grants Stack: Your Tools to Fund What Matters._](https://www.gitcoin.co/grants-stack)

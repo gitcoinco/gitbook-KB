@@ -67,7 +67,6 @@
   * [🤔 I've updated my denied Grant. Can you review it again?](gitcoin-grants-program-1/grantee-questions/ive-updated-my-denied-grant.-can-you-review-it-again.md)
   * [🤔 I forgot to update my Grant from a previous round. Can I get funding?](gitcoin-grants-program-1/grantee-questions/i-forgot-to-update-my-grant-from-a-previous-round.-can-i-get-funding.md)
   * [🤔 Why have my grants tags been removed?](gitcoin-grants-program-1/grantee-questions/why-have-my-grants-tags-been-removed.md)
-  * [🤔 Why is my grant status set to ‘Gray Area’?](gitcoin-grants-program-1/grantee-questions/why-is-my-grant-status-set-to-gray-area.md)
   * [🤔 How many Grant Rounds can I enter?](gitcoin-grants-program-1/grantee-questions/how-many-grant-rounds-can-i-enter.md)
   * [💰 Why isn't my matching amount updating?](gitcoin-grants-program-1/grantee-questions/why-isnt-the-match-amount-updating.md)
   * [💰 Why is my estimated matching is different from Grants with similar contributors?](gitcoin-grants-program-1/grantee-questions/why-is-my-estimated-matching-is-different-from-grants-with-similar-contributors.md)

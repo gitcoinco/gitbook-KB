@@ -54,7 +54,6 @@
 ## Gitcoin Grants Program
 
 * [All Grantees FAQ](gitcoin-grants-program-1/all-grantees-faq.md)
-* [Non-Alpha round grantees FAQ](gitcoin-grants-program-1/non-alpha-round-grantees-faq.md)
 * [What is the Gitcoin Grants program?](gitcoin-grants-program-1/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants-program-1/how-is-the-gitcoin-grants-program-changing.md)
 * [Tips for Grant Success](gitcoin-grants-program-1/tips-for-grant-success.md)

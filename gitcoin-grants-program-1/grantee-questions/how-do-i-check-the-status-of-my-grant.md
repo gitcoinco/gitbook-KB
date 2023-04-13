@@ -4,7 +4,7 @@ description: Learn how to check the status of any Gitcoin Grant.
 
 # 🤔 How do I check the status of my Grant?
 
-You can check the status of your grants directly in the Builder app once you've created and applied for a grant.
+Got to [builder.gitcoin.co](https://builder.gitcoin.co/), connect your wallet, and you'll be able to see the status in the app.
 
 ## Related topics
 

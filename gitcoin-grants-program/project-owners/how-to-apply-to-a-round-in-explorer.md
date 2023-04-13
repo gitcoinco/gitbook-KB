@@ -1,6 +1,6 @@
 # How to apply to a round in Explorer
 
-To visit Explorer, you will be directed to a dedicated landing page.
+To visit Explorer, you will be directed to a dedicated landing page. For the Beta Round, please [visit this page](https://grants.gitcoin.co/).
 
 You will see all the accepted projects within the round. _**Note: this page will display as below only when the donation/voting period has opened. Before that time, the home page will have a different interface.**_
 

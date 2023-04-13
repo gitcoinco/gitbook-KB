@@ -4,11 +4,7 @@ description: Learn how to check the status of any Gitcoin Grant.
 
 # 🤔 How do I check the status of my Grant?
 
-You can check the status of any grant on Gitcoin’s [Grant Eligibility Status page on Notion.](https://gitcoin.notion.site/gitcoin/3940c8762a304e8c9630a05418ebd2a1?v=8fd78e98993e4dc29fd40a5b12a9ea75)
-
-{% embed url="https://gitcoin.notion.site/gitcoin/3940c8762a304e8c9630a05418ebd2a1?v=8fd78e98993e4dc29fd40a5b12a9ea75" %}
-Grant Eligilbity Status Notion page
-{% endembed %}
+You can check the status of your grants directly in the Builder app once you've created and applied for a grant.
 
 ## Related topics
 

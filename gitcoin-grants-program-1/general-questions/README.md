@@ -60,12 +60,12 @@ We've curated a collection of the most commonly asked general questions about Gi
 [i-see-a-bug-or-ive-got-a-question-what-do-i-do.md](i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="i-see-a-grant-that-i-dont-like-what-do-i-do.md" %}
-[i-see-a-grant-that-i-dont-like-what-do-i-do.md](i-see-a-grant-that-i-dont-like-what-do-i-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md" %}
-[i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md](i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 

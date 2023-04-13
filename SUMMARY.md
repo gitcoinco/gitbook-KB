@@ -94,8 +94,6 @@
   * [🤖 Can a programmer build on top of Gitcoin Grants?](gitcoin-grants-program-1/general-questions/im-a-programmer-who-wants-to-build-on-gitcoin-grants-where-do-i-start.md)
   * [🤨 My GitHub Account Is Flagged](gitcoin-grants-program-1/general-questions/my-github-account-is-flagged.md)
   * [🤨 I see a bug or I've got a question, what do I do?](gitcoin-grants-program-1/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
-  * [🤨 I see a Grant that I don't like, what do I do?](gitcoin-grants-program-1/general-questions/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
-  * [🤨 I see a Grant that is not a public good on the platform, what do I do?](gitcoin-grants-program-1/general-questions/i-see-a-grant-that-is-not-a-public-good-on-the-platform-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants-program-1/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 
 ## About Gitcoin

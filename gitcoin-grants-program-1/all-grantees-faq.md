@@ -9,7 +9,7 @@ description: >-
 
 ### How much of my info will stay intact?
 
-* Over the next few months, we will focus on running alpha test rounds to continue supporting early-stage builders as we transition to a decentralized, scalable solution that will support many more communities in funding their shared needs. During this phase, all data on cGrants will remain intact. In the coming weeks, we will clarify a clear data migration plan as we onboard grantees to the protocol. Initially, new grants on the protocol can be copied & pasted from cGrants into the new Grants Hub. We plan to eventually add the functionality to link/port over cGrants data to Grants Hub.
+* Over the next few months, we will focus on running alpha test rounds to continue supporting early-stage builders as we transition to a decentralized, scalable solution that will support many more communities in funding their shared needs. During this phase, all data on cGrants will remain intact. In the coming weeks, we will clarify a clear data migration plan as we onboard grantees to the protocol. Initially, new grants on the protocol can be copied & pasted from cGrants into the new Builder. We plan to eventually add the functionality to link/port over cGrants data to Builder.
 
 ### What do my community/supporters need to know? How will their experience change?
 
@@ -26,4 +26,4 @@ description: >-
 
 ### How easy will it be to share with my community?
 
-* Your project profile on Grants Hub is not public today (however, _the Grants Explorer link is public_), but it’s on our S16 roadmap to enable projects to share general links to their project profile page.
+* Your project profile on [Builder](../gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder.md) is not public today (however, _the Explorer link is public_), but it’s on our S16 roadmap to enable projects to share general links to their project profile page.

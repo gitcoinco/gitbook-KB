@@ -1,4 +1,5 @@
 # 🏧 How to Claim Your Matching Funds
 
-**Update on the new product:** _User donations will be collected similarly, possibly on new chains/L2s. Matching funds will be paid out directly to grantees initially, but eventually, there may be a claim process similar to the flow on cGrants._
+Your matching funds will be paid out to you directly in DAI on ETH mainnet approximately two weeks - one month after the grants round has concluded.&#x20;
 
+**Note:** You do not need to claim your funds. It will get paid to you directly to your wallet.

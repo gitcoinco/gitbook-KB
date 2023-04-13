@@ -1,7 +1,5 @@
 # 💰 Where Are Grant Funds Stored?
 
-Approximately 3 weeks after the Grant Rounds have concluded, you will be able to claim your donations. Before you do, it is important to understand how Gitcoin grant funding is stored.
-
 There are two types of funding:
 
 * **Individual donations**&#x20;
@@ -9,20 +7,4 @@ There are two types of funding:
 * **Matching funds**&#x20;
   * These are the donations that you received from the matching round that you participate in. The amount is determined by the [Quadratic Funding](https://wtfisqf.com/?grant=\&grant=\&grant=\&grant=\&match=1000) mechanism and must be claimed by the grantee after the round has been completed
 
-There is a notable exception for grants that received matching funds in the Celo or Radicle ecosystem rounds. The total portion of the matching funds will be sent directly to your wallet or through Radicle drips. No claiming is required.
-
-Some Round Owners prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.\
-\
-Check out the video below to learn how to find your matching funds and how to convert them to FIAT:&#x20;
-
-{% embed url="https://vimeo.com/754897026" %}
-Where to find crowdfunded contributions\
-
-{% endembed %}
-
-**Other notes:**
-
-* Because funding is in cryptocurrency, both individual and matching pool funds can fluctuate from the time of donation.
-* Only individual contributions are visible in the “lifetime funding” section of your grants page, therefore total matching funds are not reflected.
-
-<figure><img src="../../.gitbook/assets/lifetimefunding.png" alt=""><figcaption></figcaption></figure>
+Some Featured Round Operators prefer to payout matching funds with their own token and you will have to claim each unique token match with a separate on-chain transaction. Unless specifically instructed, other rounds are matched in DAI and are claimed together.

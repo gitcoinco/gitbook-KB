@@ -12,6 +12,6 @@ Got to [builder.gitcoin.co](https://builder.gitcoin.co/), connect your wallet, a
 [why-isnt-my-grant-active.md](why-isnt-my-grant-active.md)
 {% endcontent-ref %}
 
-{% content-ref url="can-i-appeal-after-my-grant-is-denied.md" %}
-[can-i-appeal-after-my-grant-is-denied.md](can-i-appeal-after-my-grant-is-denied.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -12,7 +12,7 @@ Our purpose is to empower communities to fund their shared needs. This purpose g
 
 ### How we support our purpose
 
-Gitcoin is a community first, and our software products are a double-sided market that connects digital creatives to the people who want to fund their work. As of November 2022, we’ve created [$72.3m worth of funding.](https://gitcoin.co/results)
+Gitcoin is a community first, and our software products are a double-sided market that connects digital creatives to the people who want to fund their work. As of April 2023, our grants program has [distributed over $50M of funding](https://impact.gitcoin.co/).&#x20;
 
 ### The DAO that governs Gitcoin
 
@@ -36,14 +36,14 @@ There are three important concepts to know to understand how to interact with Gi
 
 #### DAO’s Quarterly Cadence
 
-Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event - a combination of Gitcoin Grants Rounds, and Hackathons - where millions of \$$$ of funding are deployed to the community. Typically a quarter looks like this:
+Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event of a Gitcoin Grants Round. Typically a quarter looks like this:
 
 1. Plan for the quarterly stacked event
 2. Execute the quarterly stacked event
 3. Learn from the quarterly stacked event
 4. Repeat
 
-The next quarterly event is a streamlined Alpha Round that will be running on the [Grants Hub Protocol](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/what-is-grants-hub) in January 2023.
+The next quarterly event is a the [Gitcoin Grants Beta Round](https://go.gitcoin.co/blog/announcing-the-gitcoin-grants-beta-round), planned for April 25th - May 9th, 2023.
 
 ### How to get involved.
 
@@ -62,7 +62,6 @@ Here are the ways you can get involved in the DAO.
 * [Gitcoin Support](https://gitcoin.co/support)
 * [Gitcoin twitter](https://twitter.com/gitcoin)
 * [Gitcoin discord](https://gitcoin.co/discord)
-* [GitcoinDAO.com](http://gitcoindao.com)
 * [GitcoinDAO Snapshot](https://snapshot.org/#/gitcoindao.eth/)
 * [GitcoinDAO Tally](https://www.withtally.com/governance/gitcoin)
 * [GitcoinDAO Twitter](https://twitter.com/gitcoindao)

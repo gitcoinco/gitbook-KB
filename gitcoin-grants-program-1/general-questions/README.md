@@ -2,7 +2,7 @@
 description: Get answers to questions commonly asked about Gitcoin Grants.
 ---
 
-# General questions
+# Gitcoin Grants FAQ
 
 We've curated a collection of the most commonly asked general questions about Gitcoin Grants. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 
@@ -24,8 +24,8 @@ We've curated a collection of the most commonly asked general questions about Gi
 [are-there-any-grant-rules-i-need-to-follow.md](are-there-any-grant-rules-i-need-to-follow.md)
 {% endcontent-ref %}
 
-{% content-ref url="i-want-to-explore-gitcoins-other-products-where-do-i-go.md" %}
-[i-want-to-explore-gitcoins-other-products-where-do-i-go.md](i-want-to-explore-gitcoins-other-products-where-do-i-go.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="why-cant-access-my-gitcoin-account.md" %}

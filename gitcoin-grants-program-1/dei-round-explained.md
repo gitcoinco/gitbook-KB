@@ -10,7 +10,7 @@ This means grantees **do not** need to raise funds in two separate rounds but in
 
 ### How do you apply?
 
-To apply for this round all that grantees need to do is answer the question about the diversity of their team when applying for and core rounds or featured rounds.&#x20;
+To apply for this round all that grantees need to do is answer the question about the diversity of their team when applying to core or featured rounds.&#x20;
 
 An independent team will review grantees and follow up with any additional questions before finalizing decisions.&#x20;
 

@@ -46,3 +46,30 @@ Here, you will be able to:
 
 ### How to donate
 
+Make sure you've [connected your wallet.](how-to-connect-your-wallet.md)&#x20;
+
+Next, visit the round(s) you want to donate to! Here, you will be able to browse through the various projects that are included in that round:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.42.00.png" alt=""><figcaption></figcaption></figure>
+
+You can browse through the different projects, and add them to your cart as you go (either on the screen above or the project screen below):
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.42.20 (2).png" alt=""><figcaption></figcaption></figure>
+
+Next, once you've added all the projects to your cart, go to checkout:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.43.09.png" alt=""><figcaption></figcaption></figure>
+
+Here, you'll be allocate funds in your chosen denomination individually to each project, or you can include an "amount" to allocate to all projects simultaneously. Once you've completed this, you'll be prompted to "submit your donation:"
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.43.24.png" alt=""><figcaption></figcaption></figure>
+
+The following screens will pop up while your transaction is processing.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.43.59.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.44.06.png" alt=""><figcaption></figcaption></figure>
+
+You have now successfully donated to a Gitcoin Grants Round! _Remember, if you'd like to donate to multiple rounds, you will need to go through them individually. Each transaction will incur a gas fee_.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.44.16.png" alt=""><figcaption></figcaption></figure>

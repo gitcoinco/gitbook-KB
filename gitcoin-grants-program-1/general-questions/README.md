@@ -24,10 +24,6 @@ We've curated a collection of the most commonly asked general questions about Gi
 [are-there-any-grant-rules-i-need-to-follow.md](are-there-any-grant-rules-i-need-to-follow.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="why-cant-access-my-gitcoin-account.md" %}
 [why-cant-access-my-gitcoin-account.md](why-cant-access-my-gitcoin-account.md)
 {% endcontent-ref %}
@@ -58,14 +54,6 @@ We've curated a collection of the most commonly asked general questions about Gi
 
 {% content-ref url="i-see-a-bug-or-ive-got-a-question-what-do-i-do.md" %}
 [i-see-a-bug-or-ive-got-a-question-what-do-i-do.md](i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 

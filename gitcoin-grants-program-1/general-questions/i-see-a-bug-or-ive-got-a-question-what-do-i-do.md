@@ -2,4 +2,4 @@
 
 If you have a question please check the Gitcoin knowledge base first to see if it is already answered.
 
-If not, or you'd like to report a bug, you can email support@gitcoin.co.
+If not, or you'd like to report a bug, you can reach out to us via live chat or email support@gitcoin.co.

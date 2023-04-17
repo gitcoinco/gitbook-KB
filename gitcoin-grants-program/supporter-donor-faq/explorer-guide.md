@@ -8,9 +8,9 @@ description: >-
 
 ## TL;DR
 
-_Explorer allows supporters (donors) to browse through and donate to projects that have been approved in any single round._
+_Explorer allows supporters (donors) to browse through and donate to projects that have been approved in any single round. For example, if you want to donate to Climate Solutions, Ethereum Infrastructure, and a featured round, you'll need to go through the below process per round. It is not possible to donate to multiple rounds simultanously, only multiple projects within a round._
 
-To visit Explorer, you will need to go to the specific link for each round. Round operators will share those through the specific round’s Explorer via a direct link on Twitter, website, etc.
+To visit Explorer, you will need to go to the specific link for each round. Round operators will share those through the specific round’s Explorer via a direct link on Twitter, website, etc. We will also have a page where all the links live that will be shared before the round goes live.
 
 ### Pre-Round Screen
 
@@ -36,7 +36,7 @@ You will be able to:
 
 * Browse through projects
 * Search and sort through projects
-* Add projects to their Shortlist
+* Add projects to your cart
 * Click on projects to learn more about them
 
 ### Project Details page
@@ -52,8 +52,7 @@ Here, you will be able to:
 * See how much funding they’ve received thus far
 * See how many contributors have contributed thus far
 * See how many days are left in the round
-* Add their project to the Shortlist
+* Add their project to your cart
 
-### The Shortlist
+### How to donate
 
-As you browse projects on GE, you are able to add projects you like to a non-finalized list that we call the Shortlist. After you are done browsing projects, you move to the donation part of the process. Visit [_Using the shortlist function to donate_](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/funder-faq/using-the-shortlist-function-to-donate) for a step-by-step guide.&#x20;

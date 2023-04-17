@@ -38,6 +38,8 @@ The hardest part of being a Steward is showing up. The more effort you put in as
 
 [More on Steward Health Cards](https://gov.gitcoin.co/t/introducing-steward-health-cards-2-0/)
 
+Check out the [Steward Health Cards](https://www.daostewards.xyz/)
+
 ## Further reading
 
 * [Introducing Stewards Governance](https://gov.gitcoin.co/t/introducing-stewards-governance/41)

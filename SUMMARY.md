@@ -17,7 +17,6 @@
 * [Supporter (donor) FAQ](gitcoin-grants-program/supporter-donor-faq/README.md)
   * [📚 Explorer Guide](gitcoin-grants-program/supporter-donor-faq/explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [📚 Using the shortlist function to donate](gitcoin-grants-program/supporter-donor-faq/using-the-shortlist-function-to-donate.md)
   * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
 
 ## Gitcoin Passport
@@ -56,6 +55,7 @@
 * [All Grantees FAQ](gitcoin-grants-program-1/all-grantees-faq.md)
 * [What is the Gitcoin Grants program?](gitcoin-grants-program-1/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants-program-1/how-is-the-gitcoin-grants-program-changing.md)
+* [DEI Round Explained](gitcoin-grants-program-1/dei-round-explained.md)
 * [Tips for Grant Success](gitcoin-grants-program-1/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants-program-1/gitcoins-kyc.md)
 * [Grantee FAQ](gitcoin-grants-program-1/grantee-questions/README.md)

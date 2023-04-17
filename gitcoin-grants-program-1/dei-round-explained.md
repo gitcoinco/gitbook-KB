@@ -28,4 +28,4 @@ Answering the questions is **not required** and has no impact on eligibility for
 
 When the round guess live a web page with information about grantees and links to each proposal will be available to see. Links will be shared on the [grants.gitcoin.co](https://grants.gitcoin.co/) landing page alone with the links to all of the other pages.&#x20;
 
-_Still have questions? Please_ \
+_Still have questions? Please jump_ [_in our telegram_](https://t.me/+6tazXE3gW0czOGZh)_._\

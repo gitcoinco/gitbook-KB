@@ -8,29 +8,19 @@ description: >-
 
 ## TL;DR
 
-_Explorer allows supporters (donors) to browse through and donate to projects that have been approved in any single round. For example, if you want to donate to Climate Solutions, Ethereum Infrastructure, and a featured round, you'll need to go through the below process per round. It is not possible to donate to multiple rounds simultanously, only multiple projects within a round._
+_Explorer allows supporters (donors) to browse through and donate to projects that have been approved in any single round. **It is not possible to donate to multiple rounds simultanously, only multiple projects within a round.** For example, if you want to donate to Climate Solutions, Ethereum Infrastructure, and a featured round, you'll need to go through the below process per round._&#x20;
 
 To visit Explorer, you will need to go to the specific link for each round. Round operators will share those through the specific round’s Explorer via a direct link on Twitter, website, etc. We will also have a page where all the links live that will be shared before the round goes live.
 
 ### Pre-Round Screen
 
-The Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, the landing page could look something like this:
-
-<figure><img src="../../.gitbook/assets/App. landing.png" alt=""><figcaption></figcaption></figure>
-
-This page allows you to get information on:
-
-* What the round name is and a short description
-* When the application period is
-* When the round period is
-* How much matching funds are available
-* Round eligibility requirements with a button that lets you apply to the round on Builder if you choose to do so
+_The Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, you won't be able to view the projects yet. On the pre-round screen the information for that specific round will be displayed._
 
 ### Active Round Screen
 
-The UI of the landing page will change once the round becomes active. That is, once Round Operators have approved projects for their round and the round has begun. The landing page would then look something like this:
+Once Round Operators have approved projects for their round and the round has begun, the landing page would then look something like this:
 
-<figure><img src="../../.gitbook/assets/Landing (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.41.49.png" alt=""><figcaption></figcaption></figure>
 
 You will be able to:
 
@@ -43,7 +33,7 @@ You will be able to:
 
 As you browse the landing page, you might want to click on a project to learn more about it. You will be led to a page that looks like this:
 
-<figure><img src="../../.gitbook/assets/Project Details.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.42.20.png" alt=""><figcaption></figcaption></figure>
 
 Here, you will be able to:
 

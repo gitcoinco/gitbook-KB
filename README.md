@@ -27,4 +27,4 @@ Don't see your question below? You can use the search bar in the search through 
 If you still need to contact Gitcoin Support directly:
 
 * [Email us at support@gitcoin.co](mailto:support@gitcoin.co)&#x20;
-* [Open a ticket in the **Help & Support** section of the Gitcoin Discord](https://discord.com/channels/562828676480237578/1037424181018628286)
+* Talk to the support team through the chat window (bottom right icon) on this page and many of our product pages

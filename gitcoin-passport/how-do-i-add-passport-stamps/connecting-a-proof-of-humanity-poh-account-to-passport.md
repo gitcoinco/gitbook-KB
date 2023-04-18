@@ -37,4 +37,4 @@ You can confirm this by seeing the button that previously read as Connect Accoun
 
 ### Still not working?
 
-If you're unable to connect after following these steps, you can [message Gitcoin support on Gitcoin's Discord](https://discord.gg/b5PEjyVFXT), and we'll try to help resolve your issue.
+If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right) on this page and many of our product pages, and we'll try to help resolve your issue.

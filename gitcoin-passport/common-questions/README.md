@@ -26,28 +26,24 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 
 ### General
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md" %}
 [why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md](why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="how-is-gitcoin-passports-score-calculated.md" %}
 [how-is-gitcoin-passports-score-calculated.md](how-is-gitcoin-passports-score-calculated.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-is-gitcoin-passports-score-calculated-1.md" %}
+[how-is-gitcoin-passports-score-calculated-1.md](how-is-gitcoin-passports-score-calculated-1.md)
+{% endcontent-ref %}
+
 {% content-ref url="how-do-i-unlink-a-passport-from-my-gitcoin-account.md" %}
 [how-do-i-unlink-a-passport-from-my-gitcoin-account.md](how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="what-is-ceramic.md" %}
+[what-is-ceramic.md](what-is-ceramic.md)
 {% endcontent-ref %}
 
 ### Developers
@@ -60,8 +56,14 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [can-i-integrate-gitcoin-passport-into-my-dapp.md](can-i-integrate-gitcoin-passport-into-my-dapp.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-to-access-your-passport-json.md" %}
+[how-to-access-your-passport-json.md](how-to-access-your-passport-json.md)
+{% endcontent-ref %}
 
+{% content-ref url="how-to-download-your-passport-json.md" %}
+[how-to-download-your-passport-json.md](how-to-download-your-passport-json.md)
+{% endcontent-ref %}
 
 ### Did we answer your question?
 
-Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or [submit a ticket to support](https://gitcoin.happyfox.com/new).
+Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or reach out to our support team via live chat on our website or email at [support@gitcoin.co](mailto:support@gitcoin.co).

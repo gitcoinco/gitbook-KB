@@ -24,7 +24,7 @@ Step 4: Your operating system will prompt you, asking where you'd like to save t
 
 ### Still not working?
 
-If you're unable to download the Passport JSON, you can [message Gitcoin support on Gitcoin's Discord](https://discord.gg/b5PEjyVFXT), and we'll try to help resolve your issue.
+If you're unable to download the Passport JSON, you can reach out to our support team via live chat on our website or email at [support@gitcoin.co](mailto:support@gitcoin.co), and we'll try to help resolve your issue.
 
 ### Related topics
 

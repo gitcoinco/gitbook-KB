@@ -30,5 +30,5 @@ We've curated a collection of the most commonly asked questions from grantees.&#
 
 ### Did we answer your question?
 
-Don't see an answer to your question? Reach out to us at support@gitcoin.co
+Don't see an answer to your question? Reach out to our support team via live chat on our website or email at [support@gitcoin.co](mailto:support@gitcoin.co).
 

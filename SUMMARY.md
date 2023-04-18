@@ -43,6 +43,7 @@
 * [Gitcoin Passport FAQ](gitcoin-passport/common-questions/README.md)
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
   * [🤔 How is Gitcoin Passport’s score calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated.md)
+  * [🤔 Where can I see my Passport's score?](gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated-1.md)
   * [🤔 How do I unlink a Passport from my Gitcoin account?](gitcoin-passport/common-questions/how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
   * [🤔 What is Ceramic?](gitcoin-passport/common-questions/what-is-ceramic.md)
   * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)

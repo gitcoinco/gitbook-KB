@@ -143,6 +143,7 @@
     * [Appeal Process - Stage 1](about-gitcoin/policy/appeals/appeal-process-stage-1.md)
     * [Appeal Process - Stage 2](about-gitcoin/policy/appeals/appeal-process-stage-2.md)
   * [The Gitcoin Mission](about-gitcoin/policy/the-gitcoin-mission.md)
+* [Contact Us](about-gitcoin/contact-us.md)
 
 ## Misc
 

@@ -62,6 +62,7 @@
 * [Grantee FAQ](gitcoin-grants-program-1/grantee-questions/README.md)
   * [Platform Level Grant Participation Policy](gitcoin-grants-program-1/grantee-questions/platform-level-grant-participation-policy.md)
   * [🤔 When are the next opportunities to get funding?](gitcoin-grants-program-1/grantee-questions/when-are-the-next-opportunities-to-get-funding.md)
+  * [🤔 How do I copy my grant from cGrants?](gitcoin-grants-program-1/grantee-questions/how-do-i-copy-my-grant-from-cgrants.md)
   * [🤔 How do I check the status of my Grant?](gitcoin-grants-program-1/grantee-questions/how-do-i-check-the-status-of-my-grant.md)
   * [🤔 Why isn't my Grant active?](gitcoin-grants-program-1/grantee-questions/why-isnt-my-grant-active.md)
   * [🤔 How many Grant Rounds can I enter?](gitcoin-grants-program-1/grantee-questions/how-many-grant-rounds-can-i-enter.md)

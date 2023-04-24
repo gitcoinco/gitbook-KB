@@ -14,6 +14,7 @@
   * [KYC on Manager](gitcoin-grants-program/program-managers/kyc-on-manager.md)
   * [How to make payments after a round is finalized](gitcoin-grants-program/program-managers/how-to-make-payments-after-a-round-is-finalized.md)
   * [How to Accept/Reject Grantees in Manager](gitcoin-grants-program/program-managers/how-to-accept-reject-grantees-in-manager.md)
+  * [How to view your round results](gitcoin-grants-program/program-managers/how-to-view-your-round-results.md)
 * [Supporter (donor) FAQ](gitcoin-grants-program/supporter-donor-faq/README.md)
   * [📚 Explorer Guide](gitcoin-grants-program/supporter-donor-faq/explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)

@@ -12,6 +12,8 @@ _Explorer allows supporters (donors) to browse through and donate to projects th
 
 To visit Explorer, you will need to go to the specific link for each round. Round operators will share those through the specific round’s Explorer via a direct link on Twitter, website, etc. We will also have a page where all the links live that will be shared before the round goes live.
 
+_**For the Gitcoin Grants Beta Round, please visit**_ [_**grants.gitcoin.co**_](https://grants.gitcoin.co/) _**to browse rounds you'd like to support. NOTE that if you want to donate to another round after you've completed the below process, you'll need to return to**_ [_**grants.gitcoin.co**_](https://grants.gitcoin.co/) _**to repeat the process.**_
+
 ### Pre-Round Screen
 
 _The Explorer landing page UI changes based on whether a round has started or not. If a round has not begun yet, you won't be able to view the projects yet. On the pre-round screen the information for that specific round will be displayed._
@@ -73,3 +75,5 @@ The following screens will pop up while your transaction is processing.
 You have now successfully donated to a Gitcoin Grants Round! _Remember, if you'd like to donate to multiple rounds, you will need to go through them individually. Each transaction will incur a gas fee_.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-17 at 11.44.16.png" alt=""><figcaption></figcaption></figure>
+
+_**For the Gitcoin Grants Beta Round, please visit**_ [_**grants.gitcoin.co**_](https://grants.gitcoin.co/) _**to browse rounds you'd like to support. NOTE that if you want to donate to another round after you've completed the below process, you'll need to return to**_ [_**grants.gitcoin.co**_](https://grants.gitcoin.co/) _**to repeat the process.**_

@@ -6,9 +6,7 @@ Gitcoin’s mission began in 2017 by creating better incentives to support and f
 
 During a QF round, the community contributes to the project they feel should be funded and supported; a matching partner offers funds to match the community’s contributions, but not in a 1:1 match. Instead, the fund matching is more aligned with the sentiment of the community as opposed to the sheer dollar value amount raised by any grantee. The _number of contributions_ matters more than the _amount funded._
 
-For further information on the latest GR15, read the recap [here](https://go.gitcoin.co/blog/gr15-results).
-
-Read more on the Gitcoin Grants launch:
+_‍_If you want to keep up to date on our current and upcoming rounds, make sure to check the [Grantee Portal](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20) often or sign up for email updates by going to [Gitcoin.co](https://www.gitcoin.co/), scrolling to the bottom of the page and filling out the form, checking the box “Funding my Project” and submitting your info.
 
 {% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
 

@@ -11,4 +11,4 @@ As we've transitioned towards decentralization, our new grants platform is fully
 * Transparency
 * Interoperability with other onchain tools
 
-_We're exploring ways of deploying on cheaper chains. We're exploring zkSync and other technologies that will make it cheaper, and we're working on bringing the cost down._&#x20;
+_We're exploring ways of deploying on cheaper chains, and other technologies that will make it cheaper, and we're working on bringing the cost down._&#x20;

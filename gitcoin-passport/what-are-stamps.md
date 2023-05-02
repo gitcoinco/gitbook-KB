@@ -19,4 +19,6 @@ With Ceramic, Passport data is also composable and interoperable, providing secu
 
 {% embed url="https://youtu.be/OUNERu4pwbM?t=1237" %}
 
-_Note: Passport stamps will automatically expire 90 days after verification. You will need to re-verify Passport Stamps periodically._
+### Why have my stamps expired?
+
+Stamps expire and need to be renewed every 90 days. This helps Gitcoin Passport be confident in your unique humanity and makes it more challenging for Sybil users to attack the system. The expiration and renewal cycle also enables humans to re-use stamps and credentials w/ new wallets if they ever lose access to the wallet they used to create a Passport.

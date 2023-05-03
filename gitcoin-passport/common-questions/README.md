@@ -42,6 +42,10 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [how-do-i-unlink-a-passport-from-my-gitcoin-account.md](how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
 {% endcontent-ref %}
 
+{% content-ref url="why-have-my-stamps-expired.md" %}
+[why-have-my-stamps-expired.md](why-have-my-stamps-expired.md)
+{% endcontent-ref %}
+
 {% content-ref url="what-is-ceramic.md" %}
 [what-is-ceramic.md](what-is-ceramic.md)
 {% endcontent-ref %}

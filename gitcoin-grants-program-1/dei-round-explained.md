@@ -2,7 +2,7 @@
 
 ## What is the DEI bonus round?
 
-This is a special new round format we are implementing for our Beta Round on our new platform, [Gitcoin Grants Stack](../gitcoin-grants-program/what-is-gitcoin-grants-stack.md).&#x20;
+This is a new round format we are experimenting with during our Beta Round on our new platform, [Gitcoin Grants Stack](../gitcoin-grants-program/what-is-gitcoin-grants-stack.md).&#x20;
 
 There is a separate pool of funds available for grantees with teams from diverse backgrounds with diverse teams. The intention is to not to purely hold a standalone diversity featured round, but instead have additional funds available from matching fund partners for all projects that are eligible.&#x20;
 
@@ -26,6 +26,4 @@ Answering the questions is **not required** and has no impact on eligibility for
 
 ### Where can you find grantees in this matching pool?&#x20;
 
-When the round guess live a web page with information about grantees and links to each proposal will be available to view. Links will be shared on the [grants.gitcoin.co](https://grants.gitcoin.co/) landing page along with the links to all of the other pages.&#x20;
-
-_Still have questions? Please jump_ [_in our telegram_](https://t.me/+6tazXE3gW0czOGZh)_._\
+When the round guess live a web page with information about grantees and links to each proposal will be available to view. Links will be shared on the [grants.gitcoin.co](https://grants.gitcoin.co/) landing page along with the links to all of the other pages. \

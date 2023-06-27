@@ -10,14 +10,15 @@ We began this transition by introducing the [Alpha Test Season](https://go.gitco
 
 ## Current Grants Round
 
-*
+* N/A
 
 ## Upcoming Grants Rounds
 
-* [Gitcoin Grants Beta Round](https://go.gitcoin.co/blog/announcing-the-gitcoin-grants-beta-round): April 25th - May 9th 2023
+* _The next Gitcoin-managed grants round will occur in August, 2023. Exact dates TBC._
 
 ## Previous Grants Rounds
 
+* [Gitcoin Grants Beta Round](https://go.gitcoin.co/blog/announcing-the-gitcoin-grants-beta-round): April 25th - May 9th 2023
 * Gitcoin Program Alpha Round: Jan 17 - 31, 2023
 * Fantom Round: Dec 12, 2022 - Jan 2, 2023
 * UNICEF Round: December 9-21, 2022

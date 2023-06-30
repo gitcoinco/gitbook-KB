@@ -155,6 +155,7 @@
   * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)
   * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+* [How to retrieve my data from cGrants](misc/how-to-retrieve-my-data-from-cgrants.md)
 * [Gitcoin Governance](misc/dao-faq/README.md)
   * [🏢 What are the governance workstreams?](misc/dao-faq/what-are-governance-workstreams.md)
   * [🏢 What is the Stewards delegation program?](misc/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)

@@ -6,6 +6,10 @@ Don't see your question below? You can use the search bar in the search through 
 
 ### Most commonly asked questions
 
+{% content-ref url="misc/cgrants-bounties-and-hackathons-sunsetting-faq/" %}
+[cgrants-bounties-and-hackathons-sunsetting-faq](misc/cgrants-bounties-and-hackathons-sunsetting-faq/)
+{% endcontent-ref %}
+
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/supporter-donor-faq/explorer-guide" %}

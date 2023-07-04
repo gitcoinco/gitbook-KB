@@ -50,6 +50,7 @@
   * [🤔 How do I unlink a Passport from my Gitcoin account?](gitcoin-passport/common-questions/how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
   * [🤔 Why have my stamps expired?](gitcoin-passport/common-questions/why-have-my-stamps-expired.md)
   * [🤔 What is Ceramic?](gitcoin-passport/common-questions/what-is-ceramic.md)
+  * [🤔 Why is my Passport score not adding up?](gitcoin-passport/common-questions/why-is-my-passport-score-not-adding-up.md)
   * [💻 Can a developer add a new stamp to Gitcoin passport?](gitcoin-passport/common-questions/can-a-developer-add-a-new-stamp-to-gitcoin-passport.md)
   * [💻 Can I integrate Gitcoin passport into my dapp?](gitcoin-passport/common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
   * [💻 How to access your Passport JSON](gitcoin-passport/common-questions/how-to-access-your-passport-json.md)

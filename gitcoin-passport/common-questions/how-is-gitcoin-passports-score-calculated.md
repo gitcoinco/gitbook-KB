@@ -74,7 +74,7 @@ The Passport score is calculated based on the data points verified in the partic
   * More than 100 Followers: 1.67
   * More than 500 Followers: 1.67
   * More than 1000 Followers: 1.77
-  * More than 5000 Followers: 1.6
+  * More than 5000 Followers: 0
 * ZkSync: 1.67
 * GTC
   * Possessed 10 GTC: 1.67

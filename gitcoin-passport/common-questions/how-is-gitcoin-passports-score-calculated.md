@@ -90,12 +90,9 @@ The Passport score is calculated based on the data points verified in the partic
   * Created a DAO proposal that was voted on by at least 1 account: 2.82
   * Voted on 2 or more DAO proposals: 1.41
 * Twitter
-  * Twitter Account: 1.21
-  * More than 100 Followers: 1.21
-  * More than 500 Followers: 1.21
-  * More than 1000 Followers: 1.21
-  * More than 5000 Followers: 1.21
-  * More than 10 Tweets: 1.21
+  * Account created at least 180 days ago
+  * Account created at least 1 year ago
+  * Account created at least 2 years ago
 * ZkSync
   * ZkSync Lite: 0.4
   * ZkSync Era: 0.4

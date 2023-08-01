@@ -61,7 +61,6 @@
 * [All Grantees FAQ](gitcoin-grants-program-1/all-grantees-faq.md)
 * [What is the Gitcoin Grants program?](gitcoin-grants-program-1/what-is-a-grant.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants-program-1/how-is-the-gitcoin-grants-program-changing.md)
-* [DEI Round Explained](gitcoin-grants-program-1/dei-round-explained.md)
 * [Tips for Grant Success](gitcoin-grants-program-1/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants-program-1/gitcoins-kyc.md)
 * [Grantee FAQ](gitcoin-grants-program-1/grantee-questions/README.md)

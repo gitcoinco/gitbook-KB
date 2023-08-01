@@ -22,8 +22,8 @@ Don't see your question below? You can use the search bar in the search through 
 [what-do-i-do-if-my-contributions-are-missing.md](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
 {% endcontent-ref %}
 
-{% content-ref url="gitcoin-grants-program-1/general-questions/why-cant-access-my-gitcoin-account.md" %}
-[why-cant-access-my-gitcoin-account.md](gitcoin-grants-program-1/general-questions/why-cant-access-my-gitcoin-account.md)
+{% content-ref url="gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md" %}
+[why-cant-access-my-gitcoin-account.md](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
 {% endcontent-ref %}
 
 ###

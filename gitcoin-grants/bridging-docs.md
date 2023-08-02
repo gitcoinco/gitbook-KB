@@ -1,6 +1,6 @@
 # Bridging Docs
 
-Granst Stack now supports various L2's. In order to participate by applying to a round or donate to one, you'll need to ensure that you bridge your funds correctly to the appropriate network.
+Gitcoin Grants Stack now supports various L2's. In order to participate by applying to a round or donating in one, you'll need to ensure that you bridge your funds correctly to the appropriate network.
 
 In this article:&#x20;
 

@@ -31,8 +31,8 @@ The general steps for every Stamp are:
 [connecting-a-twitter-account-to-passport.md](connecting-a-twitter-account-to-passport.md)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-poaps-to-passport.md" %}
-[connecting-poaps-to-passport.md](connecting-poaps-to-passport.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="connecting-brightid-to-passport.md" %}
@@ -63,8 +63,8 @@ The general steps for every Stamp are:
 [verifying-ethereum-transactions-to-passport.md](verifying-ethereum-transactions-to-passport.md)
 {% endcontent-ref %}
 
-{% content-ref url="verifying-gtc-ownership-on-passport.md" %}
-[verifying-gtc-ownership-on-passport.md](verifying-gtc-ownership-on-passport.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### More on adding Stamps

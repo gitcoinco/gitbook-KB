@@ -56,7 +56,6 @@
 
 ## Gitcoin Grants
 
-* [All Grantees FAQ](gitcoin-grants/all-grantees-faq.md)
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
 * [Bridging Docs](gitcoin-grants/bridging-docs.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)

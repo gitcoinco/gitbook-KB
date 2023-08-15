@@ -62,7 +62,7 @@ After you have connected to your Passport, verified enough stamps, and updated y
 
 After reaching an eligible score, no further action is needed. You can go back to browsing and know that your donations will be matched.
 
-_Note: The threshold for Gitcoin Passport Scoring is 15 and the maximum possible score is 100. Any score above 15 will be eligible for matching funds for their donations._
+_Note: The threshold for Gitcoin Passport Scoring is 20 and the maximum possible score is 100. Any score above 20 will be eligible for matching funds for their donations._
 
 To find out more about Passport Score check here:&#x20;
 

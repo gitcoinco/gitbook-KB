@@ -17,13 +17,10 @@ The Passport score is calculated based on the data points verified in the partic
   * Holds a Civic Uniqueness Pass: 2.25
   * Holds a Civic Liveness Pass: 2.25
 * Coinbase: 1.35
-* GTC Staking
-  * Community Staking Bronze: 1.27
-  * Community Staking Gold: 1.27
-  * Community Staking Silver: 1.27
-  * Self Staking Bronze: 1.21
-  * Self Staking Gold: 1.21
-  * Self Staking Silver: 1.21
+* CyberConnect
+  * Premium CyberProfile Handle (length is between 1 and 6 characters): 1.21
+  * Paid CyberProfile Handle (length is between 7 and 12 characters): 1.21
+  * Organization Membership: 1.21
 * Discord: 0.689
 * ENS: 2.2
 * ETH
@@ -46,14 +43,6 @@ The Passport score is calculated based on the data points verified in the partic
   * Contributed at least $10: 1.53
   * Contributed at least $100: 1.37
   * Contributed at least $1000: 1.18
-  * Grants have at least 10 Contributors: 0.71
-  * Grants have at least 100 Contributors: 0.73
-  * Grants have at least 25 Contributors: 0.61
-  * Owner of at least 1 Grant in Eco/Cause Rounds: 1.18
-  * Owner of at least 1 Grant: 1.1
-  * Grants have received at least $100: 0.689
-  * Grants have received at least $1000: 0.689
-  * Grants have received at least $10000: 0.689
 * Github
   * Account created at least 90 days ago: 1.21
   * Account created at least 180 days ago: 1.21
@@ -61,9 +50,22 @@ The Passport score is calculated based on the data points verified in the partic
   * Contributions on at least 30 distinct days: 1.21
   * Contributions on at least 60 distinct days: 1.21
   * Contributions on at least 120 distinct days: 1.21
-* GitPOAP: 1.54
 * Gnosis Safe: 2.65
 * Google: 2.25
+* Grants Stack
+  * Supported 3+ unique projects: 1.07
+  * Supported 5+ unique projects: 1.07
+  * Supported 7+ unique projects: 1.07
+  * Contributed to 2+ unique programs: 1.07
+  * Contributed to 4+ unique programs: 1.07
+  * Contributed to 6+ unique programs: 1.07
+* GTC Staking
+  * Community Staking Bronze: 1.27
+  * Community Staking Gold: 1.27
+  * Community Staking Silver: 1.27
+  * Self Staking Bronze: 1.21
+  * Self Staking Gold: 1.21
+  * Self Staking Silver: 1.21
 * Guild
   * Owner or Administrator of one or more guilds: 0.689
   * Member of more than 5 guilds and more than 15 roles: 0.689
@@ -89,6 +91,7 @@ The Passport score is calculated based on the data points verified in the partic
 * Snapshot
   * Created a DAO proposal that was voted on by at least 1 account: 2.82
   * Voted on 2 or more DAO proposals: 1.41
+* Trusta Labs: 1.54
 * Twitter
   * Account created at least 180 days ago: 1.21
   * Account created at least 1 year ago: 1.21

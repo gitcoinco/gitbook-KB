@@ -43,14 +43,6 @@ The Passport score is calculated based on the data points verified in the partic
   * Contributed at least $10: 1.53
   * Contributed at least $100: 1.37
   * Contributed at least $1000: 1.18
-  * Grants have at least 10 Contributors: 0.71
-  * Grants have at least 100 Contributors: 0.73
-  * Grants have at least 25 Contributors: 0.61
-  * Owner of at least 1 Grant in Eco/Cause Rounds: 1.18
-  * Owner of at least 1 Grant: 1.1
-  * Grants have received at least $100: 0.689
-  * Grants have received at least $1000: 0.689
-  * Grants have received at least $10000: 0.689
 * Github
   * Account created at least 90 days ago: 1.21
   * Account created at least 180 days ago: 1.21

@@ -38,7 +38,6 @@
   * [🔌 Connecting a GitHub account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-github-account-to-passport.md)
   * [🔌 Connecting Gitcoin Grants to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-gitcoin-grants-to-passport.md)
   * [🔌 Connecting a Discord account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-discord-account-to-passport.md)
-  * [🔌 Connecting GitPOAPs to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-gitpoaps-to-passport.md)
   * [🔌 Connecting Snapshot to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-snapshot-to-passport.md)
   * [🔌 Verifying Ethereum transactions to Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
 * [Gitcoin Passport FAQ](gitcoin-passport/common-questions/README.md)

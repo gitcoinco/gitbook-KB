@@ -51,8 +51,8 @@ The general steps for every Stamp are:
 [connecting-a-discord-account-to-passport.md](connecting-a-discord-account-to-passport.md)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-gitpoaps-to-passport.md" %}
-[connecting-gitpoaps-to-passport.md](connecting-gitpoaps-to-passport.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="connecting-snapshot-to-passport.md" %}

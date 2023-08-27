@@ -24,7 +24,10 @@
 ## Gitcoin Passport
 
 * [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)
+* [Creating a Gitcoin Passport](gitcoin-passport/creating-a-gitcoin-passport.md)
 * [What are Stamps?](gitcoin-passport/what-are-stamps.md)
+* [Moving your Stamps onchain](gitcoin-passport/moving-your-stamps-onchain.md)
+* [Presenting your Passport](gitcoin-passport/presenting-your-passport.md)
 * [GTC Staking on your Identity](gitcoin-passport/identity-staking-questions/README.md)
   * [GTC Staking FAQ](gitcoin-passport/identity-staking-questions/gtc-staking-faq.md)
 * [Passport Scorer API](gitcoin-passport/passport-scorer-api.md)

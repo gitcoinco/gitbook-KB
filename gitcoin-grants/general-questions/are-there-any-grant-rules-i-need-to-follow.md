@@ -27,5 +27,3 @@ We define a [Sybil attack](https://en.wikipedia.org/wiki/Sybil\_attack) as:
 We cannot possibly enumerate every single literal example of a breaking of the above rule, so please treat the above list as an incomplete list. You should refer to the definitions of Sybil and collusion attack in the CLR paper as the canonical source of truth for the rules.
 
 Rule violations can lead to a reduction or nullification of your matching bonus.
-
-Any rule violations can be flagged via the **Flag Grant** functionality on the Gitcoin Grants user interface. For transparency, we post about rule violations on [the GitcoinDisputes Twitter](https://twitter.com/GitcoinDisputes) – so follow that account if you’re interested in participating in that governance process.

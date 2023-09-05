@@ -77,7 +77,6 @@
   * [📚 What are Public Goods?](gitcoin-grants/general-questions/what-are-public-goods.md)
   * [📚 Why should I contribute?](gitcoin-grants/general-questions/why-should-i-contribute.md)
   * [📚 What are the Grants Round rules I need to follow?](gitcoin-grants/general-questions/are-there-any-grant-rules-i-need-to-follow.md)
-  * [📚 Why can't I access my Gitcoin account?](gitcoin-grants/general-questions/why-cant-access-my-gitcoin-account.md)
   * [🤖 What is Quadratic funding?](gitcoin-grants/general-questions/whats-quadratic-funding.md)
   * [🤖 Why is Quadratic funding powerful?](gitcoin-grants/general-questions/why-is-quadratic-funding-powerful.md)
   * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)

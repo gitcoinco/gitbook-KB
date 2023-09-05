@@ -80,7 +80,6 @@
   * [🤖 What is Quadratic funding?](gitcoin-grants/general-questions/whats-quadratic-funding.md)
   * [🤖 Why is Quadratic funding powerful?](gitcoin-grants/general-questions/why-is-quadratic-funding-powerful.md)
   * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)
-  * [🤖 Can a programmer build on top of Gitcoin Grants?](gitcoin-grants/general-questions/im-a-programmer-who-wants-to-build-on-gitcoin-grants-where-do-i-start.md)
   * [🤨 I see a bug or I've got a question, what do I do?](gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
 

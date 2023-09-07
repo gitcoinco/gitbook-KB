@@ -1,2 +1,0 @@
-# Fraud Deterrent Mechanisms
-

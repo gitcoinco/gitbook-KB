@@ -30,7 +30,7 @@
 * [Presenting your Passport](gitcoin-passport/presenting-your-passport.md)
 * [GTC Staking on your Identity](gitcoin-passport/identity-staking-questions/README.md)
   * [GTC Staking FAQ](gitcoin-passport/identity-staking-questions/gtc-staking-faq.md)
-* [Passport Scorer API](gitcoin-passport/passport-scorer-api.md)
+* [Passport API and Smart Contracts](gitcoin-passport/passport-api-and-smart-contracts.md)
 * [Explorer 🤝 Passport Guide](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
 * [How do I add Passport Stamps?](gitcoin-passport/how-do-i-add-passport-stamps/README.md)
   * [🔌 Connecting a Google account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-google-account-to-passport.md)

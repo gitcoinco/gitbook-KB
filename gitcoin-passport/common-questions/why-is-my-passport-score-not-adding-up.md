@@ -2,7 +2,7 @@
 
 At times, you may encounter a situation where adding a stamp does not result in an update of your passport score. Alternatively, you might notice that your passport score is lower than the sum of individual stamps you have obtained. The primary reason for this discrepancy is typically the claiming of the same stamp using multiple wallet addresses.
 
-Gitcoin Passport serves as an identity verification application designed to mitigate sybil attacks. When attempting to claim a stamp using more than one wallet address, the score associated with subsequent wallet addresses will not be added.
+Gitcoin Passport serves as an identity verification application designed to mitigate sybil attacks. When attempting to claim a stamp using more than one wallet address, the score associated with subsequent wallet addresses **will not be added.**
 
 To ensure that your full scores are consolidated within a single wallet, please follow these steps:
 

@@ -10,7 +10,7 @@ We began this transition by introducing the [Alpha Test Season](https://go.gitco
 
 ## Current Grants Round
 
-* GG18 just concluded.
+* [GG18](https://www.gitcoin.co/blog/gitcoin-grants-round-18-results-and-recap) just concluded.
 
 ## Upcoming Grants Rounds
 

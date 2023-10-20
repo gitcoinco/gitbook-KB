@@ -14,7 +14,7 @@ We began this transition by introducing the [Alpha Test Season](https://go.gitco
 
 ## Upcoming Grants Rounds
 
-* _The next Gitcoin Grants round will be in November, 2023 (exact dates announced soon)_
+* _The next Gitcoin Grants round will run from Nov 15 - 29, 2023._
 
 ## Previous Grants Rounds
 

@@ -5,6 +5,7 @@
 ## GRANTS STACK <a href="#gitcoin-grants-program" id="gitcoin-grants-program"></a>
 
 * [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack.md)
+* [Passport Sliding Scale on Grants Stack](gitcoin-grants-program/passport-sliding-scale-on-grants-stack.md)
 * [Project Owners](gitcoin-grants-program/project-owners/README.md)
   * [How to create a project in Builder](gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder.md)
   * [How to edit your project in Builder](gitcoin-grants-program/project-owners/how-to-edit-your-project-in-builder.md)

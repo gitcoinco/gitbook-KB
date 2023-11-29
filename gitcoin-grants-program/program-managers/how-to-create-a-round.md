@@ -85,7 +85,7 @@ _Note: Requirements do not restrict who can apply to the round, rather they defi
 
     ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8aac6d4b-f464-417a-88d1-b8f8e750d619/Screen\_Shot\_2023-01-20\_at\_3.49.05\_PM.png)
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
     \
     This may take some time, be patient!

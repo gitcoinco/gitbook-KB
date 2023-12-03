@@ -19,7 +19,6 @@
 * [Supporter (donor) FAQ](gitcoin-grants-program/supporter-donor-faq/README.md)
   * [📚 Explorer Guide](gitcoin-grants-program/supporter-donor-faq/explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [📚 Why aren't my contributions showing on my profile?](gitcoin-grants-program/supporter-donor-faq/what-do-i-do-if-my-contributions-are-missing.md)
   * [📚 Why are donations on mainnet only?](gitcoin-grants-program/supporter-donor-faq/why-are-donations-on-mainnet-only.md)
 
 ## Gitcoin Passport

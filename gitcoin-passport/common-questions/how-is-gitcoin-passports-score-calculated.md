@@ -4,7 +4,7 @@ description: Learn how Gitcoin Passport's scores are calculated.
 
 # 🤔 How is Gitcoin Passport’s score calculated?
 
-The Gitcoin Grants Round is a program that allows anyone to donate to open-source projects they like. However, only contributions made by individuals with high enough Passport scores will be eligible for matching funds. In order to be eligible for matching funds, participants must have a Passport score of 20 or above.
+The Gitcoin Grants Round is a program that allows anyone to donate to open-source projects they like. However, only contributions made by individuals with high enough Passport scores will be eligible for matching funds. In order to be eligible for matching funds, participants must have a Passport score of 15 or above.
 
 The Passport score is calculated based on the data points verified in the participant's Passport. Each data point is assigned a specific weight, which is used to determine the Passport score. \
 
@@ -100,11 +100,11 @@ The Passport score is calculated based on the data points verified in the partic
   * ZkSync Lite: 0.4
   * ZkSync Era: 0.4
 
-The threshold for Gitcoin Passport Scoring is 20 and the maximum possible score is 100. Any score above 20 will be eligible for matching funding for their donations.
+The threshold for Gitcoin Passport Scoring is 15 and the maximum possible score is 100. Any score above 15 will be eligible for matching funding for their donations.
 
-We encourage all users to verify as many stamps as they can to increase their Passport Score for matching funds of their donation, but a score of 20 is sufficient.&#x20;
+We encourage all users to verify as many stamps as they can to increase their Passport Score for matching funds of their donation, but a score of 15 is sufficient.&#x20;
 
-Your score must be over the 20 threshold before the donation is made in order for it to receive matching eligibility.&#x20;
+Your score must be over the 15 threshold before the donation is made in order for it to receive matching eligibility. See [Passport Sliding Scale on Grants Stack](../../gitcoin-grants-program/passport-sliding-scale-on-grants-stack.md) for more information.
 
 _Note: Passport stamps will automatically expire 90 days after verification. You will need to re-verify Passport Stamps periodically._
 

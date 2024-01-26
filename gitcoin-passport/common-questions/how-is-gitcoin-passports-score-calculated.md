@@ -11,94 +11,78 @@ The Passport score is calculated based on the data points verified in the partic
 
 ### &#x20;Gitcoin Passport Scoring Weights:&#x20;
 
-* BrightID: 0.689
+* BrightID: 0.71
 * Civic
-  * Holds a Civic CAPTCHA Pass: 1
-  * Holds a Civic Uniqueness Pass: 2.25
-  * Holds a Civic Liveness Pass: 2.25
-* Coinbase: 1.35
+  * Holds a Civic CAPTCHA Pass: 0.51
+  * Holds a Civic Uniqueness Pass: 3.29
+  * Holds a Civic Liveness Pass: 2.27
+* Coinbase: 1.37
 * CyberConnect
-  * Premium CyberProfile Handle (length is between 1 and 6 characters): 1.21
-  * Paid CyberProfile Handle (length is between 7 and 12 characters): 1.21
-  * Organization Membership: 1.21
-* Discord: 0.689
+  * Premium CyberProfile Handle (length is between 1 and 6 characters): 1.23
+  * Paid CyberProfile Handle (length is between 7 and 12 characters): 1.23
+  * Organization Membership: 1.23
+* Discord: 0.71
 * ENS: 2.2
 * ETH
-  * At least 0.5 ETH in gas fees spent: 2.4
-  * At least 1 ETH transaction: 1.27
-  * Possessed at least 1 ETH: 1.79
-  * Possessed at least 10 ETH: 1.27
-  * Possessed at least 32 ETH: 1.27
-  * First ETH transaction occurred more than 30 days ago: 1.16
-* Facebook
-  * Facebook Account Name Encryption: 0.689
-  * Facebook Profile Picture attached: 0.689
+  * ETH Advocate: 3.54
+  * ETH Pioneer: 3.54
+  * ETH Maxi: 3.54
 * Gitcoin Grants
-  * Contributed in GR14: 1.41
-  * Contributed to at least 1 Grant: 1.57
-  * Contributed to at least 10 Grant: 2.3
-  * Contributed to at least 100 Grant: 0.52
-  * Contributed to at least 25 Grant: 1.48
-  * Contributed in at least 1 Round: 1.57
-  * Contributed at least $10: 1.53
-  * Contributed at least $100: 1.37
-  * Contributed at least $1000: 1.18
+  * Contributed to at least 1 Grant: 2.93
+  * Contributed to at least 10 Grant: 3.66
+  * Contributed to at least 100 Grant: 1.88
+  * Contributed to at least 25 Grant: 2.84
+  * Contributed at least $10: 2.94
+  * Contributed at least $100: 2.73
+  * Contributed at least $1000: 2.54
 * Github
-  * Account created at least 90 days ago: 1.21
-  * Account created at least 180 days ago: 1.21
-  * Account created at least 365 days ago: 1.21
-  * Contributions on at least 30 distinct days: 1.21
-  * Contributions on at least 60 distinct days: 1.21
-  * Contributions on at least 120 distinct days: 1.21
-* Gnosis Safe: 2.65
-* Google: 2.25
-* Grants Stack
-  * Supported 3+ unique projects: 1.07
-  * Supported 5+ unique projects: 1.07
-  * Supported 7+ unique projects: 1.07
-  * Contributed to 2+ unique programs: 1.07
-  * Contributed to 4+ unique programs: 1.07
-  * Contributed to 6+ unique programs: 1.07
+  * Account created at least 90 days ago: 1.02
+  * Account created at least 180 days ago: 1.23
+  * Account created at least 365 days ago: 1.43
+  * Contributions on at least 30 distinct days: 1.23
+  * Contributions on at least 60 distinct days: 1.23
+  * Contributions on at least 120 distinct days: 1.23
+* Gnosis Safe: 2.67
+* Google: 1.03
 * GTC Staking
-  * Community Staking Bronze: 1.27
-  * Community Staking Gold: 1.27
-  * Community Staking Silver: 1.27
-  * Self Staking Bronze: 1.21
-  * Self Staking Gold: 1.21
-  * Self Staking Silver: 1.21
+  * Beginner Community Staker: 1.29
+  * Experienced Community Staker: 1.29
+  * Trusted Citizen: 1.29
+  * Self Staking Bronze: 1.23
+  * Self Staking Gold: 1.23
+  * Self Staking Silver: 1.23
 * Guild
-  * Owner or Administrator of one or more guilds: 0.689
-  * Member of more than 5 guilds and more than 15 roles: 0.689
-  * Member with 1 or more roles in Gitcoin Passport Guild: 0.689
-* Holonym: 4
-* Hypercerts - 2 for more than 15 days: 0.689
+  * Owner or Administrator of one or more guilds: 0.71
+  * Member of more than 5 guilds and more than 15 roles: 0.71
+  * Member with 1 or more roles in Gitcoin Passport Guild: 0.71
+* Holonym: 5.04
 * Idena
-  * Identity Age more than 10 epochs: 1.48
-  * Identity Age more than 5 epochs: 1.48
-  * Idena Stake more than 100k iDna: 1.41
-  * Idena Stake more than 10k iDna: 1.16
-  * Idena Stake more than 1k iDna: 0.9
-  * Idena Identity State - Human: 1.61
-  * Idena Identity State - Newbie: 0.51
-  * Idena Identity State - Verified: 1.35
-* Lens Handle: 2.45
-* Linkedin Account: 2.45
-* NFT Holder: 0.69
+  * Identity Age more than 10 epochs: 1.5
+  * Identity Age more than 5 epochs: 1.5
+  * Idena Stake more than 100k iDna: 1.43
+  * Idena Stake more than 10k iDna: 1.18
+  * Idena Stake more than 1k iDna: 0.92
+  * Idena Identity State - Human: 1.63
+  * Idena Identity State - Newbie: 0.53
+  * Idena Identity State - Verified: 1.37
+* Lens Handle: 2.47
+* Linkedin Account: 1.04
+* NFT Holder: 0.71
 * PHI
-  * Active Rank Gold I \~ V (Earn 150,000 EXP \~ on Active Score): 1.16
-  * Active Rank Silver I \~ V (Earn 65,000 EXP \~ on Active Score): 1.67
-* Proof of Humanity: 1.21
+  * Active Rank Gold I \~ V (Earn 150,000 EXP \~ on Active Score): 1.18
+  * Active Rank Silver I \~ V (Earn 65,000 EXP \~ on Active Score): 1.69
+* Proof of Humanity: 1.23
 * Snapshot
-  * Created a DAO proposal that was voted on by at least 1 account: 2.82
-  * Voted on 2 or more DAO proposals: 1.41
-* Trusta Labs: 1.54
+  * Created a DAO proposal that was voted on by at least 1 account: 2.84
+  * Voted on 2 or more DAO proposals: 1.43
+* Trusta Labs: 2.02
 * Twitter
-  * Account created at least 180 days ago: 1.21
-  * Account created at least 1 year ago: 1.21
-  * Account created at least 2 years ago: 1.21
+  * Account created at least 180 days ago: 1.02
+  * Account created at least 1 year ago: 1.23
+  * Account created at least 2 years ago: 1.43
 * ZkSync
-  * ZkSync Lite: 0.4
-  * ZkSync Era: 0.4
+  * ZkSync Lite: 0.42
+  * ZkSync Era: 0.42
 
 The threshold for Gitcoin Passport Scoring is 15 and the maximum possible score is 100. Any score above 15 will be eligible for matching funding for their donations.
 

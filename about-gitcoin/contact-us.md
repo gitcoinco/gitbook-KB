@@ -16,6 +16,7 @@ We also offer live chat support on our website. To access this feature, simply c
 * [https://manager.gitcoin.co/](https://manager.gitcoin.co/)
 * [https://explorer.gitcoin.co/](https://explorer.gitcoin.co/)
 * [https://support.gitcoin.co/](https://support.gitcoin.co/)
+* [https://passport.gitcoin.co/](https://passport.gitcoin.co/)
 
 Our support team is available to assist you from 9 AM to 5 PM GMT, Monday through Friday. While we have less capacity on the weekends, we do our best to help.
 

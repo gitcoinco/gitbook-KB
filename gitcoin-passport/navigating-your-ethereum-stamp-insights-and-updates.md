@@ -46,4 +46,4 @@ Your Ethereum stamp dynamically evolves with your activity, serving as a credibl
 
 ## Need Help?
 
-For more details or assistance with your Ethereum stamp, please reach out to our support team. We're here to help you navigate your journey on the Ethereum mainnet.
+For more details or assistance with your Ethereum stamp, please [reach out to our support team](../about-gitcoin/contact-us.md). We're here to help you navigate your journey on the Ethereum mainnet.

@@ -34,7 +34,6 @@ Each of the following is a separate credential that you can obtain with the ETH 
 * **ETH Enthusiast:** Represents initial and growing engagement in the Ethereum network.
 * **ETH Pioneer:** A step up, reflecting ongoing commitment and active participation in Ethereum's growth.
 * **ETH Advocate:** Indicates a deeper, more consistent level of involvement.
-* **ETH Maxi:** The highest level, signifying substantial contributions and active participation in the Ethereum community.
 
 ## 7. Influence on Passport Credibility
 

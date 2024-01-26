@@ -24,9 +24,11 @@ The Passport score is calculated based on the data points verified in the partic
 * Discord: 0.71
 * ENS: 2.2
 * ETH
-  * ETH Advocate: 3.54
-  * ETH Pioneer: 3.54
-  * ETH Maxi: 3.54
+  * ETH Enthusiast: 2.65
+  * ETH Advocate: 2.65
+  * ETH Maxi: 2.65
+  * ETH Pioneer: 2.65
+  * ETH Maxi: 2.65
 * Gitcoin Grants
   * Contributed to at least 1 Grant: 2.93
   * Contributed to at least 10 Grant: 3.66

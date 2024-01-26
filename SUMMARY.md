@@ -26,7 +26,7 @@
 * [What is Gitcoin Passport?](gitcoin-passport/what-is-gitcoin-passport.md)
 * [Creating a Gitcoin Passport](gitcoin-passport/creating-a-gitcoin-passport.md)
 * [What are Stamps?](gitcoin-passport/what-are-stamps.md)
-* [Decoding the Ethereum Stamp in Your Gitcoin Passport: An In-Depth Guide](gitcoin-passport/decoding-the-ethereum-stamp-in-your-gitcoin-passport-an-in-depth-guide.md)
+* [Navigating Your Ethereum Stamp: Insights and Updates](gitcoin-passport/navigating-your-ethereum-stamp-insights-and-updates.md)
 * [Moving your Stamps onchain](gitcoin-passport/moving-your-stamps-onchain.md)
 * [Presenting your Passport](gitcoin-passport/presenting-your-passport.md)
 * [GTC Staking on your Identity](gitcoin-passport/identity-staking-questions/README.md)

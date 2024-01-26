@@ -9,12 +9,11 @@ description: >-
 
 ## 1. What is the Ethereum Stamp?
 
-The Ethereum stamp within your Gitcoin Passport is a sophisticated marker of your active participation on the Ethereum mainnet. It's designed not just to identify Sybil entities but also to recognize varying levels of user engagement. If you haven't received credentials under this stamp, it doesn't label you as Sybil. Instead, it indicates that the model currently does not have enough data to verify a higher level of engagement. It's important to note that continued authentic and diverse interaction with the Ethereum network can provide the necessary signals for the model to qualify your activities for a stamp in the future.
+The Ethereum stamp within your Gitcoin Passport is a sophisticated marker of your active participation on the Ethereum mainnet (Layer 1). It's designed to identify both Sybil entities while also varying levels of user engagement. If you haven't received credentials under this stamp, it doesn't label you as Sybil or bot. Instead, it indicates that the model currently does not have enough data to verify a higher level of engagement. It's important to note that continued authentic and diverse interaction with the Ethereum network can provide the necessary signals for the model to qualify your activities for a stamp in the future.
 
 ## 2. How the Ethereum Stamp Operates
 
-The stamp uses a binary classification model to assess your Ethereum transactions. This process involves analyzing your transaction patterns, smart contract interactions, and overall network participation to determine the stamp you receive.\
-
+The stamp uses a Gitcoin Passport built binary classification model to assess your Ethereum transactions. This process involves analyzing your transaction patterns, smart contract interactions, and overall network participation to determine the stamp you receive. This is trained against a large dataset of Ethereum addresses that contains both known Sybil bad actors and known human good actors.
 
 ## 3. Criteria for Receiving an Ethereum Stamp
 
@@ -30,9 +29,12 @@ Each Ethereum stamp you earn remains valid for 90 days. After this period, you n
 
 ## 6. Levels of the Ethereum Stamp
 
-* ETH Enthusiast: Represents initial and growing engagement in the Ethereum network.
-* ETH Pionier: Indicates a deeper, more consistent level of involvement.
-* ETH Maxi: The highest level, signifying substantial contributions and active participation in the Ethereum community.
+Each of the following is a separate credential that you can obtain with the ETH stamp. These are increasing in the level and quality of activity that is returned by the model. Each higher level includes additional points. If you have level 2 “Pioneer” you will get the points for both Enthusiast and Pioneer. If you have Maxi you will obtain the points for all 4 levels:
+
+* **ETH Enthusiast:** Represents initial and growing engagement in the Ethereum network.
+* **ETH Pioneer:** A step up, reflecting ongoing commitment and active participation in Ethereum's growth.
+* **ETH Advocate:** Indicates a deeper, more consistent level of involvement.
+* **ETH Maxi:** The highest level, signifying substantial contributions and active participation in the Ethereum community.
 
 ## 7. Influence on Passport Credibility
 
@@ -48,14 +50,13 @@ Consistent engagement in Ethereum activities is essential. A reduction in activi
 
 ## 10. Underlying Model Mechanics
 
-The stamp assessment utilizes advanced machine learning techniques, including XGBoost and feature importance analysis. The model is updated periodically to maintain its effectiveness and accuracy.
+The stamp assessment utilizes advanced machine learning techniques, to examine all of the activity by each address. This model includes over 55 different features to determine the score. A feature represents a type of activity such as total transactions or the number of NFTs held by the address. The model is updated periodically to maintain its effectiveness and accuracy.
 
 ## 11. Stamp Update Cycle
 
 Your Ethereum stamp is updated regularly, ensuring it accurately reflects your most recent activities on the Ethereum network.
 
-\
-12\. Addressing Stamp Accuracy Concerns
+## 12. Addressing Stamp Accuracy Concerns
 
 If you have concerns about the accuracy of your Ethereum stamp, you can reach out to the support team with detailed information about your Ethereum activities for further assistance.
 

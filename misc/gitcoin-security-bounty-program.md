@@ -73,3 +73,5 @@ Payouts will be awarded in ETH and converted from USD at the time of payout - pl
 |   High   |  $225  |
 |  Medium  |  $125  |
 |    Low   |   $30  |
+
+To report a security issue directly to Gitcoin devs, please email it to engineering@gitcoin.co

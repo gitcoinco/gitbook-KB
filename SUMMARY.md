@@ -86,6 +86,7 @@
   * [🤖 How do you prevent Sybil attacks?](gitcoin-grants/general-questions/how-do-you-prevent-sybil-attacks.md)
   * [🤨 I see a bug or I've got a question, what do I do?](gitcoin-grants/general-questions/i-see-a-bug-or-ive-got-a-question-what-do-i-do.md)
   * [🎉 How much volume has Gitcoin Grants done?](gitcoin-grants/general-questions/how-much-volume-has-gitcoin-grants-done.md)
+  * [🤔 What is our Quid Pro Quo Policy?](gitcoin-grants/general-questions/what-is-our-quid-pro-quo-policy.md)
 
 ## About Gitcoin
 

@@ -2,7 +2,7 @@
 description: Verify Only Your Lens Handle
 ---
 
-# Guide to Add Lens Stamp to Gitcoin Passport
+# 🔌 Guide to Add Lens Stamp to Gitcoin Passport
 
 Gitcoin Passport recognizes your Lens Handle for verification points, not your Lens Profile.
 
@@ -32,4 +32,4 @@ If you need help, please reach out to our [support team](mailto:support@gitcoin.
 
 ## Need Help?
 
-For more details or assistance with your Lens stamp, please [reach out to our support team](../about-gitcoin/contact-us.md).
+For more details or assistance with your Lens stamp, please [reach out to our support team](../../about-gitcoin/contact-us.md).

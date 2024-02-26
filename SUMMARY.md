@@ -20,6 +20,8 @@
   * [📚 Explorer Guide](gitcoin-grants-program/supporter-donor-faq/explorer-guide.md)
   * [📚 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
   * [📚 Why are donations on mainnet only?](gitcoin-grants-program/supporter-donor-faq/why-are-donations-on-mainnet-only.md)
+  * [Passport Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/README.md)
+    * [🔺 AVAX Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/avax-custom-scorer.md)
 
 ## Gitcoin Passport
 

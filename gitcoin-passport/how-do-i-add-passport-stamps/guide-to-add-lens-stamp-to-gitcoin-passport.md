@@ -26,10 +26,6 @@ The official way is through the [Lens Claim Portal](https://claim.lens.xyz/). Yo
 
 Note: There might be a delay after claiming your Handle before you can verify it.
 
-
-
-If you need help, please reach out to our [support team](mailto:support@gitcoin.co).
-
 ## Need Help?
 
 For more details or assistance with your Lens stamp, please [reach out to our support team](../../about-gitcoin/contact-us.md).

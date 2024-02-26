@@ -49,6 +49,7 @@
   * [🔌 Verifying Ethereum transactions to Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
   * [🔌 Guide to Add Lens Stamp to Gitcoin Passport](gitcoin-passport/how-do-i-add-passport-stamps/guide-to-add-lens-stamp-to-gitcoin-passport.md)
   * [🔌 Guide to Add Holonym Stamp to Gitcoin Passport](gitcoin-passport/how-do-i-add-passport-stamps/guide-to-add-holonym-stamp-to-gitcoin-passport.md)
+  * [🔌 Civic Stamp Verification Guide for Gitcoin Passport](gitcoin-passport/how-do-i-add-passport-stamps/civic-stamp-verification-guide-for-gitcoin-passport.md)
 * [Gitcoin Passport FAQ](gitcoin-passport/common-questions/README.md)
   * [🤔 Why do I need to rescore my passport after collecting a new stamp?](gitcoin-passport/common-questions/why-do-i-need-to-rescore-my-passport-after-collecting-a-new-stamp.md)
   * [🤔 How is Gitcoin Passport’s score calculated?](gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated.md)
@@ -141,9 +142,9 @@
 ## Misc
 
 * [GTC Delegation](misc/gtc-delegation/README.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
-  * [✈ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)
-  * [✈ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+  * [✈️ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
+  * [✈️ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)
+  * [✈️ Quadratic Lands Token Distribution web3 support-Delegate Voting Power](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
 * [🤔 cGrants/Bounties & Hackathons Sunsetting FAQ](misc/cgrants-bounties-and-hackathons-sunsetting-faq/README.md)
   * [🤔 What’s happening to the Hackathons and the Bounties program?](misc/cgrants-bounties-and-hackathons-sunsetting-faq/whats-happening-to-the-hackathons-and-the-bounties-program.md)
   * [🤔 How to retrieve my data from cGrants](misc/cgrants-bounties-and-hackathons-sunsetting-faq/how-to-retrieve-my-data-from-cgrants.md)

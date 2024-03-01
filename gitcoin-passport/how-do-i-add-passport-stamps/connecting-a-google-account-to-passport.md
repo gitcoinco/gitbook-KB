@@ -1,39 +1,37 @@
----
-description: Instructions on how to verify your Google account on Gitcoin Passport.
----
+# 🔌 Guide to Add a Google Stamp to Passport
 
-# 🔌 Connecting a Google account to Passport
+Embark on the journey to seamlessly integrate your Google account with your Gitcoin Passport through this step-by-step guide. This process not only enhances your Gitcoin Passport's credibility but also connects your digital footprint with the web3 space, reflecting your active engagement and identity verification within the ecosystem.
 
-This guide gives instructions on connecting a Google account to Gitcoin Passport and outlines any known issues.
+**Cost:** Free
 
-### Prerequisites
+**Time:** 1 minute
 
-* Google Account
-* Gitcoin Passport
-  * If you don't already have a Passport setup, you can follow our guide to do that first.
+**Validity:** 90 days
 
-### How to verify your Google account
+## Prerequisites
 
-Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
+* A Google account. If you don't already have one, you can create one at [account.google.com](https://www.google.com/account/about/?hl=en-US).
 
-Step 2: Click **Connect Account** on the Google stamp card.
+## How to verify your Google account
 
-<figure><img src="../../.gitbook/assets/google-one.png" alt=""><figcaption></figcaption></figure>
+1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.
+2. Click Connect on the Google stamp card.
+3. Select the toggles you want to use for your stamp then click Verify.
+4. You might get redirected to a popup window and prompted to:
+   * Sign in and / or select Google account that you want to connect
+   * Confirm the data that you will share with the Passport project
+   * After confirmation the popup window should close and you will be redirected to the Passport app
+5. A popup message, confirming the successful verification will be shown when the verification process is finalized
+6. In the  Passport browser window you can  confirm your account is now verified. You can confirm this by seeing the button that previously read as Connect Account will now say Verified. Alternatively, [you can inspect the Passport JSON.​](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-to-access-your-passport-json)
 
-Step 3: Select the toggles you want to use for your stamp then click **Verify.**
+### Troubleshooting
 
-<figure><img src="../../.gitbook/assets/google-two.png" alt=""><figcaption></figcaption></figure>
+If you encounter any issues during the process, Gitcoin offers support through a chat window located at the bottom right corner of the page on the Gitcoin website, as well as on many product pages. Alternatively, you can seek assistance via Gitcoin's Discord channel.
 
-Step 4: A signature request modal will pop up. Read it carefully and then click **Sign**.
+### FAQ:
 
-<figure><img src="../../.gitbook/assets/google-four.png" alt=""><figcaption></figcaption></figure>
+* **Why did I successfully claim the stamp but the score was not added?**\
+  Gitcoin Passport's scoring system assigns scores based on unique wallet addresses. If a stamp is claimed for the same Google account across multiple wallets, only the first claim will enhance your score. This measure prevents exploitation and maintains the integrity of scoring. To attribute the stamp to another wallet, the existing stamp must reach its 90-day expiry. See[ here](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/why-is-my-passport-score-not-adding-up) for detailed insights into stamp validity and scoring mechanics.
 
-Step 5: Return to the passport browser window and confirm your account is now verified.
-
-<figure><img src="../../.gitbook/assets/google-five.png" alt=""><figcaption></figcaption></figure>
-
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
-
-### Still not working?
-
-If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right ) on this page and many of our product pages, and we'll try to help resolve your issue.
+\
+\

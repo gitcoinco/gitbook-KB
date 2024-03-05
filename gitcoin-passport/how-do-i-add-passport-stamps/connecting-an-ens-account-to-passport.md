@@ -1,53 +1,59 @@
----
-description: Instructions on how to verify your ENS account on Gitcoin Passport.
----
+# 🔌 Guide to add ENS stamp to Passport
 
-# 🔌 Connecting an ENS account to Passport
-
-This guide gives instructions on connecting an ENS account to Gitcoin Passport and outlines any known issues.
-
-### Prerequisites
-
-* Gitcoin Passport
-  * If you don't already have a Passport setup, you can follow our guide to do that first.
-* An ENS address held on the wallet address associated with your Gitcoin Passport
-  * If you do not have an ENS account, you [can buy one directly from the ENS app](https://app.ens.domains/).
-
-### How to verify your ENS account
-
-Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
-
-Step 2: Click **Connect Account** on the ENS stamp card.
-
-<figure><img src="../../.gitbook/assets/ens-one.png" alt=""><figcaption></figcaption></figure>
-
-Step 3: Select the toggles you want to use for your stamp then click **Verify.**
-
-<figure><img src="../../.gitbook/assets/ens-three.png" alt=""><figcaption></figcaption></figure>
-
-Step 4: A signature request modal will pop up. Read it carefully and then click **Sign**.
-
-<figure><img src="../../.gitbook/assets/ens-four.png" alt=""><figcaption></figcaption></figure>
-
-Step 5: Return to the passport browser window and confirm your account is now verified.
-
-<figure><img src="../../.gitbook/assets/ens-five.png" alt=""><figcaption></figcaption></figure>
-
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+Enhance your web3 identity by connecting your Ethereum Name Service (ENS) account to your Gitcoin Passport. This guide provides a straightforward process for verifying your ENS stamp, aligning your decentralized domain with your Gitcoin activities.
 
 
 
-### Unable to verify ENS Stamp?
+Cost: ENS registration fees (variable) + Network fees
 
-If you receive the error Your address does not have an ENS domain associated, that means the owner bought an ENS domain but didn’t set the reverse records.
+Time: 5 minutes
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-31 at 8.46.47 PM.png" alt=""><figcaption></figcaption></figure>
+Validity: 90 days
 
-#### **Solution**
+Networks you can use: Ethereum
 
-1. You need to set up an ENS reverse record. Please refer to this helpful guide: [https://www.alpharithms.com/ens-reverse-records-guide-552211/](https://www.alpharithms.com/ens-reverse-records-guide-552211/)&#x20;
-2. Once you set the ENS reverse records correctly, please come back to verify your ENS stamp.
+## Prerequisites
 
-### Still not working?
+*   An ENS address held on the wallet address associated with your Gitcoin Passport.
 
-If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right) on this page and many of our product pages, and we'll try to help resolve your issue.
+    If you do not have an ENS account, you[ can buy one directly from the ENS app](https://app.ens.domains/).
+* The ENS must be set as your primary name.
+
+## How to verify your ENS account
+
+Ensure that you are eligible for the stamp by browsing to [https://app.ens.domains/](https://app.ens.domains/).&#x20;
+
+Input your wallet address in the search field and press enter.
+
+If you get a result like this where No primary name is set, or no names are found, you need to set your ens domain name as your primary domain. For information on how to set your primary name,  Please refer to [this help article from ENS](https://support.ens.domains/en/articles/7890756-the-primary-name).
+
+![](https://lh7-us.googleusercontent.com/tvscvQBqnUhmWzV3cZcUYNJ0W3G5BDESd0NHHkC\_W0sKA5JpM4cOlfRlNZaH4Nx6bv9a6L0Os-DTWzpVqfUUbp5V8oi3tPRjq\_2-DIZFpcMHEnfg3jXkxYaCjX7pwDA3z2baqB8jhqIJYyDn-Ueg9tQ)
+
+Please note that ENS subdomains are not eligible for the ENS stamp.
+
+The ENS name must also use one of the two default resolvers:
+
+* 0x231b0ee14048e9dccd1d247744d114a4eb5e8e63
+* 0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41
+
+The resolver for your ENS is shown here:
+
+![](https://lh7-us.googleusercontent.com/L9KSuNTv3MpXPwV9Herlr2nZ3tTIDNsGOdVr7s3ws4xkiz7qTJ6u7KxgDWPMS0gCsHF8HsFdtxo4zdNHARY8fgm3XbPsOPygexpAqsFR4H50n14FI-Zjdt-TLPupTMhMeP59gps1eO-5l8e6qlw7HIE)
+
+
+
+To verify your ENS account. Follow these steps
+
+1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.
+2. Click Connect on the ENS stamp card.
+3. Select the toggles you want to use for your stamp then click Verify.
+4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as Connect Account will now say Verified. Alternatively, [you can inspect the Passport JSON.​](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-to-access-your-passport-json)
+
+### FAQ:
+
+* Why did I successfully claim the stamp but the score was not added?\
+  When attempting to claim a stamp using more than one wallet address, the score associated with subsequent wallet addresses will not be added. It can happen in cases where the ENS domain was previously owned by a user who already claimed the ENS stamp with it. In order to obtain points in a different wallet, you will have to wait for the verified stamp to expire. Each stamp has a 90-day expiration. See[ here](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/why-is-my-passport-score-not-adding-up) for more information.
+
+### Troubleshooting
+
+If you encounter any issues during this process, our support team is ready to assist. You can reach out through the chat feature available at the bottom right corner of the Gitcoin Passport app. We're here to ensure a smooth verification process.&#x20;

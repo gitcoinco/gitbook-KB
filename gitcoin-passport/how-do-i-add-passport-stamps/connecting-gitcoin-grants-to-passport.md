@@ -1,39 +1,46 @@
----
-description: >-
-  Instructions on how to verify your Gitcoin Grants information on Gitcoin
-  Passport.
----
+# 🔌 Guide to Add PHI Stamp to Passport
 
-# 🔌 Connecting Gitcoin Grants to Passport
+This guide aims to streamline the PHI stamp verification process on your Gitcoin Passport, highlighting your active participation within the PHI ecosystem. Through PHI quests, you not only enrich your web3 experience but also authenticate your contributions on a platform that is at the intersection of gaming, NFTs, and DAO governance.
 
-This guide gives instructions on connecting your Gitcoin Grants information to Gitcoin Passport and outlines any known issues.
+**Cost:** \~7 Matic + Gas fees claiming quests
 
-### Prerequisites
+**Time:** \~ 10 minutes
 
-* A Gitcoin account
+**Validity:** 90 days
 
-### How to verify your Gitcoin Grants
+**Networks you can use:** Polygon
 
-Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
+## Prerequisites
 
-Step 2: Click **Connect Account** on the Gitcoin Grants stamp card.
+* PHI account ([https://quest.philand.xyz/](https://quest.philand.xyz/))
+* You have claimed the Active Rank Silver I Quest or higher
 
-<figure><img src="../../.gitbook/assets/gitcoingrants-one.png" alt=""><figcaption></figcaption></figure>
+## How to verify your Phi Stamp
 
-Step 3: Select the toggles you want to use for your stamp then click **Verify.**
+Browse to [https://quest.philand.xyz/](https://quest.philand.xyz/) and connect your passport wallet.
 
-<figure><img src="../../.gitbook/assets/gitcoingrants-two.png" alt=""><figcaption></figcaption></figure>
+Participate in the quests in order to improve your EXP score\
+&#x20;![](https://lh7-us.googleusercontent.com/ZFBnYkShRe8P4sbStCmKmdsJxWHaF9Y-kxpgdEn28w6VRueP9QzAMVylO0P74dkYCjjpNMsK1XnX\_yzTkRwh6CF-vk5XMfSE\_B3AwpJm\_W8Y9NrIEQ7o\_q9wXMcXAlUoy52cFmioRArNCELWnRl6LiA)
 
-Step **4**: A signature request modal will pop up. Read it carefully and then click **Sign**.
+Tip to easily identify quests available to you:&#x20;
 
-<figure><img src="../../.gitbook/assets/gitcoingrants-three.png" alt=""><figcaption></figcaption></figure>
+* Click Check All Eligibility to quickly check all quests that you are already eligible to claim
+* Click on the filter icon
+* Filter unclaimed\
+  &#x20;![](https://lh7-us.googleusercontent.com/WKAipHxq97-QrUlMhqV6LRBfhT\_lKp4U5aCEUpF7w5eKvdQ0r6UBnq0SetoNQXdRzE8VpTjJrPXrtQJofku7GQBNBhOGUZR-gek\_jSlHgpCp4VaZCrY3\_ZLW5BoxTUXKZhWaljlz3qC7F5nRGb7jS4E)
 
-Step 5: Return to the passport browser window and confirm your account is now verified.
+When you have the required EXP scores (65000 EXP) you can then claim the [Active Rank Silver Quests](https://quest.philand.xyz/?search=Active+Rank+silver) to be eligible for the Passport stamp. After you have claimed the Active Rank Silver/Gold quests, proceed to the next steps:
 
-<figure><img src="../../.gitbook/assets/gitcoingrants-four.png" alt=""><figcaption></figcaption></figure>
+1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.
+2. Click Connect on the PHI stamp card.
+3. Select the “PHI Activity” checkboxes, then click “Verify”.
+4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as Connect Account will now say Verified. Alternatively, [you can inspect the Passport JSON.​](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-to-access-your-passport-json)
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+## Troubleshooting
 
-### Still not working?
+If you encounter any issues during the process, Gitcoin offers support through a chat window located at the bottom right corner of the page on the Gitcoin website, as well as on many product pages. Alternatively, you can seek assistance via Gitcoin's Discord channel.
 
-If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right) on this page and many of our product pages, and we'll try to help resolve your issue.
+## FAQs
+
+* **I have more than 65000 EXP but I’m unable to claim the stamp**\
+  You need to first claim the Active Rank Silver I quest on Phi to claim the stamp. You need at least 65000 EXP to claim the quest. Once you have the required EXP score, you claim claim the quest [here](https://quest.philand.xyz/?search=Active+Rank+silver).

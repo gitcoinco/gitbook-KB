@@ -43,8 +43,8 @@ The general steps for every Stamp are:
 [connecting-a-github-account-to-passport.md](connecting-a-github-account-to-passport.md)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-gitcoin-grants-to-passport.md" %}
-[connecting-gitcoin-grants-to-passport.md](connecting-gitcoin-grants-to-passport.md)
+{% content-ref url="connecting-gitcoin-grants-to-passport-4.md" %}
+[connecting-gitcoin-grants-to-passport-4.md](connecting-gitcoin-grants-to-passport-4.md)
 {% endcontent-ref %}
 
 {% content-ref url="connecting-a-discord-account-to-passport.md" %}

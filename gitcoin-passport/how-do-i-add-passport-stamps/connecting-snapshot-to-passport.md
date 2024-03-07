@@ -1,33 +1,34 @@
----
-description: Instructions on how to verify your POAPs on Gitcoin Passport.
----
+# 🔌 Guide to Add Snapshot Stamp to Passport
 
-# 🔌 Connecting Snapshot to Passport
+In the evolving landscape of web3 and decentralized governance, your engagement with DAOs (Decentralized Autonomous Organizations) reflects your active participation and commitment. This guide provides a straightforward approach to verify your Snapshot stamp on Gitcoin Passport, showcasing your DAO involvement to the wider community.
 
-This guide gives instructions on connecting a Snapshot account to Gitcoin Passport and outlines any known issues.
+**Cost:** Free
 
-### How to verify your Snapshots
+**Time:** 5 minutes
 
-Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
+**Validity:** 90 days
 
-Step 2: Click **Verify Account** on the Snapshot stamp card.
+## Prerequisites
 
-<figure><img src="../../.gitbook/assets/snapshot-one.png" alt=""><figcaption></figcaption></figure>
+To qualify for the Snapshot stamp verification, you must have actively participated in DAO governance through Snapshot by meeting the following criteria:
 
-Step 3: Select the toggles you want to use for your stamp then click **Verify.**
+* Voted on at least two DAO proposals.
+* Created a DAO proposal that received votes from at least one other account.
 
-<figure><img src="../../.gitbook/assets/snapshot-two.png" alt=""><figcaption></figcaption></figure>
+## How to verify your Snapshot Stamp
 
-Step 4: A signature request modal will pop up. Read it carefully and then click **Sign**.
+You can see your Snapshot voting activities by browsing to your Snapshot profile https://snapshot.org/#/profile/\{{wallet address\}}\
+&#x20;![](https://lh7-us.googleusercontent.com/qr\_a85wHQrrtwZJH-3B\_xJpa1w3TXft7iF6lFz4JG5M2M7ulflTTywAR7w-qwVWPbW51OQJEk4RyocujLUYT3\_iAUuLr9MRsYOerl1Y\_5siI3gcDnIOn26iH5Qpoic3U2o-JtLwt8zNBtML0cbufZys)
 
-<figure><img src="../../.gitbook/assets/snapshot-three.png" alt=""><figcaption></figcaption></figure>
+\
+Once you can confirm that you have met the requirements, proceed to the next steps:
 
-Step 5: Return to the passport browser window and confirm your account is now verified.
+1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.
+2. Click Connect on the Snapshot stamp card.
+3. Select the checkboxes for the credentials you want then click Verify.
+4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as Connect will now say Verified. Alternatively, [you can inspect the Passport JSON.​](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-to-access-your-passport-json)
 
-<figure><img src="../../.gitbook/assets/snapshot-four.png" alt=""><figcaption></figcaption></figure>
+### Troubleshooting
 
-You can confirm this by seeing the button that previously read as Verify Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+If you encounter any issues during the process, Gitcoin offers support through a chat window located at the bottom right corner of the page on the Gitcoin website, as well as on many product pages. Alternatively, you can seek assistance via Gitcoin's Discord channel.
 
-### Still not working?
-
-If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right) on this page and many of our product pages, and we'll try to help resolve your issue.

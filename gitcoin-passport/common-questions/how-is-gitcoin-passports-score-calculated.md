@@ -17,10 +17,6 @@ The Passport score is calculated based on the data points verified in the partic
   * Holds a Civic Uniqueness Pass: 3.29
   * Holds a Civic Liveness Pass: 2.27
 * Coinbase: 1.37
-* CyberConnect
-  * Premium CyberProfile Handle (length is between 1 and 6 characters): 1.23
-  * Paid CyberProfile Handle (length is between 7 and 12 characters): 1.23
-  * Organization Membership: 1.23
 * Discord: 0.71
 * ENS: 2.2
 * ETH

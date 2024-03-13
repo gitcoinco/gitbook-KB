@@ -22,11 +22,11 @@ As of November 2023, Gitcoin Passport just released three new credentials you ca
 \
 The credentials are:
 
-* Community Investor Silver: Stake 5 GTC on 1 account or have 1 account stake 5 GTC on you.
-* Community Investor Gold: Stake 10 GTC on 2 accounts or have 2 accounts stake 10 GTC on you.
-* Trust Anchor: Receive stakes from 5 unique users, each staking a minimum of 20 GTC on you.
+* Beginner Community Staker: Stake 5 GTC on at least 1 account or have 1 account stake 5 GTC on you.
+* Experienced Community Staker: Participate in two staking actions, each involving at least 10 GTC. Options include: staking on two different accounts, receiving stakes from two different accounts, or a mutual stake. Every stake must be a minimum of 10 GTC.
+* Trusted Citizen: Receive stakes from 5 unique users, each staking a minimum of 20 GTC on you.
 
-Each credential earns you 1.27 points.
+Each credential earns you 1.29 points.
 
 When you stake at least 5 GTC on a member of the community, you are attesting to the authenticity of their identity—in other words, their trustworthiness as web3 citizens. This means that the individual will be able to claim the Community Investor Silver credential, and you will be able to claim the same credential as well.\
 \

@@ -1,40 +1,38 @@
----
-description: Instructions on how to verify your PoH account on Gitcoin Passport.
----
+# 🔌 Guide to Add Proof of Humanity account to Passport
 
-# 🔌 Connecting a Proof of Humanity (PoH) account to Passport
+This guide is designed to help you link your Proof of Humanity (PoH) account to your Gitcoin Passport, a process that underscores your verified human identity within the ecosystem. Following these steps will ensure your active participation is recognized and validated.
 
-This guide gives instructions on connecting a PoH account to Gitcoin Passport and outlines any known issues.
+**Cost:** 0.125 ETH deposit (refundable once the vouching is complete) + gas fees
 
-### Prerequisites
+**Time:** Approximately 3 - 5 days
 
-* Gitcoin Passport
-  * If you don't already have a Passport setup, you can follow our guide to do that first.
-* A PoH account associated with the wallet address registered on your Gitcoin Passport
-  * If you do not have a PoH account, you can [create one on the PoH platform](https://www.proofofhumanity.id/).
+**Validity:** 90 days&#x20;
 
-### How to verify your PoH account
+**Network:** Ethereum
 
-Step 1: [Go to passport.gitcoin.co](https://passport.gitcoin.co/) and connect your wallet.
+## Prerequisites
 
-Step 2: Click **Connect Account** on the POH stamp card.
+* Ensure you have a Gitcoin Passport. If not, set one up by following the available guide on the Gitcoin website.
+* You must have a PoH account linked to the wallet address registered on your Gitcoin Passport. If you haven’t registered with PoH yet, you can do so on the [Proof of Humanity](https://app.proofofhumanity.id/) platform. (Note this will require posting a live video of your face and voice which will be linked to your wallet, if you are uncomfortable with doxxing this information, please choose another stamp).
 
-<figure><img src="../../.gitbook/assets/poh-one.png" alt=""><figcaption></figcaption></figure>
+## How to verify your PoH profile
 
-Step 3: Select the toggles you want to use for your stamp then click **Verify.**
+Please see detailed Proof of Humanity walkthrough on how to recreate a profile and register here: [PoH Tutorial](https://docs.kleros.io/products/proof-of-humanity/proof-of-humanity-tutorial).
 
-<figure><img src="../../.gitbook/assets/poh-three.png" alt=""><figcaption></figcaption></figure>
+\
+Verify that you have a registered PoH profile. You can do this by browsing to [https://app.proofofhumanity.id/](https://app.proofofhumanity.id/). Select the Profiles tab and filter by “Registered”. Then proceed to search for your wallet address.
 
-Step 4: A signature request modal will pop up. Read it carefully and then click **Sign**.
+<figure><img src="https://lh7-us.googleusercontent.com/8N1DZMKOhKWI5UM5nPb3iA6kl5E1Pj93pvWHEmXn8CWbaRiDAe0gcq0zHbfTW-joiixBYbTUS0reZ1Vvqr6-FClnfKWlX5NWpqokZZtYmhjSna1UOaNx_8p0kr56fEsWXsXoMRN0Jy1emITJcQ6POac" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/poh-four.png" alt=""><figcaption></figcaption></figure>
+Once you can confirm that your profile is registered on PoH, proceed to the next steps:
 
-Step 5: Return to the passport browser window and confirm your account is now verified.
+1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.
+2. Click “Connect” on the Proof of Humanity Stamp card.
+3. Click the Account Name checkbox then click Verify.
+4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as “Connect” will now say Verified. Alternatively, [you can inspect the Passport JSON.​](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-to-access-your-passport-json)
 
-<figure><img src="../../.gitbook/assets/poh-five.png" alt=""><figcaption></figcaption></figure>
+### Troubleshooting
 
-You can confirm this by seeing the button that previously read as Connect Account will now say **Verified**. Alternatively, [you can inspect the Passport JSON.](../common-questions/how-to-access-your-passport-json.md)
+If you encounter any issues during the process, Gitcoin offers support through a chat window located at the bottom right corner of the page on the Gitcoin website, as well as on many product pages. Alternatively, you can seek assistance via Gitcoin's Discord channel.
 
-### Still not working?
-
-If you're unable to connect after following these steps, you can talk to the support team through the chat window (bottom right) on this page and many of our product pages, and we'll try to help resolve your issue.
+\

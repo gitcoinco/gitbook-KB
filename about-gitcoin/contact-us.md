@@ -6,7 +6,12 @@ There are two ways to reach us: through email and live chat on our websites.
 
 ### Email Support
 
-To reach us by email, please send your inquiries to [support@gitcoin.co](mailto:support@gitcoin.co). Our support team will respond to your email within 24 hours during business days. Please provide us with as much information as possible about your inquiry so we can assist you efficiently.
+For assistance via email, direct your queries to the appropriate address based on the nature of your inquiry:
+
+* For questions related to Passport, please email us at [support@passport.xyz](mailto:support@passport.xyz)
+* For inquiries concerning Gitcoin Grants or any other matters, reach out at [support@gitcoin.co](mailto:support@gitcoin.co)
+
+Our dedicated support team aims to reply to all emails within 24 hours on business days. To ensure we can provide the most effective support, please include detailed information about your issue or question in your message.
 
 ### Live Chat Support&#x20;
 

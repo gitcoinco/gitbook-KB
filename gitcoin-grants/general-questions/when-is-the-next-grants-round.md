@@ -10,14 +10,15 @@ We began this transition by introducing the [Alpha Test Season](https://go.gitco
 
 ## Current Grants Round
 
-* [GG18](https://www.gitcoin.co/blog/gitcoin-grants-round-18-results-and-recap) just concluded.
+* [GG19](https://www.gitcoin.co/blog/gg19-results-and-recap) just concluded.
 
 ## Upcoming Grants Rounds
 
-* _The next Gitcoin Grants round will run from Nov 15 - 29, 2023._
+* _The next Gitcoin Grants round will run from April 23 - May 7th._
 
 ## Previous Grants Rounds
 
+* GG19: November 15 - 29th
 * [GG18](https://www.gitcoin.co/blog/announcing-gitcoin-grants-18): August 15 - 29th
 * [Gitcoin Grants Beta Round](https://go.gitcoin.co/blog/announcing-the-gitcoin-grants-beta-round): April 25th - May 9th 2023
 * Gitcoin Program Alpha Round: Jan 17 - 31, 2023

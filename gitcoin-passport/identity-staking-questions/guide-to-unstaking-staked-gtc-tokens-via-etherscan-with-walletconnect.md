@@ -31,7 +31,9 @@ Click on the contract link, which will redirect you to the contract's page on Et
 
 ### 4. Interact with the Contract via WalletConnect
 
-In the "Write Contract" tab on Etherscan, connect your Ethereum wallet using WalletConnect. <img src="../../.gitbook/assets/image (13).png" alt="" data-size="original">
+In the "Write Contract" tab on Etherscan, connect your Ethereum wallet using WalletConnect.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Choose the Correct Function
 

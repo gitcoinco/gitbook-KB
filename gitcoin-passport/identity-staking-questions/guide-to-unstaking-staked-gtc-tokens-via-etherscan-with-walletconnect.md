@@ -2,7 +2,7 @@
 description: >-
   This guide is for Gitcoin Passport users who wish to unstake GTC that they
   have staked on themselves or others, using WalletConnect to interact with the
-  smart contract directly through Etherscan
+  smart contract directly through Etherscan.
 ---
 
 # Guide to Unstaking Staked GTC Tokens via Etherscan with WalletConnect
@@ -42,7 +42,10 @@ In the "Write Contract" tab on Etherscan, connect your Ethereum wallet using Wal
 
 ### 6. Input Required Information
 
-* For unstake: Enter the roundId and the amount you wish to unstake.
+*   For unstake: Enter the roundId and the amount you wish to unstake in uint256 format.&#x20;
+
+    For the amount you can use the [Unit Converter](https://etherscan.io/unitconverter) on Ether Scan to convert your GTC value to uint. Input the GTC amount you wish to unstake in the "Ether" section and then copy the corresponding value in the "Wei" section.\
+    &#x20;![](<../../.gitbook/assets/image (15).png>)
 * For unstakeUsers: Enter the roundId and the addresses for whom you've staked tokens.
 
 ### 7. Execute the Transaction
@@ -57,6 +60,7 @@ Monitor the status of your transaction on Etherscan with the transaction hash pr
 
 | Round       | Round ID     |
 | ----------- | ------------ |
+| Season 21   | 6            |
 | Season 20   | 5            |
 | Season 19   | 4            |
 | Season 18   | 3            |

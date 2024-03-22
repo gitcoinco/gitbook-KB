@@ -58,6 +58,7 @@
   * [🔌 Guide to add Civic Stamp Verification  to Passport](gitcoin-passport/how-do-i-add-passport-stamps/guide-to-add-civic-stamp-verification-to-passport.md)
   * [🔌 Guide to add Guild Stamp  to Passport](gitcoin-passport/how-do-i-add-passport-stamps/guide-to-add-guild-stamp-to-passport.md)
   * [🔌 Guide to Add Proof of Humanity account to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-proof-of-humanity-poh-account-to-passport.md)
+  * [🔌 Guide to Add Idena Stamp to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-proof-of-humanity-poh-account-to-passport-1.md)
   * [🔌 Connecting Gitcoin Grants to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-gitcoin-grants-to-passport-4.md)
   * [🔌 Verifying Ethereum transactions to Passport](gitcoin-passport/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
 * [Gitcoin Passport FAQ](gitcoin-passport/common-questions/README.md)

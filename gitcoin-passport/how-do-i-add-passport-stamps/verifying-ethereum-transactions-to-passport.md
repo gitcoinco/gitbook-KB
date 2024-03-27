@@ -35,10 +35,16 @@ To verify and  claim your Stamp, follow these simple steps:
 
 ### FAQ
 
-* I have an active Ethereum account, why can’t I claim the stamp?\
+* **What is the Ethereum Stamp?**\
+  The Ethereum stamp is not just a badge of participation but a nuanced indicator of genuine activity on Ethereum's mainnet (Layer 1). If you did not receive points, it doesn't imply you're seen as a Sybil entity. Rather, it means the model requires more robust activity data to confidently assign points under the new system.
+* **I have an active Ethereum account, why can’t I claim the stamp?**\
   If your Ethereum stamp doesn't seem to reflect your activity accurately, or if you have questions about its assessment, we encourage you to initiate a conversation with us through [this dedicated form](https://docs.google.com/forms/d/e/1FAIpQLSeZTx9rIJN52NKCAYwA1rpgzSEOPZrOh1QqBX7HDyf2FDTAHA/viewform). While we can't promise specific outcomes, we are committed to understanding your perspective and providing clarity on your stamp status. We value open dialogue and are here to ensure your contributions are recognized appropriately.
-* What can I do to increase my points?\
+* **What can I do to increase my points?**\
   The specifics of the model's criteria are kept under wraps to maintain the integrity of the stamp and prevent gaming the system. Rest assured, the model is designed to reward authentic, varied, and consistent participation on the network
+* **How does the Ethereum Stamp operate?**\
+  The stamp is powered by a Gitcoin Passport-specific binary classification model, trained on a dataset of known Ethereum addresses with established Sybil and human activity patterns, utilizing over 55 different activity features.
+* **Why did my score change?**\
+  We've refined the stamp to more accurately reflect the vibrant dynamism of Ethereum activities. While the previous version had merits, the updated stamp embraces a broader spectrum of engagements, ensuring a more inclusive and comprehensive representation of community involvement.
 
 ### Troubleshooting
 

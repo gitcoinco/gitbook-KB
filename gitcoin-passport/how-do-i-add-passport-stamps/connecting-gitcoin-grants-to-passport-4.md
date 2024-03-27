@@ -21,7 +21,9 @@ A qualifying Gitcoin Grants round is an official fundraising event led by Gitcoi
 
 Your donations during these official Gitcoin-funded rounds are what will count towards the stamp issuance. We recognize the importance of your contributions and are here to guide you through the process of obtaining recognition for your support. Should you have any uncertainties or require further clarification on the eligibility criteria, our support team is readily available to assist you.
 
-## Verifying Your Gitcoin Stamp:
+**NOTE**: After donating, you must manually claim your Gitcoin Grants stamp in your Gitcoin Passport.
+
+## Verifying Your Gitcoin Stamp in Passport:
 
 After ensuring that you meet all the requirements, verify and  claim your Stamp by following these simple steps:
 

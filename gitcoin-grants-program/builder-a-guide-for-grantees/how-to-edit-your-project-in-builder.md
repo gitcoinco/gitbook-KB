@@ -1,4 +1,4 @@
-# How to edit your project in Builder
+# ✏️ How to edit your project in Builder
 
 To edit your project on Builder, visit [builder.gitcoin.co](https://builder.gitcoin.co/).
 

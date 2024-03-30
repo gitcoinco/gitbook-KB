@@ -11,7 +11,7 @@ There are 2 separate steps that must be taken in order to participate in a grant
 
 1\. Create Your Grant on builder.gitcoin.co
 
-2\. [Apply to the specific Grant Round](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-apply-to-a-round-in-explorer) you wish to participate in
+2\. [Apply to the specific Grant](../explorer-a-guide-for-donors-and-the-general-community/how-to-apply-to-a-round-in-explorer.md) Round you wish to participate in
 
 #### Here you will find a step-by-step guide on #1 which is how to create your grant on builder.
 
@@ -55,7 +55,7 @@ b. if you are connecting your Organization GitHub please note you’ll need to a
 &#x20;a. A wallet prompt will open up again. To create the project, you’ll need to pay a gas fee, which will be displayed in your wallet window. Click on “Confirm” to finalize.\
 &#x20;b. It might take a few seconds for the transaction to process. Once it is complete, you’ll see a popup at the bottom that says, “Project Created!”
 
-7\. You can edit your project by following[ these simple instructions](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-protocol/edit-your-project-in-grants-hub). Note that each time you edit and “Save and Publish,” you will need to pay gas fees because creating/editing a project is now an on-chain transaction.
+7\. You can edit your project by following [these simple instructions](how-to-edit-your-project-in-builder.md). Note that each time you edit and “Save and Publish,” you will need to pay gas fees because creating/editing a project is now an on-chain transaction.
 
 \
 \

@@ -16,12 +16,12 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/identity-staking-questions" %}
 
-{% content-ref url="gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/" %}
-[explorer-a-guide-for-donors-and-the-general-community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/)
-{% endcontent-ref %}
-
 {% content-ref url="gitcoin-grants-program/builder-a-guide-for-grantees/" %}
 [builder-a-guide-for-grantees](gitcoin-grants-program/builder-a-guide-for-grantees/)
+{% endcontent-ref %}
+
+{% content-ref url="gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/" %}
+[explorer-a-guide-for-donors-and-the-general-community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/)
 {% endcontent-ref %}
 
 ###

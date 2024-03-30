@@ -16,11 +16,12 @@
   * [💲 How to donate?](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/how-to-donate.md)
   * [🌿 Transition to Allo v2: Explorer Guide](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/transition-to-allo-v2-explorer-guide.md)
 * [🪄 Program Managers/Round Operators](gitcoin-grants-program/program-managers-round-operators.md)
-* [Supporter (donor) FAQ](gitcoin-grants-program/supporter-donor-faq/README.md)
-  * [👁️ How can I view my past donations?](gitcoin-grants-program/supporter-donor-faq/how-can-i-view-my-past-donations.md)
-  * [💵 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [Passport Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/README.md)
-    * [🔺 AVAX Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/avax-custom-scorer.md)
+* [🧑‍💻 Grantee FAQs](gitcoin-grants-program/grantee-faqs.md)
+* [💰 Donor FAQs](gitcoin-grants-program/donor-faqs/README.md)
+  * [👁️ How can I view my past donations?](gitcoin-grants-program/donor-faqs/how-can-i-view-my-past-donations.md)
+  * [💵 How to connect your wallet](gitcoin-grants-program/donor-faqs/how-to-connect-your-wallet.md)
+  * [Passport Custom Scorer](gitcoin-grants-program/donor-faqs/passport-custom-scorer/README.md)
+    * [🔺 AVAX Custom Scorer](gitcoin-grants-program/donor-faqs/passport-custom-scorer/avax-custom-scorer.md)
 
 ## Gitcoin Passport
 

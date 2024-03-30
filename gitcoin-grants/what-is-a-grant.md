@@ -14,12 +14,12 @@ Have more questions? They might already be answered in our grants FAQs. If not, 
 
 ### Related topics
 
-{% content-ref url="grantee-questions/" %}
-[grantee-questions](grantee-questions/)
+{% content-ref url="../gitcoin-grants-program/grantee-faqs.md" %}
+[grantee-faqs.md](../gitcoin-grants-program/grantee-faqs.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../gitcoin-grants-program/supporter-donor-faq/" %}
+[supporter-donor-faq](../gitcoin-grants-program/supporter-donor-faq/)
 {% endcontent-ref %}
 
 {% content-ref url="general-questions/" %}

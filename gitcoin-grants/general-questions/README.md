@@ -2,7 +2,7 @@
 description: Get answers to questions commonly asked about Gitcoin Grants.
 ---
 
-# Gitcoin Grants FAQ
+# ⁉️ Gitcoin Grants FAQ
 
 We've curated a collection of the most commonly asked general questions about Gitcoin Grants. Don't see an answer to the question you have? Let us know by reaching out on [the Gitcoin Discord](https://discord.com/invite/b5PEjyVFXT), and we'll consider adding it.
 

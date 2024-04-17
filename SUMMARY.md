@@ -157,3 +157,4 @@
   * [🏢 Who chooses Stewards?](misc/dao-faq/who-chooses-stewards.md)
   * [🏢 How do I become a Gitcoin Steward?](misc/dao-faq/how-do-i-become-a-gitcoin-steward.md)
 * [Gitcoin Security Bounty Program](misc/gitcoin-security-bounty-program.md)
+* [🛡️ Passport](misc/passport.md)

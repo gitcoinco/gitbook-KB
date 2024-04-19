@@ -37,6 +37,7 @@
   * [How to ask a friend to participate in Identity Staking](gitcoin-passport/identity-staking-questions/how-to-ask-a-friend-to-participate-in-identity-staking.md)
   * [Guide to Unstaking Staked GTC Tokens via Etherscan with WalletConnect](gitcoin-passport/identity-staking-questions/guide-to-unstaking-staked-gtc-tokens-via-etherscan-with-walletconnect.md)
 * [Passport API and Smart Contracts](gitcoin-passport/passport-api-and-smart-contracts.md)
+* [Guide to Model-Based Detection](gitcoin-passport/guide-to-model-based-detection.md)
 * [Explorer 🤝 Passport Guide](gitcoin-passport/how-do-i-create-a-gitcoin-passport.md)
 * [How do I add Passport Stamps?](gitcoin-passport/how-do-i-add-passport-stamps/README.md)
   * [🔌 Guide to Add a Google Stamp to Passport](gitcoin-passport/how-do-i-add-passport-stamps/connecting-a-google-account-to-passport.md)

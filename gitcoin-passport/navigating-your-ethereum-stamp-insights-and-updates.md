@@ -29,12 +29,16 @@ If your Ethereum stamp doesn't seem to reflect your activity accurately, or if y
 
 ## 6. Deciphering Stamp Levels
 
-The Ethereum stamp encompasses several levels:
+The Ethereum stamp is divided into two main sections:
 
-* **ETH Enthusiast:** Your burgeoning engagement is taking root.
-* **ETH Pioneer:** Your continued commitment is making waves.
-* **ETH Advocate**: Your consistent involvement is shaping the community.
-* **ETH Maxi:** Your substantial contributions are leading the charge.
+1. Engagement Milestones: This categorizes users into tiered levels such as:
+   * ETH Enthusiast: Showcases initial engagement and support for the Ethereum ecosystem.
+   * ETH Advocate: Represents a higher level of commitment and activity
+   * ETH Maxi: Denotes exceptional involvement and dedication.&#x20;
+2. Your Ethereum Activity Metrics:
+   * Spend more than 0.25 ETH on gas: Highlights significant financial engagement with the network.
+   * Execute over 100 transactions: Indicates a robust level of transactional activity.
+   * Active on over 50 distinct days: Showcases sustained interaction with Ethereum.
 
 ## 7. How the Ethereum Stamp Operates
 

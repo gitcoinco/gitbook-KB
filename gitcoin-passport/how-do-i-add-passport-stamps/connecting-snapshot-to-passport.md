@@ -12,15 +12,10 @@ In the evolving landscape of web3 and decentralized governance, your engagement 
 
 To qualify for the Snapshot stamp verification, you must have actively participated in DAO governance through Snapshot by meeting the following criteria:
 
-* Voted on at least two DAO proposals.
 * Created a DAO proposal that received votes from at least one other account.
 
 ## How to verify your Snapshot Stamp
 
-You can see your Snapshot voting activities by browsing to your Snapshot profile https://snapshot.org/#/profile/\{{wallet address\}}\
-&#x20;![](https://lh7-us.googleusercontent.com/qr\_a85wHQrrtwZJH-3B\_xJpa1w3TXft7iF6lFz4JG5M2M7ulflTTywAR7w-qwVWPbW51OQJEk4RyocujLUYT3\_iAUuLr9MRsYOerl1Y\_5siI3gcDnIOn26iH5Qpoic3U2o-JtLwt8zNBtML0cbufZys)
-
-\
 Once you can confirm that you have met the requirements, proceed to the next steps:
 
 1. Go to [https://passport.gitcoin.co/](https://passport.gitcoin.co/) and "Sign in with Ethereum" to access your dashboard.

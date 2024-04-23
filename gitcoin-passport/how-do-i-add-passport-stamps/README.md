@@ -23,12 +23,12 @@ The general steps for every Stamp are:
 [connecting-an-ens-account-to-passport.md](connecting-an-ens-account-to-passport.md)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-a-proof-of-humanity-poh-account-to-passport.md" %}
-[connecting-a-proof-of-humanity-poh-account-to-passport.md](connecting-a-proof-of-humanity-poh-account-to-passport.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-a-twitter-account-to-passport.md" %}
-[connecting-a-twitter-account-to-passport.md](connecting-a-twitter-account-to-passport.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

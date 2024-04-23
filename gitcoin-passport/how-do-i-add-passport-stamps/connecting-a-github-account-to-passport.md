@@ -11,7 +11,6 @@ Integrating your GitHub account with your Gitcoin Passport not only demonstrates
 ## Prerequisites
 
 * A Github account. If you don't already have one, you can create one at [github](https://github.com).
-  * For the Account Creation Stamp, your account should be created at least 90 days ago.
   * For the Contribution Activity Stamp, you should have made github contributions on at least 30 distinct days. NOTE: Only contributions within the last 3 years are considered for this stamp.
 
 ## How to verify your Github account

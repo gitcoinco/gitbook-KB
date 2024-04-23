@@ -1,4 +1,4 @@
-# 🔌 Guide to add Guild Stamp  to Passport
+# 🔌 Guide to add Guild Stamp to Passport
 
 This detailed guide is designed to assist you in adding the Guild stamp to your Gitcoin Passport. This stamp not only showcases your active involvement in various Guilds but also enhances your trustworthiness and credibility within the web3 ecosystem.
 
@@ -10,10 +10,6 @@ This detailed guide is designed to assist you in adding the Guild stamp to your 
 
 ## Prerequisites
 
-* For the Guild Member Stamp:
-  * You must be a member of at least 5 Guilds
-  * You must have at least 15 roles across your Guilds
-  * For a Guild to qualify, it needs to have more than 250 members
 * For the Guild Admin Stamp:
   * You must be an owner or admin of at least one Guild
   * The Guild must have more than 250 members
@@ -32,9 +28,6 @@ Please note that on this page, you will see:
 * All Guilds you are a member of
 * The total number of roles available within those Guilds
 * The total number of members in those Guilds
-
-To see the number of roles you have in each Guild, you will need to open each Guild. For instance, in the image above, Polygon has 18 roles, but as can be seen in the image below, the user only has one role in Polygon Guild\
-![](https://lh7-us.googleusercontent.com/ExvCLmAVN250dTpU5xrAetRaKHYblL1\_YYrV71MTXjG-WtiBUbLvHRGRRANLEwrmt10gRt8UsPm6GfuVNuT31yfR2s2qcY0MxRzry1hhfNT0ZM9p6NJlfZclfGxFnYCeIMM83YrH12BpI2hExrZlzZQ)
 
 After checking that you’re eligible for the stamp, follow these steps:
 

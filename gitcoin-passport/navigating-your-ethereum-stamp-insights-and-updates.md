@@ -25,16 +25,20 @@ The 90-day renewal cycle ensures that the stamp remains a current and accurate p
 
 ## 5. Addressing Your Stamp Concerns
 
-If your Ethereum stamp doesn't seem to reflect your activity accurately, or if you have questions about its assessment, we encourage you to initiate a conversation with us through this [dedicated form](https://docs.google.com/forms/d/e/1FAIpQLSeZTx9rIJN52NKCAYwA1rpgzSEOPZrOh1QqBX7HDyf2FDTAHA/viewform). While we can't promise specific outcomes, we are committed to understanding your perspective and providing clarity on your stamp status. We value open dialogue and are here to ensure your contributions are recognized appropriately.
+If your Ethereum stamp doesn't seem to reflect your activity accurately, or if you have questions about its assessment, we encourage you to initiate a conversation with us through this [dedicated form](https://docs.google.com/forms/d/e/1FAIpQLSfvQdwpCLyL0ZX1zOz\_DepTrjbgwo77GwEeK16Z8hPWqoQMTA/viewform). While we can't promise specific outcomes, we are committed to understanding your perspective and providing clarity on your stamp status. We value open dialogue and are here to ensure your contributions are recognized appropriately.
 
 ## 6. Deciphering Stamp Levels
 
-The Ethereum stamp encompasses several levels:
+The Ethereum stamp is divided into two main sections:
 
-* **ETH Enthusiast:** Your burgeoning engagement is taking root.
-* **ETH Pioneer:** Your continued commitment is making waves.
-* **ETH Advocate**: Your consistent involvement is shaping the community.
-* **ETH Maxi:** Your substantial contributions are leading the charge.
+1. Engagement Milestones: This categorizes users into tiered levels such as:
+   * ETH Enthusiast: Showcases initial engagement and support for the Ethereum ecosystem.
+   * ETH Advocate: Represents a higher level of commitment and activity
+   * ETH Maxi: Denotes exceptional involvement and dedication.&#x20;
+2. Your Ethereum Activity Metrics:
+   * Spend more than 0.25 ETH on gas: Highlights significant financial engagement with the network.
+   * Execute over 100 transactions: Indicates a robust level of transactional activity.
+   * Active on over 50 distinct days: Showcases sustained interaction with Ethereum.
 
 ## 7. How the Ethereum Stamp Operates
 

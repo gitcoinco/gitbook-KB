@@ -60,12 +60,12 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [can-i-integrate-gitcoin-passport-into-my-dapp.md](can-i-integrate-gitcoin-passport-into-my-dapp.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-access-your-passport-json.md" %}
-[how-to-access-your-passport-json.md](how-to-access-your-passport-json.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-download-your-passport-json.md" %}
-[how-to-download-your-passport-json.md](how-to-download-your-passport-json.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Did we answer your question?

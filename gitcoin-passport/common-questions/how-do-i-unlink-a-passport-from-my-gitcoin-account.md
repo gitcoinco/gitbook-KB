@@ -8,11 +8,11 @@ _This is unfortunately not possible yet._ However, you could overwrite your subm
 
 ### Still not working?
 
-If you aren't able to unlink your Passport manually, you can email Gitcoin support at [support@gitcoin.co](mailto:support@gitcoin.co).
+If you aren't able to unlink your Passport manually, you can email Gitcoin support at [support@passport.xyz](mailto:support@passport.xyz) .
 
 #### The information we require
 
-In your email to [support@gitcoin.co](mailto:support@gitcoin.co), please include the following information:
+In your email to [support@passport.xyz](mailto:support@passport.xyz), please include the following information:
 
 * Your **Gitcoin** username
 * The email associated with your **GitHub** account

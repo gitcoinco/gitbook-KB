@@ -34,10 +34,6 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [how-is-gitcoin-passports-score-calculated.md](how-is-gitcoin-passports-score-calculated.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="how-do-i-unlink-a-passport-from-my-gitcoin-account.md" %}
 [how-do-i-unlink-a-passport-from-my-gitcoin-account.md](how-do-i-unlink-a-passport-from-my-gitcoin-account.md)
 {% endcontent-ref %}
@@ -60,14 +56,6 @@ We've curated a collection of some commonly asked questions about Gitcoin Passpo
 [can-i-integrate-gitcoin-passport-into-my-dapp.md](can-i-integrate-gitcoin-passport-into-my-dapp.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### Did we answer your question?
 
-Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or reach out to our support team via live chat on our website or email at [support@gitcoin.co](mailto:support@gitcoin.co).
+Don't see an answer to your question? [Join the Gitcoin Discord](https://discord.gg/b5PEjyVFXT) or reach out to our support team via live chat on our website or email at [support@passport.xyz](mailto:support@passport.xyz).

@@ -12,6 +12,10 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
+
+{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/identity-staking-questions" %}
+
 {% content-ref url="gitcoin-grants-program/builder-a-guide-for-grantees/" %}
 [builder-a-guide-for-grantees](gitcoin-grants-program/builder-a-guide-for-grantees/)
 {% endcontent-ref %}

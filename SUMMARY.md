@@ -19,8 +19,6 @@
 * [💰 Donor FAQs](gitcoin-grants-program/supporter-donor-faq/README.md)
   * [👁️ How can I view my past donations?](gitcoin-grants-program/supporter-donor-faq/how-can-i-view-my-past-donations.md)
   * [💵 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [Passport Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/README.md)
-    * [🔺 AVAX Custom Scorer](gitcoin-grants-program/supporter-donor-faq/passport-custom-scorer/avax-custom-scorer.md)
 
 ## Gitcoin Grants
 

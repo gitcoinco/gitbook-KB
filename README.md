@@ -12,8 +12,6 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
-{% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/how-is-gitcoin-passports-score-calculated" %}
-
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/identity-staking-questions" %}
 
 {% content-ref url="gitcoin-grants-program/builder-a-guide-for-grantees/" %}
@@ -24,10 +22,18 @@ Don't see your question below? You can use the search bar in the search through 
 [explorer-a-guide-for-donors-and-the-general-community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/)
 {% endcontent-ref %}
 
-###
+
+
+### Looking for Passport's knowledge base?
+
+We've moved Passport's support content to a new site.&#x20;
+
+Learn more by visiting [passport.md](misc/passport.md "mention")
+
+
 
 ### Did we answer your question?
 
 If you still need to contact Gitcoin Support directly:
 
-* [Email us at support@gitcoin.co](mailto:support@gitcoin.co)&#x20;
+* [Email us at support@gitcoin.co](mailto:support@gitcoin.co)

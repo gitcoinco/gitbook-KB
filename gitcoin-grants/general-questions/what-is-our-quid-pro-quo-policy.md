@@ -10,7 +10,7 @@ Side-incentives, or motivations external to the project's objectives distort con
 
 Our goal is to foster an environment where contributions are motivated by a genuine interest in the success of community-valued projects.&#x20;
 
-#### It is not allowed to reward a donor for their contributions to specific project(s). This means the following are not allowed:
+#### **It is not allowed to reward a donor for their contributions to specific project(s). This includes, but is not limited to, the following examples:**
 
 * Exclusive Invitations to events, meetings, or spaces for donors to specific projects
 * Personalized Rewards or Services, such as consulting or coaching, in exchange for donations

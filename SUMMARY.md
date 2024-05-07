@@ -89,6 +89,7 @@
 
 ## Misc
 
+* [Explorer 🤝 Passport Guide](misc/explorer-passport-guide.md)
 * [GTC Delegation](misc/gtc-delegation/README.md)
   * [✈️ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [✈️ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)

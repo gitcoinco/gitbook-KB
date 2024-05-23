@@ -4,7 +4,9 @@
 
 ## GRANTS STACK <a href="#gitcoin-grants-program" id="gitcoin-grants-program"></a>
 
-* [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack.md)
+* [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack/README.md)
+  * [🚨 Transitioning to Allo v2: What You Need to Know](gitcoin-grants-program/what-is-gitcoin-grants-stack/transitioning-to-allo-v2-what-you-need-to-know.md)
+  * [🦋 FAQs for Transitioning to Allo v2](gitcoin-grants-program/what-is-gitcoin-grants-stack/faqs-for-transitioning-to-allo-v2.md)
 * [⭐ Builder - a guide for Grantees](gitcoin-grants-program/builder-a-guide-for-grantees/README.md)
   * [📰 How to create a project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-create-a-project-in-builder.md)
   * [✏️ How to edit your project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-edit-your-project-in-builder.md)

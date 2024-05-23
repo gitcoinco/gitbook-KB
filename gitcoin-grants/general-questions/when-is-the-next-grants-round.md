@@ -4,7 +4,7 @@ description: Major changes to the Gitcoin quarterly Grants Rounds program
 
 # 📚 When is the next Grants Round?
 
-Historically, the Gitcoin Grants Rounds operate on a quarterly cadence. [Governance](https://gov.gitcoin.co/)  approved the decision to sunset centralized grants (cGrants) and transition to the [Gitcoin Grants Stack](../../gitcoin-grants-program/what-is-gitcoin-grants-stack.md).&#x20;
+Historically, the Gitcoin Grants Rounds operate on a quarterly cadence. [Governance](https://gov.gitcoin.co/)  approved the decision to sunset centralized grants (cGrants) and transition to the [Gitcoin Grants Stack](../../gitcoin-grants-program/what-is-gitcoin-grants-stack/).&#x20;
 
 We began this transition by introducing the [Alpha Test Season](https://go.gitcoin.co/blog/announcing-the-gitcoin-alpha-tests) late 2022, where we began testing our new protocol with partner rounds and a Gitcoin-managed round. Sticking with our quarterly cadence, we have entered the Beta phase of testing.&#x20;
 

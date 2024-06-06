@@ -1,6 +1,6 @@
 # 💡 How to add round operators to your round?
 
-In the Grants Manager(manage.gitcoin.co), we have introduced a new tab called "Manage Team" to help you efficiently manage your grants round team. This tab allows you to view and distinguish between admins and operators. Admins have the ability to add other round operators, while operators have the same capabilities as admins, except for the power to add new round operators.
+In the Grants Manager(manager.gitcoin.co), we have introduced a new tab called "Manage Team" to help you efficiently manage your grants round team. This tab allows you to view and distinguish between admins and operators. Admins have the ability to add other round operators, while operators have the same capabilities as admins, except for the power to add new round operators.
 
 To add a round operator to your grants round, follow these simple steps:
 

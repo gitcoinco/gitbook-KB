@@ -4,10 +4,10 @@ In the Grants Manager(manager.gitcoin.co), we have introduced a new tab called "
 
 To add a round operator to your grants round, follow these simple steps:
 
-1. Navigate to the "Manage Team" tab in your Grants Manager.
+1.  Navigate to the "Manage Team" tab in your Grants Manager.\
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-06-06 at 3.19.08 PM.png" alt=""><figcaption></figcaption></figure>
 
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-06-06 at 3.34.06 PM.png" alt=""><figcaption></figcaption></figure>
 2.  Identify the "Edit Round" option and click on it.\
 
 

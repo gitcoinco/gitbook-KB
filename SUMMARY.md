@@ -25,6 +25,7 @@
 * [Mechanisms](gitcoin-grants-program/mechanisms/README.md)
   * [Quadratic Funding](gitcoin-grants-program/mechanisms/quadratic-funding.md)
   * [MACI](gitcoin-grants-program/mechanisms/maci.md)
+  * [Direct Grants](gitcoin-grants-program/mechanisms/direct-grants.md)
   * [Retroactive Funding](gitcoin-grants-program/mechanisms/retroactive-funding.md)
 
 ## Gitcoin Grants

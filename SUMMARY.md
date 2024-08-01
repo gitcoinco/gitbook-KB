@@ -17,7 +17,7 @@
   * [💲 How to donate?](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/how-to-donate.md)
   * [🌿 Transition to Allo v2: Explorer Guide](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/transition-to-allo-v2-explorer-guide.md)
 * [🪄 Program Managers/Round Operators](gitcoin-grants-program/program-managers-round-operators/README.md)
-  * [💡 Add operators to Round](gitcoin-grants-program/program-managers-round-operators/add-operators-to-round.md)
+  * [💡 Add Operators to Round](gitcoin-grants-program/program-managers-round-operators/add-operators-to-round.md)
   * [💡 Add Manager to Program](gitcoin-grants-program/program-managers-round-operators/add-manager-to-program.md)
 * [🧑‍💻 Grantee FAQs](gitcoin-grants-program/grantee-faqs.md)
 * [💰 Donor FAQs](gitcoin-grants-program/supporter-donor-faq/README.md)

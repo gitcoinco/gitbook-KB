@@ -22,5 +22,7 @@ To add a member to your program, follow these steps:
 
 4.  Click **Write** and execute the transaction.
 
-    Warning: if you receive a similar message below, there is likely an error in the transaction. <img src="../../.gitbook/assets/image (21).png" alt="" data-size="original">
+    Warning: if you receive a similar message below, there is likely an error in the transaction. Double check the parameters, and that your connected wallet is the Program creator.
+
+    <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="230"><figcaption></figcaption></figure>
 

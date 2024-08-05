@@ -10,6 +10,7 @@
 * [⭐ Builder - a guide for Grantees](gitcoin-grants-program/builder-a-guide-for-grantees/README.md)
   * [📰 How to create a project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-create-a-project-in-builder.md)
   * [✏️ How to edit your project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-edit-your-project-in-builder.md)
+  * [💡 Transfer Project Ownership](gitcoin-grants-program/builder-a-guide-for-grantees/transfer-project-ownership.md)
   * [🌿 Transition to Allo v2: Builder Guide](gitcoin-grants-program/builder-a-guide-for-grantees/transition-to-allo-v2-builder-guide.md)
 * [⭐ Explorer - a guide for Donors & the General Community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/README.md)
   * [🔍 Navigating Explorer](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/navigating-explorer.md)

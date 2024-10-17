@@ -33,7 +33,7 @@
 ## Gitcoin Grants
 
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
-* [Bridging Docs](gitcoin-grants/bridging-docs.md)
+* [Bridging](gitcoin-grants/bridging-docs.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)

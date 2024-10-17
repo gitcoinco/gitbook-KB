@@ -38,3 +38,5 @@ For example, if you hold a MetMask wallet, it'll look a bit like this:
 * Finally, you must confirm and then connect
 
 <figure><img src="../../.gitbook/assets/Pre Donation Input 12.png" alt=""><figcaption></figcaption></figure>
+
+In case you dont have sufficient funds, Gitcoin now allows you to easily bridge funds and swap tokens across different chains within Grants Stack. Check out how you can use it [here](../../gitcoin-grants/bridging-docs.md)

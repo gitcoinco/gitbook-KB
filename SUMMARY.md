@@ -24,7 +24,7 @@
 * [💰 Donor FAQs](gitcoin-grants-program/supporter-donor-faq/README.md)
   * [👁️ How can I view my past donations?](gitcoin-grants-program/supporter-donor-faq/how-can-i-view-my-past-donations.md)
   * [💵 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [How to Mint Your Impact Attestation](gitcoin-grants-program/supporter-donor-faq/how-to-mint-your-impact-attestation.md)
+  * [🎉 How to Mint Your Impact Attestation](gitcoin-grants-program/supporter-donor-faq/how-to-mint-your-impact-attestation.md)
 * [Mechanisms](gitcoin-grants-program/mechanisms/README.md)
   * [Quadratic Funding](gitcoin-grants-program/mechanisms/quadratic-funding.md)
   * [MACI](gitcoin-grants-program/mechanisms/maci.md)

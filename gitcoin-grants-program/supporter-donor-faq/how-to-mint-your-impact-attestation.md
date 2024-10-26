@@ -5,7 +5,7 @@ description: >-
   the process step by step.
 ---
 
-# How to Mint Your Impact Attestation
+# 🎉 How to Mint Your Impact Attestation
 
 ### Donation Process
 

@@ -24,8 +24,8 @@ We've curated a collection of the most commonly asked general questions about Gi
 [are-there-any-grant-rules-i-need-to-follow.md](are-there-any-grant-rules-i-need-to-follow.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/FV419m979hCfOOBmyZOd" %}
+[Broken link](/broken/pages/FV419m979hCfOOBmyZOd)
 {% endcontent-ref %}
 
 
@@ -44,8 +44,8 @@ We've curated a collection of the most commonly asked general questions about Gi
 [how-do-you-prevent-sybil-attacks.md](how-do-you-prevent-sybil-attacks.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/MiwfAbcveioCfjjuFjS3" %}
+[Broken link](/broken/pages/MiwfAbcveioCfjjuFjS3)
 {% endcontent-ref %}
 
 

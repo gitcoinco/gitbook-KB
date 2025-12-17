@@ -17,8 +17,7 @@
 
 2.  Connect your wallet containing GTC.
 
-    \
-
+    <br>
 
     <figure><img src="https://lh5.googleusercontent.com/d4Bgo6rYyLF2n1Yqnqog8jffAWorvJwFia0K-m54s9U28fMnQ3rlHZTPOvUaxZZK2CbfID6XVXZMjHwPVJ_ddiN_Wu_9ust2as5B91Q2ptriM3sBhvjCqBxF-brb6ny0HwZV0AZkbV3BEwQPasw_RKgnSA=s2048" alt=""><figcaption></figcaption></figure>
 3.  Press “Delegate vote” button and select the option “Delegate to myself”.
@@ -28,8 +27,7 @@
     <figure><img src="https://lh6.googleusercontent.com/oWAypaX1q3987oMJZp7zW2iyuWkMSGK9XyzjS9DQGT65la4hPsf_7bEye8Zm0eqFKcoUTuiL2RT5ndqBwwpMojKM3EznKsnjXBrMPBf5yQba_VNLNBt4e4M1qHdQCRgha4Fu6MjhAJNkBoQ1wAKooxvdFA=s2048" alt=""><figcaption></figcaption></figure>
 4.  Confirm the transaction.
 
-    \
-
+    <br>
 
 
 
@@ -47,13 +45,11 @@
 
 3.  Connect your wallet containing GTC to the website.&#x20;
 
-    \
-
+    <br>
 
     <figure><img src="https://lh5.googleusercontent.com/RJ2z-479CFKhpCUIPDw8MyI4gbq2PsEUMD-4xbRXfpkK6uU50yqoZBPDpXwl_3I8U7F1hau_Yp_akuIvk3xZEFj0lDUJ4uTYV1__MnU5vGGfSJ5sZYrBGJTgjTHiNHfc9HPlnkn74-16KUUcodwGmz6bhw=s2048" alt=""><figcaption></figcaption></figure>
 4.  Confirm the transaction. \
-    \
-
+    <br>
 
     <figure><img src="https://lh5.googleusercontent.com/f_Uy7SmaNVGaQrM1fSpkoQTBZQn_OXK0IH6KrKbYHzTE-70gA_np_EQGW8bcYf_PEy_MHQ8ZwYjYEQFE8keciKxX0E1Bd2DZL2DnPCDUFTn3uw5aumgNUyLje-s12zPTPG1KAhWsC2mcmb4xY2nQHP38hQ=s2048" alt=""><figcaption></figcaption></figure>
 

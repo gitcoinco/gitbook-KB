@@ -10,8 +10,8 @@ We've curated a collection of the most commonly asked general questions about ho
 
 ### Governance
 
-{% content-ref url="what-are-governance-workstreams.md" %}
-[what-are-governance-workstreams.md](what-are-governance-workstreams.md)
+{% content-ref url="/broken/pages/4MRbIdEzjOCll7pi5FAf" %}
+[Broken link](/broken/pages/4MRbIdEzjOCll7pi5FAf)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-the-gitcoin-stewards-delegation-program.md" %}

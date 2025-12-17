@@ -1,6 +1,6 @@
 # 📚 What are Public Goods?
 
-> **“In economics, a "public good" refers to anything that is both **_**non-excludable**_** and **_**non-rivalrous,**_** that is, people can't be barred access, and one person's use doesn't degrade another's.**
+> **“In economics, a "public good" refers to anything that is both&#x20;**_**non-excludable**_**&#x20;and&#x20;**_**non-rivalrous,**_**&#x20;that is, people can't be barred access, and one person's use doesn't degrade another's.**
 
 Clean air is an example of a naturally occurring public good, while the electric grid is a public good created by people.
 

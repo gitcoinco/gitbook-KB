@@ -33,6 +33,6 @@ Many of Ethereum’s most trusted members have volunteered to be Gitcoin Steward
 [who-chooses-stewards.md](who-chooses-stewards.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/oVRxK9Lfsy7WfVw6eE6u" %}
+[Broken link](/broken/pages/oVRxK9Lfsy7WfVw6eE6u)
 {% endcontent-ref %}

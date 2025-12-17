@@ -22,38 +22,13 @@ There are three important concepts to know to understand how to interact with Gi
 
 1. Most of the action happens on [Discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or [Twitter](https://twitter.com/gitcoin)
 2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) are ultimately responsible for governing GitcoinDAO.
-3. Workstreams are the primary mechanism through which work is organized in the DAO.
-
-#### DAO Workstreams
-
-1. [Gitcoin Product Collective](https://www.notion.so/gitcoin/Gitcoin-Product-Collective-f2860138cbb24505b5cb2d8576119a78) is the DAO's product development team and [Moonshot Collective](https://gitcoin.notion.site/Moonshot-Collective-e8a5bbb2b6f3494db109849d159e1b51) was the DAO's rapid prototyping workstream. They have both merged into a single Workstream within the DAO.&#x20;
-2. [Public Goods](https://gitcoin.notion.site/Public-Goods-4ccd579f433c4dff9d8952314468d6e8) is focused on our mission of funding public goods.
-3. [Fraud Detection & Defense](https://gitcoin.notion.site/Fraud-Detection-Defense-2bde13c0b8e74fda81435d94e49e2703) is in charge of preventing fraud on Gitcoin Grants.
-4. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
-5. [DAO Ops](https://gitcoin.notion.site/DAO-Ops-84f425e281ae49579a2b4acf0bad5dd5) handles DAO operations.
-
-
-
-#### DAO’s Quarterly Cadence
-
-Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event of a Gitcoin Grants Round. Typically a quarter looks like this:
-
-1. Plan for the quarterly stacked event
-2. Execute the quarterly stacked event
-3. Learn from the quarterly stacked event
-4. Repeat
-
-The next quarterly event is a the [Gitcoin Grants Beta Round](https://go.gitcoin.co/blog/announcing-the-gitcoin-grants-beta-round), planned for April 25th - May 9th, 2023.
 
 ### How to get involved.
 
 Here are the ways you can get involved in the DAO.
 
-1. Signup for the weekly [GitcoinDAO Digest](https://form.typeform.com/to/ttNCMt8w?typeform-source=gov.gitcoin.co).
-2. Get engaged on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [Twitter](https://twitter.com/gitcoin)
-3. Check out [and see available openings on the streams](https://www.notion.so/gitcoin/Open-Positions-All-61278bb274694d5d8dd244657da31e1e).
-4. Use Gitcoin to earn, learn, or fund. (use links above).
-5. Explore any of the links below:
+1. Get engaged on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [Twitter](https://twitter.com/gitcoin)
+2. Explore any of the links below:
 
 ### Links
 
@@ -64,7 +39,6 @@ Here are the ways you can get involved in the DAO.
 * [Gitcoin discord](https://gitcoin.co/discord)
 * [GitcoinDAO Snapshot](https://snapshot.org/#/gitcoindao.eth/)
 * [GitcoinDAO Tally](https://www.withtally.com/governance/gitcoin)
-* [GitcoinDAO Twitter](https://twitter.com/gitcoindao)
 * [GitcoinDAO/GTC Governance token](https://etherscan.io/token/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f)
 
 ## Testimonials

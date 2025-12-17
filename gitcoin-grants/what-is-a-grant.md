@@ -6,7 +6,7 @@ Gitcoin’s mission began in 2017 by creating better incentives to support and f
 
 During a QF round, the community contributes to the project they feel should be funded and supported; a matching partner offers funds to match the community’s contributions, but not in a 1:1 match. Instead, the fund matching is more aligned with the sentiment of the community as opposed to the sheer dollar value amount raised by any grantee. The _number of contributions_ matters more than the _amount funded._
 
-_‍_If you want to keep up to date on our current and upcoming rounds, make sure to check the [Grantee Portal](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20) often or sign up for email updates by going to [Gitcoin.co](https://www.gitcoin.co/), scrolling to the bottom of the page and filling out the form, checking the box “Funding my Project” and submitting your info.
+_&#x200D;_&#x49;f you want to keep up to date on our current and upcoming rounds, make sure to check the [Grantee Portal](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20) often or sign up for email updates by going to [Gitcoin.co](https://www.gitcoin.co/), scrolling to the bottom of the page and filling out the form, checking the box “Funding my Project” and submitting your info.
 
 {% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
 
@@ -14,12 +14,12 @@ Have more questions? They might already be answered in our grants FAQs. If not, 
 
 ### Related topics
 
-{% content-ref url="../gitcoin-grants-program/grantee-faqs.md" %}
-[grantee-faqs.md](../gitcoin-grants-program/grantee-faqs.md)
+{% content-ref url="/broken/pages/rNaD0vsm0zurDFbu4Im0" %}
+[Broken link](/broken/pages/rNaD0vsm0zurDFbu4Im0)
 {% endcontent-ref %}
 
-{% content-ref url="../gitcoin-grants-program/supporter-donor-faq/" %}
-[supporter-donor-faq](../gitcoin-grants-program/supporter-donor-faq/)
+{% content-ref url="/broken/pages/wdXeHCJfyTGqODDZvPQC" %}
+[Broken link](/broken/pages/wdXeHCJfyTGqODDZvPQC)
 {% endcontent-ref %}
 
 {% content-ref url="general-questions/" %}

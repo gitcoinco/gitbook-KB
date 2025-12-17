@@ -12,12 +12,12 @@ Don't see your question below? You can use the search bar in the search through 
 
 {% embed url="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/what-is-gitcoin-grants-stack" %}
 
-{% content-ref url="gitcoin-grants-program/builder-a-guide-for-grantees/" %}
-[builder-a-guide-for-grantees](gitcoin-grants-program/builder-a-guide-for-grantees/)
+{% content-ref url="/broken/pages/KdjWpxLNQoHCjRSWkY5t" %}
+[Broken link](/broken/pages/KdjWpxLNQoHCjRSWkY5t)
 {% endcontent-ref %}
 
-{% content-ref url="gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/" %}
-[explorer-a-guide-for-donors-and-the-general-community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/)
+{% content-ref url="/broken/pages/btwP5mV3iQg1kMnm0eKT" %}
+[Broken link](/broken/pages/btwP5mV3iQg1kMnm0eKT)
 {% endcontent-ref %}
 
 

@@ -4,37 +4,11 @@
 
 ## GRANTS STACK <a href="#gitcoin-grants-program" id="gitcoin-grants-program"></a>
 
-* [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack/README.md)
-  * [🚨 Transitioning to Allo v2: What You Need to Know](gitcoin-grants-program/what-is-gitcoin-grants-stack/transitioning-to-allo-v2-what-you-need-to-know.md)
-  * [🦋 FAQs for Transitioning to Allo v2](gitcoin-grants-program/what-is-gitcoin-grants-stack/faqs-for-transitioning-to-allo-v2.md)
-* [⭐ Builder - a guide for Grantees](gitcoin-grants-program/builder-a-guide-for-grantees/README.md)
-  * [📰 How to create a project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-create-a-project-in-builder.md)
-  * [✏️ How to edit your project in Builder](gitcoin-grants-program/builder-a-guide-for-grantees/how-to-edit-your-project-in-builder.md)
-  * [💡 Transfer Project Ownership](gitcoin-grants-program/builder-a-guide-for-grantees/transfer-project-ownership.md)
-  * [🌿 Transition to Allo v2: Builder Guide](gitcoin-grants-program/builder-a-guide-for-grantees/transition-to-allo-v2-builder-guide.md)
-* [⭐ Explorer - a guide for Donors & the General Community](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/README.md)
-  * [🔍 Navigating Explorer](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/navigating-explorer.md)
-  * [📃 How to apply to a round in Explorer](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/how-to-apply-to-a-round-in-explorer.md)
-  * [💲 How to donate?](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/how-to-donate.md)
-  * [🌿 Transition to Allo v2: Explorer Guide](gitcoin-grants-program/explorer-a-guide-for-donors-and-the-general-community/transition-to-allo-v2-explorer-guide.md)
-* [🪄 Program Managers/Round Operators](gitcoin-grants-program/program-managers-round-operators/README.md)
-  * [💡 Add Operators to Round](gitcoin-grants-program/program-managers-round-operators/add-operators-to-round.md)
-  * [💡 Add Manager to Program](gitcoin-grants-program/program-managers-round-operators/add-manager-to-program.md)
-* [🧑‍💻 Grantee FAQs](gitcoin-grants-program/grantee-faqs.md)
-* [💰 Donor FAQs](gitcoin-grants-program/supporter-donor-faq/README.md)
-  * [👁️ How can I view my past donations?](gitcoin-grants-program/supporter-donor-faq/how-can-i-view-my-past-donations.md)
-  * [💵 How to connect your wallet](gitcoin-grants-program/supporter-donor-faq/how-to-connect-your-wallet.md)
-  * [🎉 How to Mint Your Impact Attestation](gitcoin-grants-program/supporter-donor-faq/how-to-mint-your-impact-attestation.md)
-* [Mechanisms](gitcoin-grants-program/mechanisms/README.md)
-  * [Quadratic Funding](gitcoin-grants-program/mechanisms/quadratic-funding.md)
-  * [MACI](gitcoin-grants-program/mechanisms/maci.md)
-  * [Direct Grants](gitcoin-grants-program/mechanisms/direct-grants.md)
-  * [Retroactive Funding](gitcoin-grants-program/mechanisms/retroactive-funding.md)
+* [What is Gitcoin Grants Stack?](gitcoin-grants-program/what-is-gitcoin-grants-stack.md)
 
 ## Gitcoin Grants
 
 * [What is the Gitcoin Grants program?](gitcoin-grants/what-is-a-grant.md)
-* [Bridging](gitcoin-grants/bridging-docs.md)
 * [How is the Gitcoin Grants program changing?](gitcoin-grants/how-is-the-gitcoin-grants-program-changing.md)
 * [Tips for Grant Success](gitcoin-grants/tips-for-grant-success.md)
 * [Gitcoin's KYC](gitcoin-grants/gitcoins-kyc.md)
@@ -100,7 +74,6 @@
 
 ## Misc
 
-* [Explorer 🤝 Passport Guide](misc/explorer-passport-guide.md)
 * [GTC Delegation](misc/gtc-delegation/README.md)
   * [✈️ Quadratic Lands Token Distribution web3 support- Signed Message Vote](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [✈️ Quadratic Lands Token Distribution web3 support- Token Claim](misc/gtc-delegation/quadratic-lands-token-distribution-web3-support-token-claim.md)
@@ -110,7 +83,6 @@
   * [🤔 How to retrieve my data from cGrants](misc/cgrants-bounties-and-hackathons-sunsetting-faq/how-to-retrieve-my-data-from-cgrants.md)
   * [🤔 What is happening to my data?](misc/cgrants-bounties-and-hackathons-sunsetting-faq/what-is-happening-to-my-data.md)
 * [Gitcoin Governance](misc/dao-faq/README.md)
-  * [🏢 What are the governance workstreams?](misc/dao-faq/what-are-governance-workstreams.md)
   * [🏢 What is the Stewards delegation program?](misc/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
   * [🏢 How do I get involved in Gitcoin governance?](misc/dao-faq/how-do-i-get-involved-in-governance.md)
   * [🏢 Who chooses Stewards?](misc/dao-faq/who-chooses-stewards.md)

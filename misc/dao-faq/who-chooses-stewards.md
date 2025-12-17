@@ -14,7 +14,7 @@ A Steward helps guide GitcoinDAO by engaging in the Gitcoin governance process a
 
 Technically, anyone can nominate themselves to [become a Steward](how-do-i-become-a-gitcoin-steward.md). However, the impact Steward's have is determined by the amount of GTC they have been delegated by the community support. The Stewards with the most voting power are those who the community have signalled&#x20;
 
-[Learn to delegate your GTC to a Steward.](broken-reference)
+[Learn to delegate your GTC to a Steward.](/broken/pages/oVRxK9Lfsy7WfVw6eE6u)
 
 ## Further reading
 
@@ -23,12 +23,12 @@ Technically, anyone can nominate themselves to [become a Steward](how-do-i-becom
 
 ## Related topics
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/ajYHI7zVPS0QCjrvQE6S" %}
+[Broken link](/broken/pages/ajYHI7zVPS0QCjrvQE6S)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/oVRxK9Lfsy7WfVw6eE6u" %}
+[Broken link](/broken/pages/oVRxK9Lfsy7WfVw6eE6u)
 {% endcontent-ref %}
 
 {% content-ref url="how-do-i-become-a-gitcoin-steward.md" %}
